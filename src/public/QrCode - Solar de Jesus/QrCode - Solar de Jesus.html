@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code - Solar de Jesus</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, rgb(242, 180, 143) 0%, rgb(230, 150, 110) 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 40px;
+            max-width: 500px;
+            width: 100%;
+            text-align: center;
+        }
+        
+        .header {
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            color: rgb(242, 180, 143);
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #666;
+            font-size: 14px;
+        }
+        
+        .qrcode-wrapper {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            margin: 30px 0;
+            display: inline-block;
+        }
+        
+        #qrcode {
+            display: inline-block;
+        }
+        
+        .info {
+            text-align: left;
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        
+        .info-item {
+            margin: 10px 0;
+            font-size: 14px;
+            color: #333;
+        }
+        
+        .info-item strong {
+            color: rgb(242, 180, 143);
+        }
+        
+        .icon {
+            margin-right: 8px;
+        }
+        
+        .footer {
+            margin-top: 25px;
+            padding-top: 20px;
+            border-top: 2px solid #e0e0e0;
+            color: #666;
+            font-size: 13px;
+        }
+        
+        .download-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 25px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: transform 0.2s;
+        }
+        
+        .download-btn:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🌟 Instituição Espírita de Caridade<br>Solar de Jesus</h1>
+            <p>Escaneie o QR Code para visualizar a localização</p>
+        </div>
+        
+        <div class="qrcode-wrapper">
+            <div id="qrcode"></div>
+        </div>
+        
+        <div class="info">
+            <div class="info-item">
+                <span class="icon">📍</span>
+                <strong>Endereço:</strong> Av. Leonel Beirão de Jesus, Nº 1555
+            </div>
+            <div class="info-item">
+                <span class="icon">🏘️</span>
+                <strong>Bairro:</strong> Sumaré
+            </div>
+            <div class="info-item">
+                <span class="icon">🌆</span>
+                <strong>Cidade:</strong> Montes Claros/MG
+            </div>
+            <div class="info-item">
+                <span class="icon">🕊️</span>
+                <strong>Referência:</strong> Em frente ao Cemitério
+            </div>
+            <div class="info-item">
+                <span class="icon">🌐</span>
+                <strong>Site:</strong> www.solardejesus.com.br
+            </div>
+            <div class="info-item">
+                <span class="icon">📸</span>
+                <strong>Instagram:</strong> @solardejesusmoc
+            </div>
+        </div>
+        
+        <button class="download-btn" onclick="downloadQRCode()">
+            ⬇️ Baixar QR Code
+        </button>
+        
+        <div class="footer">
+            <p>🌞 <em>Filhos da Luz a serviço do Cristo Redentor</em></p>
+        </div>
+    </div>
+    
+    <script>
+        // Endereço completo para o Google Maps
+        const endereco = "Av. Leonel Beirão de Jesus, 1555, Sumaré, Montes Claros, MG";
+        const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(endereco)}`;
+        
+        // Gerar QR Code
+        const qrcode = new QRCode(document.getElementById("qrcode"), {
+            text: googleMapsUrl,
+            width: 250,
+            height: 250,
+            colorDark: "#667eea",
+            colorLight: "#ffffff",
+            correctLevel: QRCode.CorrectLevel.H
+        });
+        
+        // Função para baixar o QR Code
+        function downloadQRCode() {
+            const canvas = document.querySelector('#qrcode canvas');
+            if (canvas) {
+                const url = canvas.toDataURL('image/png');
+                const link = document.createElement('a');
+                link.download = 'qrcode-solar-de-jesus.png';
+                link.href = url;
+                link.click();
+            }
+        }
+    </script>
+</body>
+</html>

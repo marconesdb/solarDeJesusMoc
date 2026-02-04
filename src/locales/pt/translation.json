@@ -1,0 +1,533 @@
+
+{
+  "navbar": {
+    "home": "Início",
+    "whoWeAre": "Quem Somos",
+    "ourHistory": "Nossa História",
+    "gallery": "Galeria",
+    "ourMoments": "Nossos Momentos",
+    "ourWorks": "Nossos Trabalhos",
+    "honorees": "Homenageados",
+    "spiritDoctrine": "Doutrina Espírita",
+    "basicWorks": "Obras Básicas",
+    "spiritArticles": "Artigos Espíritas",
+    "prayers": "Orações",
+    "downloads": "Downloads",
+    "bookSale": "Venda de Livros",
+    "donations": "Doações",
+    "contact": "Contato",
+    "language": "Idioma",
+    "english": "Inglês",
+    "french": "Francês",
+    "spanish": "Espanhol",
+    "portuguese": "Português"
+  
+},
+
+
+  "quotes": {
+    "quote1": {
+      "text": "Fora da caridade não há salvação.",
+      "author": "Allan Kardec"
+    },
+    "quote2": {
+      "text": "Deus nos concede, a cada dia, uma página de vida nova no livro do tempo. Aquilo que colocarmos nela, corre por nossa conta.",
+      "author": "Chico Xavier"
+    },
+
+    "quote3": {
+      "text": "Os homens semeiam na terra o que colherão na vida espiritual: os frutos da sua coragem ou da sua fraqueza.",
+      "author": "Allan Kardec"
+    },
+
+      "quote4": {
+          "text": "Nascer, morrer, renascer ainda e progredir sempre, tal é a lei.",
+          "author": "Allan Kardec"
+      },
+      "quote5": {
+          "text": "O maior bem que podemos fazer em prol da doutrina espírita é a sua divulgação.",
+          "author": "Bezerra de Menezes, psicografado por Chico Xavier"
+      },
+      "quote6": {
+          "text": "A vida na Terra é uma escola bendita, onde o sofrimento é o instrutor que ensina ao aluno rebelde as grandes lições da alma.",
+          "author": "André Luiz, psicografado por Chico Xavier"
+      },
+      "quote7": {
+          "text": "O perdão é a mais alta expressão do amor.",
+          "author": "Joanna de Ângelis, psicografado por  Divaldo Franco"
+      },
+      "quote8": {
+          "text": "Cada dificuldade vencida prepara o espírito para atingir a vitória maior.",
+          "author": "Emmanuel, psicografado por Chico Xavier"
+      },
+      "quote9": {
+          "text": "O amor é a força que une os mundos e rege os astros.",
+          "author": "Leon Denis"
+      },
+      "quote10": {
+          "text": "A coragem do amor cria a benção do perdão.",
+          "author": "Emmanuel, psicografado por Chico Xavier"
+      },
+      "quote11": {
+          "text": "A verdadeira religião é aquela que nos torna melhores.",
+          "author": "Allan Kardec"
+      },
+      "quote12": {
+          "text": "A caridade é o amor, é o sol que Nosso Senhor fez raiar claro e fecundo; alegrando nesta vida a existência dolorida dos que sofrem neste mundo!",
+          "author": "Casimiro Cunha, psicografado por Chico Xavier"
+      },
+      "quote13": {
+          "text": "A sua irritação não solucionará problema algum. O seu mau humor não modifica a vida. Não estrague o seu dia.",
+          "author": "Chico Xavier"
+      },
+      "quote14": {
+          "text": "A reencarnação é a justiça de Deus em ação.",
+          "author": "Eurípedes Barsanulfo"
+      },
+      "quote15": {
+          "text": "Fé inabalável só o é a que pode encarar a razão, em todas as épocas da humanidade.",
+          "author": "Allan Kardeck"
+      },
+     
+      "quote16": {
+          "text": "Melhore tudo, dentro de você, para que tudo melhore ao redor dos seus passos.",
+          "author": "Chico Xavier"
+      },
+      "quote17": {
+          "text": "Não conserveis ressentimentos no coração, sabendo que aquele que vos decepciona é um companheiro vencido pelos seus próprios conflitos.",
+          "author": "Bezerra de Menezes, psicografado por Chico Xavier"
+      },
+     
+      "quote18": {
+          "text": "Se erraste, não tombes em desespero, mas, trabalhando e servindo receberás de Deus a oportunidade da retificação e da paz.",
+          "author": "Meimei, psicografado por Chico Xavier"
+      },
+      "quote19": {
+          "text": "O Amor vencerá sempre, e, por isso, a dor será motivada a desaparecer de nosso ainda atribulado caminho.",
+          "author": "Bezerra de Menezes, psicografado por Chico Xavier"
+      },
+      "quote20": {
+          "text": "Nem sempre terás o que desejas, mas enquanto estiveres ajudando aos outros encontrarás os recursos de que precisas.",
+          "author": "Chico Xavier"
+      },
+      "quote21": {
+          "text": "A caridade é um exercício espiritual. Quem pratica o bem coloca em movimento as forças da alma.",
+          "author": "Chico Xavier"
+      },
+      "quote22": {
+          "text": "Depois da morte ninguém caminha com a luz alheia.",
+          "author": "Chico Xavier"
+      },
+      "quote23": {
+          "text": "Jesus põe a humildade na categoria das virtudes que aproximam de Deus e o orgulho entre os vícios que dele afastam a criatura.",
+          "author": "Allan Kardec"
+      },
+      "quote24": {
+          "text": "Perdoa agora, hoje e amanhã, incondicionalmente. Recorda que todas as criaturas trazem consigo as imperfeições e fraquezas que lhes são peculiares, tanto quanto, ainda desajustados, trazemos também as nossas.",
+          "author": "Emmanuel, psicografado por Chico Xavier"
+      },
+      "quote25": {
+          "text": "Silêncio para injúria e perdão às ofensas. Recorda que os agressores são doentes. Não permitas que os irmãos desequilibrados te destruam o trabalho ou te apaguem a esperança.",
+          "author": "Chico Xavier"
+      },
+      "quote26": {
+          "text": "O objetivo da sua vida na Terra não constitui a autoridade, a beleza ou o conforto efêmero. É o aperfeiçoamento espiritual.",
+          "author": "André Luiz, psicografado por Chico Xavier"
+      },
+      "quote27": {
+          "text": "A resposta de Deus pode tardar um pouco, mas jamais deixará de ser dada. Esse tempo de espera serve para provar a fé, a perserverança e a confiança. É um teste de paciência e a oportunidade de desenvolver a força interior, a alegria e a coragem.",
+          "author": "Bezerra de Menezes, psicografado por Chico Xavier"
+      },
+      "quote28": {
+          "text": "Ama-te, respeitando-te, e agindo de maneira que não te envergonhes de ti mesmo quando submetido ao crivo da consciência.",
+          "author": "Joanna de Ângelis, psicografado por Divaldo P. Franco"
+      },
+      "quote29": {
+          "text": "Sejam quais forem as circustâncias, acende a luz da esperança na mente, a alegria do Amor de Deus no coração e aguarda.",
+          "author": "Joanna de Ângelis, psicografado por Divaldo P. Franco"
+      },
+      "quote30": {
+          "text": "Pensa, todavia, no amparo de Deus e, em todos episódios da estrada, senti-lo-ás contigo no silêncio do coração.",
+          "author": "Emmanuel, psicografado por Chico Xavier"
+      },
+      "quote31": {
+          "text": "Em toda parte, a palavra é índice de nossa posição evolutiva. Indispensável aprimorá-la e enobrecê-la.",
+          "author": "Emmanuel, psicografado por Chico Xavier"
+      },
+      "quote32": {
+          "text": "Em todas as provações, ora e segue adiante, rogando ao Senhor te auxilie a sustentar a consciência tranquila, no desempenho dos deveres que te competem.",
+          "author": "Emmanuel, psicografado por Chico Xavier"
+      },
+      "quote33": {
+          "text": "Toda vez que a Justiça Divina nos procura para acerto de contas, se nos encontra trabalhando em benefício dos outros, manda a Misericórdia Divina que a cobrança seja suspensa por tempo indeterminado.",
+          "author": "Chico Xavier"
+      },
+      "quote34": {
+          "text": "A reencarnação é sempre evolução, recapitulação, ensino, aprendizado, e tudo isso custa esforço, obstáculos e suor. Entretanto, em muitas circunstâncias, é trabalho expiatório, regeneração ou processo curativo.",
+          "author": "André Luiz, psicografado por Chico Xavier"
+      },
+      "quote35": {
+          "text": "A nossa felicidade será naturalmente proporcional em relação à felicidade que fizermos para os outros. A alegria do próximo começa muitas vezes no sorriso que você lhe queira dar.",
+          "author": "Chico Xavier"
+      },
+      "quote36": {
+          "text": "Estude a si mesmo, observando que o auto conhecimento traz humildade e sem humildade é impossível ser feliz.",
+          "author": "Allan Kardec"
+      },
+      "quote37": {
+          "text": "Persiste mais um tanto. Não cultives o pessimismo. Centraliza-te no bem a fazer. Esquece as sugestões do medo destrutivo. Segue adiante, mesmo varando a sombra dos próprios erros. Avança ainda que seja por entre lágrimas. E assim vencerás.",
+          "author": "Chico Xavier"
+      },
+      "quote38": {
+          "text": "Ocupe o seu tempo disponível com o trabalho proveitoso, sem esquecer o descanso imprescindível ao justo refazimento. A sugestão das trevas chega até nós pela hora vazia.",
+          "author": "André Luiz, psicografado por Chico Xavier"
+      },
+      "quote39": {
+          "text": "Concede-te maior dose de confiança nos teus valores, honrando-te com o esforço para melhorar sempre e sem desânimo. Se erras, repete a ação, e se acertas, segue adiante.",
+          "author": "Joanna de Ângelis, psicografado por Divaldo P. Franco"
+      },
+      "quote40": {
+          "text": "...Caminha para adiante, regozija-te com o sofrimento que te ajusta as contas e abençoa os obstáculos que te fazem mais experiente e mais nobre!...",
+          "author": "Emmanuel, psicografado por Chico Xavier"
+      },
+      "quote41": {
+          "text": "Existem Benfeitores queridos que vos assessoram, que participam das vossas noites insones e das angústias dos vossos corações. Aprendei a ouvi-los, sintonizando com esses anjos tutelares através da oração, pelo pensamento voltado para o Bem.",
+          "author": "Bezerra de Menezes, psicografado por Chico Xavier"
+      },
+      "quote42": {
+          "text": "...Reajustemos-nos, para corresponder à proteção que o Senhor nos tem dispensado. A dificuldade é nosso degrau de ascensão. Não nos faltará o amparo Divino. Guardemos a serenidade ! Nossa fé viva, nosso valor!",
+          "author": "Bezerra de Menezes, psicografado por Chico Xavier"
+      },
+      "quote43": {
+          "text": "A batalha mais difícil de ser travada ocorre no teu mundo íntimo. Ninguém a vê, aplaude ou a censura. É tua. Vitoria, ou derrota, pertencerá a ti em silêncio. Nenhuma ajuda exterior poderá contribuir para o teu sucesso, ou conjuntura alguma te levará ao fracasso.",
+          "author": "Joanna de Ângelis, psicografado por Divaldo P. Franco"
+      },
+      "quote44": {
+          "text": "Coopera com a vida, esparzindo bençãos onde estejas, com quem te encontres, conforme surja a oportunidade. Retribui com amor ao amor que a vida te oferta...",
+          "author": "Joanna de Ângelis, psicografado por Divaldo P. Franco"
+      },
+      "quote45": {
+          "text": "Quando compreenderes que a colheita de hoje corresponde exatamente à semeadura de ontem, nada mais lamentarás a não ser a tua própria falta de discernimento no instante de escolher a semente que, deliberadamente, lançastes no solo da vida.",
+          "author": "André Luiz, psicografado por Chico Xavier"
+      },
+      "quote46": {
+          "text": "Não permitas que pensamentos infelizes criem raizes em tua mente. A vida não se resume aos problemas que defrontas neste momento. Acima deles, sorriem para ti inúmeras oportunidades de progresso espiritual. Basta que confies em Deus e faças o melhor ao teu alcance.",
+          "author": "Irmã Scheilla, psicografado por Chico Xavier"
+      },
+      "quote47": {
+          "text": "Ora e age. Serve e confia. O pessimismo nunca dispõe da última palavra. Espera por Deus e conserva a certeza de que Deus faz sempre o melhor.",
+          "author": "Emmanuel, psicografado por Chico Xavier"
+      },
+      
+      "quote48": {
+          "text": "Não percas a tua fé entre as sombras do mundo. Ainda que os teus pés estejam sangrando, segue para frente, erguendo-te por luz celeste acima de ti mesmo. Crê e trabalha. Esforça-te no bem e espera com paciência. Tudo passa e tudo se renova na Terra, mas o que vem do Céu permanecerá.",
+          "author": "Meimei, psicografado por Chico Xavier"
+      },
+      "quote49": {
+          "text": "Reserva-te o direito de permanecer indiferente às provocações de qualquer natureza. Numa época de insensatez como esta, o mal anda em liberdade, seduzindo os incautos.",
+          "author": "Joanna de Ângelis, psicografado por Divaldo P. Franco"
+      },
+      "quote50": {
+          "text": "Perdoa os teus perseguidores. Eles já são infelizes, em razão do que cultivam no íntimo e do que realmente são.",
+          "author": "Joanna de Ângelis, psicografado por Divaldo P. Franco"
+      },
+      "quote51": {
+          "text": "Quando estiveres a ponto de desfalecer, procura refúgio na oração. Orando, renovar-se-ão tuas paisagens mentais e morais, elevando-te o ânimo e reconfortanto-te espiritualmente.",
+          "author": "Joanna de Ângelis, psicografado por Divaldo P. Franco"
+      },
+
+
+      "quote52": {
+          "text": "Ergue o caído, ajuda o aturdido, socorre o aflito, doa-te à vida e a vida te responderá em dádivas de esperança e progresso superior.",
+          "author": "Joanna de Ângelis, psicografado por Divaldo P. Franco"
+      },
+
+      "quote53": {
+        "text": "O bem que você faz hoje pode ser esquecido amanhã. Faça o bem assim mesmo. Veja que, ao final das contas, é tudo entre você e Deus! Nunca foi entre você e os outros.",
+        "author": "Madre Teresa de Calcutá"
+    },
+
+    "quote54": {
+        "text": "",
+        "author": ""
+    }
+  },
+
+    "semanaEspirita": {
+      "title": "Deus, Cristo e Caridade",
+      "quote": "Meus filhos, na máxima: Fora da caridade não há salvação, estão encerrados os destinos dos homens, na Terra e no céu; na Terra, porque à sombra desse estandarte eles viverão em paz; no céu, porque os que a houverem praticado acharão graças diante do Senhor...",
+      "reference": "CAP 15, Item 10 - Evangelho Segundo o Espiritismo",
+      "author": "Allan Kardec"
+    },
+
+
+    "banner": {
+          "altText": "Imagem",
+          "title": "Seja um Voluntário da Alegria:",
+          "description": "Ofereça seu amor ao próximo, doando seu tempo e proporcionando consolo moral e espiritual."
+    },
+
+
+    "home": {
+    "prayerMoment": "Momento de Oração",
+    "prayerPlace": "Creche - Solar de Jesus",
+    "banner": {
+      "altText": "Imagem"
+    }
+    },
+
+
+        "footer": {
+          "rightsReserved": "&copy; Instituição Espírita de Caridade Solar de Jesus - {{year}} Todos os direitos reservados",
+          "address": "Endereço: Av. Leonel Beirão de Jesus, 1555, Bairro: Sumaré",
+          "postalCode": "CEP: 39402-547 - Montes Claros - MG/BR",
+          "cnpj": "CPNJ 21.355.599/0001-56",
+          "phone": "Telefone: (38) 3214-2878",
+          "alfredoContact": "Alfredo Lorenço: (38) 99979-9996",
+          "claudioContact": "Cláudio Mendes: (38) 99166-0454",
+          "email": "instituicaoespiritadecaridadesolardejesus@solardejesus.com.br",
+          "socialMedia": {
+            "facebook": "https://www.facebook.com/solardejesus/",
+            "instagram": "https://www.instagram.com/solardejesusmoc/",
+            "whatsapp": "https://wa.me/5538999799996"
+          }
+        },
+
+            "ourHistory": {
+              "helmet": {
+                "favicon": "/Favicons/favicon-16x16.png"
+              },
+              "main": {
+                "backgroundClass": "bg-gray-100 min-h-screen py-12 px-4 sm:px-6 lg:px-8",
+                "title": "Nossa História",
+                "founderTitle": "Nosso Fundador",
+                "founderName": "Francisco Soares da Silva",
+                "imageAlt": "Francisco Soares da Silva",
+                "history": {
+                  "paragraphs": [
+                    "No ano de 1930, Francisco Soares da Silva, conhecido como Chico Sapateiro, muda-se para Belo Horizonte, onde conhece o médium Antônio Loreto Flores, presidente do Centro Espírita Amor e Caridade. Lá desenvolve suas faculdades mediúnicas. Em uma das sessões mediúnicas, o Espírito Bezerra de Menezes, através do médium Flores, redigiu uma carta ao Chico Sapateiro. Nela revelava que o mesmo tinha uma missão nas terras do Norte de Minas: fundar uma casa espírita sob a proteção espiritual de Teresa de Jesus.",
+                    "Francisco não mediu esforços. Logo que se aposentou do DER, transferiu-se de Belo Horizonte para Montes Claros, determinado a fundar uma casa espírita na terra natal. No ano de 1979, no centro espírita Joana D`ark, situado então na Vila Guilhermina, conheci o Sr. Francisco (Chico Sapateiro). Na Verdade, foi um reencontro, pois a afinidade que se estabeleceu não podia ser traduzida em palavras. Ali desenvolvemos reuniões de estudos doutrinários e implantamos grupos de trabalhos.",
+                    "As reuniões mediúnicas aconteciam nas sextas-feiras. Numa dessas ocasiões, o espírito Eurípides Barsanulfo, através da mediunidade de Chico Sapateiro, advertiu o grupo a responsabilidade, pois, desde os tempos de adoração no templo de Apolo que alguns ali presentes haviam se convertido ao cristianismo, e que, na atualidade, estávamos compromissados com a vivência e divulgação do Espiritismo, de contribuir para resgatar o cristianismo puro deixado por Jesus, promovendo a quebra de paradigmas vigentes à época, buscando a convivência ascendente, mostrando que ambas são necessárias e complementares para o homem. Destacou Eurípides Barsanulfo que toda atividade desenvolvida obedecesse ao lema da bandeira do Espírito Ismael: Deus, Cristo e Caridade.",
+                    "O templo Solar de Apolo nos faz regredir ao ano 195 d.C junto à pequena cidade grega de Sicione, na região do Peloponeso, às margens do Golfo de Corinto, e Província Do Império Romano, da qual a Grécia fazia parte. Embora o cristianismo fosse tolerado nas províncias, a religião predominante era o culto aos deuses mitológicos. Apolo era consagrado às artes e à medicina nos santuários de Delfos e Elêusis. Houve relatos de que no Solar de Apolo aconteciam fenômenos mediúnicos. Com a presença do Apóstolo Paulo de Tarso na região, ocorreu grande número de conversões para o Cristianismo, e o Solar de Apolo se modificou para o Solar de Jesus. (Livro 'Solar de Apolo', de Zilda Gama).",
+                    "No dia 22 de outubro de 1982, fundamos o Centro Espírita Solar de Jesus, com as atividades na sede do Centro Espírita Joana Dark, onde fomos recebidos com muito carinho e respeito. Com o apoio do Presidente da Aliança Municipal Espírita de Montes Claros, Sr. Petrônio, realizamos o registro oficial da Instituição Espírita de Caridade Solar de Jesus, que passou a constar em cartório como entidade sem fins lucrativos, tendo Francisco Soares da Silva (Chico Sapateiro) como seu primeiro presidente.",
+                    "Foi uma tarefa executada com muita alegria e acompanhada de pessoas interessadas em desenvolver um grupo de estudos para que, posteriormente, a casa prestasse atendimento ao público. Nosso grupo contou inicialmente com Acácio Fonseca, Pedro Paulo, Maria José Fernandes, Eunice Aguiar, Willian Martins Santos, Durval Soares, Maria Adeide, Renilson Durães, Eugênio Assis e Athos Frões.",
+                    "Em 1998, surgiu a oportunidade de mudança, com a chegada da família Spyer Rabelo e, em seguida, do casal Marice e Paulo Dennucy. Foi a partir desse ano que conseguimos então fundar nossa Creche na Avenida Coração de Jesus, Bairro Major Prates, realizando convênio com a Secretaria de Educação para funcionamento da pré-escola e maternal. Mais uma experiência valiosa para nossa vida. Promovemos a partir daí campanhas de arrecadação de roupas e alimentos para irmãos em dificuldades; sopão comunitário para famílias mais necessitadas; palestras educativas e aulas de moral cristã.",
+                    "Todos sabíamos das responsabilidades em conduzir um trabalho 100% filantrópico. Como em todas as casas espíritas, também a nossa sofria, e sofre, com a rotatividade de colaboradores, fato compreendido por todos nós espíritas. Foram muitos os colaboradores que passaram e contribuíram de alguma forma para o crescimento do grupo.",
+                    "Rememorando esses acontecimentos, quando em nossa casa transcorre o 30º aniversário de fundação. Recordando especialmente o seu fundador, por quem sempre tive uma profunda admiração, deixo consignado aqui, a minha homenagem a um dos grandes pioneiros do Espiritismo no Norte de Minas. Que Jesus aumente as possibilidades do querido companheiro que continua a lutar pela causa comum do Plano Invisível."
+                  ],
+                  "author": "Alfredo Lourenço"
+                }
+              }
+            },
+
+    
+                "voluntariosDaAlegria": {
+                    "imageAlt": "Voluntários da Alegria Logo",
+                    "title": "Voluntários da Alegria",
+                    "subtitle": "Costurando roupinhas, tecendo alegrias: Voluntários da Alegria, Transformando Linhas em Momentos Especiais.",
+                    "description": "Na cidade de Montes Claros, MG, onde a luz brilhava intensamente com as cores da alegria, um grupo especial se reunia regularmente, conhecido como os Voluntários da Alegria. Eles compartilhavam uma paixão comum: a costura. Cada agulha e linha eram como extensões de seus corações generosos e eram manuseadas por mãos dedicadas. Um dia, perceberam que mães em desespero sussurravam em seus ouvidos porque seus filhinhos carentes estavam necessitando de roupas novas, e muitos iriam nascer sem roupa alguma. As crianças, com suas histórias únicas e sorrisos radiantes, eram a inspiração perfeita para os Voluntários da Alegria. O grupo reuniu-se em sua oficina, no Centro Espírita Solar de Jesus, onde tecidos coloridos e linhas vibrantes enchiam o ambiente de positividade. Cada voluntário escolheu um pedaço de tecido com cuidado, imaginando como poderiam transformá-lo em algo especial. Alguns escolheram padrões brilhantes, enquanto outros optaram por tons suaves, criando uma coleção diversificada, assim como as próprias crianças. Enquanto costuravam, compartilhavam histórias e risadas, criando um ambiente repleto de calor humano. As agulhas moviam-se com habilidade, transformando simples pedaços de pano em peças únicas e cheias de carinho. Quando as roupas estavam prontas, os Voluntários da Alegria partiram e foram ao encontro daquelas futuras mães e mães que teriam seus filhinhos em condições difíceis em razão da vulnerabilidade econômica e social. As mães foram recebidas com abraços calorosos e alegraram-se com as novas roupas feitas sob medida, seus rostos se iluminaram. Era mais do que vestuário; era uma manifestação tangível do cuidado e da atenção que cada voluntário colocara em cada ponto. Os Voluntários da Alegria não apenas costuraram roupas naquela tarde, mas também teceram laços indestrutíveis de amizade e compaixão. O trabalho deles não era apenas sobre criar vestimentas, mas sobre envolver os recém-nascidos em um abraço coletivo de amor e esperança. Desde então, os Voluntários da Alegria continuaram a costurar não apenas roupas, mas também histórias de solidariedade e alegria, mostrando que, com um pouco de criatividade e muita dedicação, é possível transformar tecido em tesouros que aquecem corações.",
+                    "videoTitle": "Aprenda a Costurar Roupas para Crianças Carentes - Voluntários da Alegria",
+                    "videoDescription": "Aprenda a costurar roupas para crianças necessitadas - Voluntários da Alegria | Centro Espírita Solar de Jesus"
+                },
+                "trabalhadoresUltimaHora": {
+                    "imageAlt": "Trabalhadores da Última Hora Logo",
+                    "title": "Trabalhadores da Última Hora",
+                    "subtitle": "Na Jornada Final, Trabalhadores da Luz: Semeando Amor e Esperança, Seguindo os Passos de Jesus.",
+                    "description": "Na cidade de Montes Claros, MG, os Trabalhadores da Última Hora são um grupo dedicado a servir e ajudar o próximo, inspirados pelos ensinamentos de Jesus. Eles se reúnem no Centro Espírita Solar de Jesus com o propósito de realizar trabalhos de caridade e solidariedade. Seguindo a parábola dos trabalhadores da última hora, o grupo acredita que nunca é tarde para fazer o bem e contribuir para a transformação social. Seu trabalho abrange diversas frentes de atuação, desde o apoio a famílias vulneráveis até a realização de projetos comunitários que visam melhorar a qualidade de vida das pessoas.",
+                    "videoTitle": "Venha Colaborar na Obra do Bem - Grupo Trabalhadores da Última Hora",
+                    "videoDescription": "Venha colaborar no trabalho do BEM - Grupo Trabalhadores da Última Hora - Centro Espírita Solar de Jesus"
+                },
+                "bazarSolarDeJesus": {
+                    "imageAlt": "Bazar Centro Espírita Solar de Jesus",
+                    "title": "Bazar Centro Espírita Solar de Jesus",
+                    "subtitle": "Brilhe com Solidariedade: Bazar Centro Espírita Solar de Jesus, Onde Cada Compra Ilumina Vidas!",
+                    "description": "Havia uma pequena comunidade, abraçada pela fé e pela vontade de fazer o bem. No coração dessa comunidade, erguia-se o Centro Espírita Solar de Jesus, um farol de amor e solidariedade. Um dia, um grupo de voluntários teve uma ideia brilhante para unir esforços e contribuir ainda mais para o bem-estar daqueles que necessitavam. Nascia assim o Bazar Centro Espírita Solar de Jesus. Este lugar especial tornou-se um ponto de encontro para doações generosas de roupas, utensílios domésticos e outros recursos materiais. A comunidade se mobilizou, cada pessoa trazendo um pedacinho de amor consigo. O Bazar, com suas prateleiras coloridas e vitrines cheias de histórias, transformou-se em um espaço de partilha. As roupas, antes guardadas nos armários, encontravam novos donos, proporcionando não apenas calor físico, mas também calor humano. Os recursos arrecadados ganhavam vida própria, transformando-se em auxílio material para os que mais necessitavam. Cada doação, cada peça de roupa, contava uma história de generosidade. E assim, o Bazar Centro Espírita Solar de Jesus não era apenas um local de transações comerciais, mas um ponto de encontro para corações solidários. As doações não eram simples objetos; eram abraços invisíveis, transmitindo amor e esperança. Ao final de cada jornada no Bazar, os voluntários sorriam sabendo que estavam fazendo a diferença na vida de muitos. O dinheiro arrecadado encontrava seu caminho para auxílio a projetos sociais, apoio a famílias em dificuldade e suporte a causas nobres. O Bazar Centro Espírita Solar de Jesus tornou-se um símbolo da capacidade humana de se unir em prol do próximo. Ele não apenas vestia corpos, mas também aquecia almas. Em cada peça doada e em cada compra realizada, ecoava o lema do centro: Iluminando Vidas, Espalhando Amor.",
+                    "videoDescription": "Bazar da Instituição Espírita de Caridade Solar de Jesus - Montes Claros-MG"
+                },
+                "evangelizacaoInfantil": {
+                    "imageAlt": "Evangelização Infantil Logo",
+                    "title": "Evangelização Infantil",
+                    "subtitle": "Plantando Sementes Divinas: Oficina de Amor, Valores e Espiritualidade para Pequenos Corações!",
+                    "description": "A evangelização espírita infantil é um trabalho espiritual que possui uma estrutura de estudo e entendimento das boas práticas, acolhimento e apoio tanto para as crianças como para suas famílias. Esse trabalho ajuda as crianças em sua formação moral através dos ensinamentos de Jesus. A Evangelização Infantil auxilia o ser a preparar-se para a vida adulta, para enfrentar os desafios terrenos, cultivando em si a prática de fazer o bem e o desenvolvimento da moral cristã. A evangelização espírita infantil é essencial para educar e atribuir valores morais, além de ensinar sobre o espiritismo para crianças. Além de aproximar o indivíduo com Deus, também o conecta consigo mesmo. A evangelização espirita proporciona um ambiente acolhedor e seguro para que as crianças e jovens possam se expressar livremente, compartilhar suas experiências e receber orientação adequada para lidar com as dificuldades da vida. É uma oportunidade de aprendizado e crescimento pessoal, que contribui para a formação de indivíduos mais conscientes e responsáveis.",
+                    "groupImageAlt": "Alunos e Educadora da Evangelização Infantil",
+                    "groupImageDescription": "Alunos e Educadora da Evangelização Infantil Centro Espírita Solar de Jesus - Montes Claros-MG"
+                },
+                "assistenciaSocial": {
+                    "imageAlt": "Assistência Social Logo",
+                    "title": "Assistência Social",
+                    "subtitle": "A Distribuição de Cestas Básicas Natal 2023 - Centro Espírita Solar de Jesus - Montes Claros - MG",
+                    "prayer": "*Oração para quem tem fome no Natal* Pai Celestial, No Natal, celebramos o nascimento de Jesus, o Pão da Vida. Mas sabemos que, em muitos lugares do mundo, ainda há pessoas que passam fome. Pedimos-te que olheis para aqueles que sofrem nesta noite santa. Que lhes envieis o Vosso amor e o Vosso sustento. Que lhes abris as Vossas portas e lhes mostrais a Vossa misericórdia. Que lhes dais o pão que alimenta o corpo e a alma. Que lhes dais a paz e a esperança. Pedimos-te também que nos ajudeis a sermos mais solidários com os que passam fome. Que nos inspireis a partilhar o que temos com os que precisam. Que nos mostreis como podemos fazer a diferença no mundo. Em nome de Jesus, o Pão da Vida, Amém!",
+                    "videoTitle": "Distribuição de Cestas Básicas Natal 2023",
+                    "videoDescription": "Distribuição de Cestas Básicas Natal 2023 - Centro Espírita Solar de Jesus"
+                },
+                "passeEspirita": {
+                    "imageAlt": "O Passe Espírita Image",
+                    "title": "O Passe Espírita",
+                    "subtitle": "Renove suas energias, encontre equilíbrio: o Passe Espírita, um toque de bem-estar para o corpo e a alma.",
+                    "description": "O passe espírita e a água fluidificada é uma prática comum dentro do espiritismo, uma doutrina que tem suas raízes no século XIX. Essa técnica envolve a transmissão de energias fluídicas benéficas por meio das mãos, com o objetivo de promover o equilíbrio energético, físico e espiritual de uma pessoa. Por meio do passe canaliza-se energias positivas, que podem auxiliar na harmonização dos centros de energia do corpo (chakras) e proporcionar bem-estar. O passe espírita é frequentemente realizado em centros espíritas durante reuniões públicas, sendo considerado um recurso terapêutico complementar dentro do contexto da espiritualidade espírita",
+                    "prayerTitle": "**Oração pelos Enfermos**",
+                    "prayer": "Deus Pai, Todo-Poderoso, Vós que sois a fonte da vida e da cura, olhai com misericórdia para os vossos filhos e filhas que sofrem de enfermidades do corpo e da alma. Tocai-lhes com a vossa mão poderosa, e curai-lhes de todas as suas dores e sofrimentos. Dá-lhes a força para enfrentarem a sua doença, e a esperança de um dia serem curados. Envolve-os no vosso amor misericordioso, e dai-lhes a paz que só Vós podeis dar. Pedimos por todos os enfermos do mundo, especialmente por aqueles que estão mais necessitados: pelos que sofrem de doenças graves, pelos que estão em fase terminal, pelos que vivem com dor crônica, pelos que são discriminados por causa da sua doença, e pelos que não têm acesso aos cuidados de saúde de que precisam. Ouvi a nossa súplica, e dai-lhes a cura que tanto anseiam. Em nome de Jesus Cristo, Nosso Senhor. Amém!",
+                    "imageDescription": "Ilustração do passe Espírita"
+                },
+
+                    "title": "Obras Básicas do Espiritismo",
+                    "description": "As obras básicas do espiritismo constituem um conjunto fundamental de textos que servem como alicerce doutrinário para os adeptos dessa filosofia espiritualista. Elas foram codificadas por Allan Kardec, pseudônimo do educador e escritor francês Hippolyte Léon Denizard Rivail, no século XIX. Essas obras, compreendendo cinco livros, são consideradas as bases do espiritismo, oferecendo ensinamentos sobre a natureza, origem e destino dos espíritos, assim como a relação entre o mundo material e o espiritual.",
+                    "book1": "O Livro dos Espíritos",
+                    "book1_description": "Publicado em 1857, é a obra inaugural da codificação. Neste livro, Kardec apresenta uma série de questões aos espíritos por meio de médiuns, explorando temas como Deus, a alma, a reencarnação e a evolução espiritual.",
+                    "book2": " O Livro dos Médiuns",
+                    "book2_description": "Lançado em 1861, dedica-se ao estudo das manifestações mediúnicas. Kardec explora os diferentes tipos de mediunidade, suas características e os cuidados necessários para a prática mediúnica responsável.",
+                    "book3": "O Evangelho Segundo o Espiritismo",
+                    "book3_description": "Publicado em 1864, é uma compilação de ensinamentos morais de Jesus à luz do espiritismo. Propõe reflexões sobre temas como caridade, perdão e amor ao próximo, estimulando a prática do Evangelho no cotidiano.",
+                    "book4": "O Céu e o Inferno",
+                    "book4_description":"Escrito em 1865, aborda a questão da vida após a morte, apresentando uma análise sobre as diferentes situações espirituais vivenciadas pelos espíritos após o desencarne.",
+                    "book5": "A Gênese",
+                    "book5_description":"Publicado em 1868, explora a origem do planeta Terra e dos seres vivos à luz da doutrina espírita. Kardec aborda temas como a pluralidade dos mundos habitados, a criação e a influência dos espíritos na evolução da humanidade. Essas obras, ao serem estudadas de forma conjunta, proporcionam uma compreensão abrangente dos princípios espiritas. Elas estimulam o desenvolvimento moral e intelectual dos praticantes, além de fornecerem orientações para uma vida mais plena, baseada na fraternidade, solidariedade e no aprimoramento espiritual.",
+           
+
+
+                
+                    "article_title_1":  "Artigo - A Caridade Segundo Jesus: Benevolência, Indulgência e Perdão das Ofensas",
+                    "article_text_1": "O artigo A Caridade Segundo Jesus: Benevolência, Indulgência e Perdão das Ofensas destaca a mensagem atemporal de Jesus Cristo sobre a caridade, que continua a inspirar milhões de pessoas globalmente. A essência da caridade, segundo Jesus, envolve benevolência, indulgência e perdão das ofensas. Benevolência refere-se a um amor desinteressado e compassivo, estendido a todos, independentemente de diferenças. Indulgência implica compreensão das fraquezas humanas e oferecer ajuda para superá-las, promovendo empatia e misericórdia. O perdão, central na mensagem de Jesus, não significa esquecer, mas libertar-se do rancor, seguindo o exemplo de Jesus que perdoou mesmo durante sua crucificação. Esses princípios formam a base da vida cristã, promovendo relações interpessoais fundamentadas no amor e na compaixão, e continuam a ser uma força transformadora para aqueles que buscam seguir os ensinamentos de Jesus.",
+                    "read_more": " Leia Mais",
+                    "article_title_2": "Artigo - A coragem da fé segundo a doutrina espírita",
+                    "article_text_2": "A coragem da fé é uma virtude que nos permite viver a nossa fé de forma autêntica, mesmo diante das adversidades. É a coragem de professarmos nossas crenças, mesmo quando elas são contrariadas pela sociedade. É a coragem de praticarmos o bem, mesmo quando isso nos custa. O espiritismo nos ensina que a coragem da fé é uma virtude que deve ser cultivada por todos os que buscam o progresso espiritual. É uma virtude que nos permite vencer os obstáculos da vida e alcançar a felicidade plena.",
+
+                    
+                        "titleCaridade": "A Caridade Segundo Jesus: Benevolência, Indulgência e Perdão das Ofensas",
+                        "content": {
+                          "paragraph1": " A caridade, segundo Jesus, é mais do que um simples ato de doar ou ajudar. É um estado de espírito, uma atitude de amor incondicional para com o próximo. Nos ensinamentos de Jesus, vemos a essência da caridade manifestada em cada palavra, em cada gesto de compaixão e em cada momento de perdão. É um chamado para transcender o egoísmo e abraçar a generosidade, para olhar além das diferenças e estender a mão ao necessitado. Jesus exemplificou a caridade em sua própria vida, dedicando-se aos pobres, enfermos e marginalizados. Ele não apenas ofereceu alimento aos famintos e cura aos doentes, mas também ofereceu conforto aos aflitos e perdão aos pecadores. Sua caridade não conhecia limites, pois via em cada pessoa a imagem e semelhança de Deus.",
+                          "paragraph2": "Além disso, Jesus nos ensinou a importância do perdão como parte fundamental da caridade. Ele nos mostrou que o perdão não é apenas liberar o outro da culpa, mas também libertar a si mesmo do peso do ressentimento e do rancor. Ao perdoar, abrimos espaço para o amor fluir livremente em nossas vidas, transformando não apenas aqueles que recebem nosso perdão, mas também a nós mesmos. Portanto, seguir o exemplo de Jesus na prática da caridade é mais do que uma simples obrigação religiosa; é uma escolha consciente de viver uma vida de amor e compaixão. É reconhecer a humanidade comum que compartilhamos e agir em solidariedade uns com os outros. Assim, ao trilharmos o caminho da caridade segundo Jesus, não apenas transformamos o mundo ao nosso redor, mas também nos tornamos mais próximos da verdadeira essência do amor divino.",
+                          "paragraph3": "Nessa jornada de caridade segundo Jesus, somos desafiados a cultivar não apenas ações altruístas, mas também um coração compassivo e uma mente aberta. É preciso enxergar além das aparências e das barreiras que criamos entre nós mesmos e os outros. A caridade nos convoca a estender a mão não apenas aos que nos são próximos ou nos semelhantes, mas a todos os seres vivos que compartilham conosco este mundo. É importante lembrar que a caridade vai além do simples ato de dar esmolas ou fazer boas obras. Ela requer uma profunda empatia, um desejo sincero de aliviar o sofrimento alheio e um compromisso contínuo com a justiça e a igualdade. Significa estar disposto a sacrificar um pouco do nosso conforto pessoal em prol do bem-estar dos outros e estar pronto para agir sempre que a oportunidade se apresentar.",
+                          "paragraph4": "Seguir os ensinamentos de Jesus sobre a caridade também nos desafia a superar nossas próprias limitações e preconceitos. Nos convida a reconhecer a dignidade e o valor intrínseco de cada ser humano, independentemente de sua origem, raça, religião ou status social. É um convite para construir pontes em vez de erguer muros, para promover a inclusão em vez da exclusão, para praticar a compaixão em vez do julgamento. Assim, ao trilharmos o caminho da caridade segundo Jesus, não apenas tornamos o mundo um lugar melhor para todos, mas também nos tornamos seres humanos mais plenos e realizados. Encontramos significado e propósito em nossas vidas ao servir aos outros com amor e generosidade, seguindo o exemplo daquele que nos ensinou que o maior mandamento é amar ao próximo como a nós mesmos.",
+                          "author": "Autor: Marcone Silva de Brito",
+                          "publishDate": "Data de Publicação: [28/02/2024]"
+                        },
+                        "references": {
+                          "title": "Referências Bibliográficas",
+                          "ref1": "Jesus e Vida, cap. 19, ed. LEAL, Pelo Espírito Joanna de Ângelis, psicografado por Divaldo Pereira Franco",
+                          "ref2": "O Evangelho Segundo o Espiritismo Codificado por Allan Kardec",
+                          "ref3": "O Livro dos Espíritos - Questões de 886 à 889"
+                        },
+
+                        
+                            "titleCoragem": "A coragem da fé segundo a doutrina espírita",
+                            "paragraph1": "A Doutrina Espírita, codificada por Allan Kardec no século XIX, oferece uma visão abrangente da existência, abordando temas como a imortalidade da alma, a reencarnação e a influência dos espíritos sobre a vida terrena. Dentro desse contexto, a coragem da fé emerge como um elemento essencial na jornada espiritual, guiando os adeptos através dos desafios da existência e promovendo um entendimento profundo sobre o propósito da vida. A fé é um dos pilares da doutrina espírita, pois é ela que nos permite acreditar na existência de Deus, no mundo espiritual e na vida após a morte. No entanto, a fé não deve ser vista como algo passivo, mas como uma força ativa que nos impulsiona a agir de acordo com os princípios do evangelho. A coragem da fé é a capacidade de vivermos nossa fé de forma autêntica, mesmo diante das adversidades. É a coragem de professarmos nossas crenças, mesmo quando elas são contrariadas pela sociedade. É a coragem de praticarmos o bem, mesmo quando isso nos custa. O espiritismo nos ensina que a coragem da fé é uma virtude que deve ser cultivada por todos os que buscam o progresso espiritual. É uma virtude que nos permite vencer os obstáculos da vida e alcançar a felicidade plena.",
+                           "paragraph2": "A coragem, do ponto de vista espírita, não se limita ao enfrentamento de perigos físicos, mas se estende ao âmbito espiritual e moral. A fé, por sua vez, é considerada um alicerce fundamental para a construção dessa coragem interior. Acreditar na existência de um plano espiritual, na lei de causa e efeito, e na oportunidade de evolução constante proporciona a força necessária para superar os obstáculos terrenos. A fé na Doutrina Espírita não é cega, mas fundamentada na razão e na lógica. Allan Kardec propôs o método da observação, comparação e experimentação como base para a aceitação dos princípios espíritas. Assim, a fé se torna um exercício consciente de confiança nas leis divinas, evidenciando a coragem de questionar, aprender e transformar-se.",
+                           "paragraph3": "Na perspectiva espírita, a reencarnação é um processo pelo qual a alma passa por diversas experiências terrenas, proporcionando oportunidades de aprendizado e evolução espiritual. Nesse ciclo de renascimentos, a coragem da fé se revela na aceitação dos desafios como instrumentos de progresso. A compreensão de que as dificuldades enfrentadas na vida atual são reflexos de ações passadas e oportunidades para reparo e crescimento espiritual fortalece a coragem interior do homem nos embates presentes.",
+                           "paragraph4": "A Doutrina Espírita destaca a interação entre os planos espirituais e terrenos, enfatizando a influência dos espíritos sobre a vida humana. A coragem da fé se manifesta na capacidade de enfrentar as influências negativas, buscando a elevação espiritual e a prática do bem. A compreensão de que os espíritos desencarnados também estão sujeitos à lei de progresso e que, muitas vezes, estão dispostos a auxiliar no crescimento da humanidade, incentiva a coragem de confiar na proteção espiritual.",
+                           "paragraph5": "A coragem da fé pode ser cultivada de diversas formas, como: Estudo e reflexão: O estudo da doutrina espírita nos ajuda a compreender melhor os fundamentos da fé e a fortalecer nossa convicção. Prática da caridade: A prática da caridade é uma forma de expressarmos nosso amor a Deus e ao próximo. Ela nos ajuda a desenvolver a compaixão e a humildade, que são virtudes essenciais para a coragem da fé. Oração e meditação: A oração e a meditação são formas de nos conectarmos com Deus e com o mundo espiritual. Elas nos ajudam a encontrar a paz interior e a fortaleza necessária para enfrentar as adversidades.",
+                           "paragraph6": "A história da humanidade está repleta de exemplos de coragem da fé. Alguns exemplos notáveis são: Jesus Cristo, que enfrentou a perseguição e a morte para espalhar a palavra de Deus. Martin Luther King Jr., que lutou pela igualdade racial nos Estados Unidos, mesmo diante da violência e do preconceito. Madre Teresa de Calcutá, que dedicou sua vida a ajudar os pobres e necessitados. Na Doutrina Espírita, a coragem da fé não é apenas um ato de resistência diante das adversidades, mas uma postura ativa na busca por compreensão, amor e evolução. A fé é um farol que ilumina os caminhos espirituais, fornecendo coragem para enfrentar os desafios com sabedoria e discernimento.A coragem da fé é uma virtude que nos permite viver de forma plena e harmoniosa. Ela é essencial para o nosso progresso espiritual e para a construção de um mundo melhor.",
+                            "referenceSection": "Referências Bibliográficas",
+                            "reference": "O Evangelho Segundo o Espiritismo codificado por Allan Kardec",
+
+
+                            "titleOracao": "Orações",
+                            "prayer1": "Ó Deus, nosso Pai, Nós Te agradecemos por refrescar nossas almas após o calor da prova, expiação e sofrimento. Tu és o Deus da compaixão e do amor. Tu nos conheces e nos entendes. Tu sabes o que passamos e o que sentimos. No calor da prova, Tu nos deste forças para perseverar. No calor da expiação, Tu nos deste paz e consolo. No calor do sofrimento, Tu nos deste esperança e renovação. Graças a Ti, podemos descansar em Tuas promessas de amor e fidelidade. Podemos confiar em Tua justiça e misericórdia. Podemos saber que Tu estás conosco em todos os momentos, nos bons e nos maus. Ó Deus, refresca nossas almas com Tua presença. Dai-nos a Tua paz, a Tua alegria e a Tua esperança. Ajuda-nos a viver em Tua presença, todos os dias de nossas vidas.",
+
+                            "prayer2": "Ó Grande Criador do Universo, hoje, em humildade, voltamos nossos corações para Ti, reconhecendo Tua grandiosidade e amor infinito. Pedimos que guies cada passo de nossas vidas, entendendo as necessidades únicas de cada filho Teu neste vasto mundo. Para aqueles que enfrentam desafios financeiros, pedimos Tua provisão generosa, para que a abundância possa fluir em suas vidas e as preocupações financeiras se dissipem como a névoa ao amanhecer. Aos que enfrentam dificuldades na saúde, imploramos Tua cura compassiva, para que sintam Teu toque restaurador e encontrem conforto nos momentos de dor. Para os que estão perdidos na escuridão da solidão, pedimos Tua presença calorosa, para que sintam Teu amor envolvendo-os e trazendo-lhes consolo. Aos que buscam sabedoria, conceda-lhes discernimento em suas escolhas, iluminando o caminho à frente e guiando-os nas decisões que moldarão seus destinos. Para aqueles que lutam por paz interior, ofereça-lhes tranquilidade em meio à agitação do mundo, permitindo que encontrem serenidade em Tua graça. Aos que enfrentam desafios familiares, derrama Tua bênção sobre seus lares, promovendo a compreensão, o perdão e o amor incondicional entre os entes queridos. Senhor, conheces os anseios secretos de cada coração, e confiamos que, através de Tua misericórdia, atenderás a cada necessidade única. Que Tua luz divina brilhe sobre todos os cantos da Terra, unindo-nos em compaixão e solidariedade. Fortaleça-nos para enfrentar os desafios diários e inspire-nos a sermos instrumentos de Tua paz e amor neste mundo. Em Teu nome, oramos, confiantes de que Tu és a fonte de todo bem e que, em Tua infinita sabedoria, atenderás às preces daqueles que buscam Teu auxílio.",
+                            "subtitlePrayer3": "Oração da Esperança",
+                            "prayer3": "Deus de esperança, em um mundo cheio de incertezas, nós te buscamos. Nos dê esperança para o futuro, força para enfrentar os desafios e paz para nossos corações. Ajude-nos a ver o bem em cada pessoa, a encontrar beleza no mundo e a viver com fé e alegria. Esta oração é uma forma de expressarmos nossa esperança no futuro. Pedimos a Deus que nos dê força para enfrentar os desafios, paz para nossos corações e a capacidade de ver o bem em cada pessoa.",
+
+                            "subtitlePrayer4": "Perdão",
+                            "prayer4": "Perdoa a quem te ofendeu, esquecendo-te do que ele fez. Dá o teu irmão não só o que tens, mas um poucou de Ti mesmo... Consolando aquêle que sofre, dá-lhe o teu amor. Alegra-te com quem é feliz, agradecendo ao Senhor por ele. Que a rotina não diminua o ardor dos teus atos. Nunca justifiques o que é condenável. Nem toleres o mal que o mundo aceita. E a Paz descerá sobre Ti.",
+
+
+
+                            "subtitlePrayer5": "Oração para quem tem fome no Natal",
+                            "prayer5": "Pai Celestial, No Natal, celebramos o nascimento de Jesus, o Pão da Vida. Mas sabemos que, em muitos lugares do mundo, ainda há pessoas que passam fome. Pedimos-te que olheis para aqueles que sofrem nesta noite santa. Que lhes envieis o Vosso amor e o Vosso sustento. Que lhes abris as Vossas portas e lhes mostrais a Vossa misericórdia. Que lhes dais o pão que alimenta o corpo e a alma. Que lhes dais a paz e a esperança. Pedimos-te também que nos ajudeis a sermos mais solidários com os que passam fome. Que nos inspireis a partilhar o que temos com os que precisam. Que nos mostreis como podemos fazer a diferença no mundo. Em nome de Jesus, o Pão da Vida, Amém. (Pode-se acrescentar uma frase pessoal, pedindo a Deus que abençoe alguém específico que passa fome.) Esta oração pode ser rezada individualmente ou em grupo. Ela é uma forma de expressarmos a nossa compaixão pelos que sofrem e de pedirmos a Deus que os abençoe. Ela também é uma oportunidade de nos comprometermos a sermos mais solidários com os que passam fome.",
+
+
+                        "subtitlePrayer6": "Prece para os criminosos",
+                        "prayer6": "Senhor Deus, Pai de todos, Com humildade e compaixão, nos dirigimos a Ti, rogando por todos os criminosos que estão neste mundo. Sabemos que eles são seres humanos, assim como nós, e que também têm o direito de serem amados e perdoados. Peçamos, Senhor, que Tu ilumines seus corações, para que eles possam reconhecer seus erros e se arrepender. Que Tu lhes dês a força para superar suas dificuldades e encontrarem um caminho de paz e justiça. Que Tu também abençoes as vítimas dos crimes, para que encontrem conforto e cura. E que Tu nos dês a sabedoria para agirmos com amor e compaixão, mesmo diante da dor e do sofrimento. Amém!",
+                        
+                        "subtitlePrayer7": "",
+                        "prayer7": "No silêncio da alma, ecoa a prece, Uma sinfonia suave que eleva o ser. É o encontro íntimo com o divino, Um diálogo sagrado, puro e sincero a tecer. Na oração, as asas da esperança se abrem, Levando-nos além das fronteiras terrenas. É o refúgio da alma em momentos de aflição, Onde encontramos paz nas horas mais serenas. Nas palavras sussurradas ao universo, Reside o poder de transformação. É um portal que nos conecta ao infinito, Guiando-nos com amor e compaixão. Na oração, o coração se abre em humildade, Reconhecendo nossa fragilidade e fé. É a ponte que une o humano ao divino, Um laço etéreo que nos conduz à harmonia e à fé. Que em cada prece, encontremos luz e força, Para enfrentar os desafios do caminho. Que a oração seja nosso farol na escuridão, E a expressão mais pura do amor divino.",
+
+
+
+                        "subtitlePrayer8": "Ato de Fé",
+                        "prayer8": "Em todo instante Confio em Deus. No que faço Penso em Deus. Com quem vivo Amo a Deus. Por onde sigo. Sigo com Deus. No que acontece. Deus faz o melhor. Tudo o que tenho, é bênção de Deus. EMMANUEL (Chico Xavier)",
+         
+                         "subtitlePrayer9": "Oração pra pedir perdão",
+                        "prayer9": "Ó Deus, Pai de amor e bondade, Eu venho a Ti hoje para pedir perdão. Eu peço perdão por todas as vezes que errei, Por todas as vezes que magoei os outros, Por todas as vezes que não fui fiel a Ti. Eu sei que o perdão é um dom, E eu o peço com humildade. Eu reconheço que preciso do Teu perdão, Para que eu possa ser livre do peso do pecado, E para que eu possa viver em paz. Eu também peço perdão por todas as vezes Em que eu não perdoei aqueles que me feriram. Eu sei que o perdão é um processo, Mas eu estou disposto a perdoar, Para que eu possa ser livre do ódio e do ressentimento. Abençoa-me com o Teu perdão, E ajuda-me a ser um instrumento do Teu amor. Amém.",
+         
+                         "subtitlePrayer10": "",
+                        "prayer10": "Senhor, ensina-nos a orar sem esquecer o trabalho, a dar sem olhar a quem, a servir sem perguntar até quando, a sofrer sem magoar seja a quem for, a progredir sem perder a simplicidade, a semear o bem sem pensar nos resultados, a desculpar sem condições, a marchar para a frente sem contar os obstáculos, a ver sem malícia, a escutar sem corromper os assuntos, a falar sem ferir, a compreender o próximo sem exigir entendimento, a respeitar os semelhantes sem reclamar consideração, a dar o melhor de nós, além da execução do próprio dever sem cobrar taxas de reconhecimento. Senhor, fortalece em nós a paciência para com as dificuldades dos outros, assim como precisamos da paciência dos outros para com as nossas próprias dificuldades. Ajuda-nos para que a ninguém façamos aquilo que não desejamos para nós. Auxilia-nos sobretudo a reconhecer que a nossa felicidade mais alta será invariavelmente aquela de cumprir os desígnios, onde e como queiras, hoje, agora e sempre. Amém! pelo Espírito Emmanuel, psicografia de Francisco Cândido Xavier",
+
+                        "subtitlePrayer11": "Oração pelas Crianças do Mundo",
+                        "prayer11": "Deus Pai, Nós te louvamos e te agradecemos pelo dom da vida. Nós te pedimos por todas as crianças do mundo. Abençoa-as com tua paz, teu amor e tua proteção. Guarda-as do mal e da violência. Dá-lhes pais amorosos e responsáveis. Dá-lhes professores e educadores que as ajudem a crescer e aprender. Dá-lhes amigos que as amem e as aceitem como são. Dá-lhes saúde, alegria e esperança. Que elas possam crescer em sabedoria e graça, E que um dia possam conhecer o teu amor infinito. Amém!",
+
+                        "subtitlePrayer12": "Oração para o cultivo do Amor",
+                        "prayer12": "Ó Deus, fonte de todo amor, Venho a Ti hoje para pedir a Tua ajuda para cultivar o amor em minha vida. Sei que o amor é o caminho para a paz e a felicidade, E eu quero viver uma vida cheia de amor. Ajude-me a ser mais compassivo e gentil com os outros, A perdoar aqueles que me feriram, E a ver o bem em todos. Dê-me a força para superar os meus medos e preconceitos, E para construir pontes de entendimento com aqueles que são diferentes de mim. Ajude-me a ser um instrumento do Teu amor no mundo, E a fazer a diferença na vida das pessoas. Em nome de Jesus, Amém. Reflexão: O amor é uma força poderosa que pode transformar o mundo. Quando cultivamos o amor em nossas vidas, estamos contribuindo para a criação de um mundo mais pacífico e harmonioso. Esta oração pode nos ajudar a lembrar da importância do amor e a buscar maneiras de cultivá-lo em nossas vidas. Aqui estão algumas ideias específicas para cultivar o amor: Seja gentil e atencioso com as pessoas ao seu redor. Perdoe aqueles que o machucaram. Veja o bem em todos, mesmo nas pessoas que são diferentes de você. Seja um instrumento de paz e reconciliação no mundo. O amor é uma escolha,mas é uma escolha que vale a pena fazer.",
+
+
+                        "subtitlePrayer13": "Oração para o homem orgulhoso superar seus preconceitos",
+                        "prayer13": "Pai Celestial, Eu venho a Ti, humildemente, Pedir-te que me ajude a superar meus preconceitos. Sei que sou um homem orgulhoso, E que isso me impede de ver o mundo com clareza. Eu julgo as pessoas pelas suas aparências, E não pelas suas ações. Eu me sinto superior aos outros, E isso me leva a tratar as pessoas com desdém. Eu sei que isso é errado, E eu quero mudar. Peço-te que me ajude a ser mais humilde, A ver o mundo com o coração, E a tratar as pessoas com respeito. Ensina-me a amar meus inimigos, E a perdoar aqueles que me ofenderam. Dá-me a força para quebrar as minhas barreiras, E para construir um mundo mais justo e fraterno. Amém. (Pode-se acrescentar uma súplica específica, por exemplo, pela ajuda a superar o preconceito contra uma determinada raça, etnia, religião, orientação sexual, etc.). Oração pessoal: Ó Deus, Eu quero ser um homem melhor. Quero ser um homem que ama e respeita a todos, Independentemente de suas diferenças. Dai-me a força para superar meus preconceitos, E para construir um mundo mais justo e fraterno. Amém. Essa oração é uma forma de o homem orgulhoso reconhecer seu erro e pedir ajuda a Deus para mudar. Ela começa com uma súplica humilde, pedindo a Deus que o ajude a superar seu orgulho. Em seguida, ela reconhece os erros do homem orgulhoso, como julgar as pessoas pelas aparências, sentir-se superior aos outros e tratar as pessoas com desdém. A oração termina com um pedido de ajuda a Deus para ser mais humilde, amar os inimigos e perdoar aqueles que o ofenderam. É importante que a oração seja feita com sinceridade e humildade. O homem orgulhoso deve estar disposto a reconhecer seus erros e pedir a ajuda de Deus para mudar.",
+
+                        "subtitlePrayer14": "Oração para uma réstia de luz no mundo",
+                        "prayer14": "Oh, Deus, Em um mundo de escuridão, Peço-te uma réstia de luz. Uma luz que ilumine os nossos caminhos, Que nos guie na escuridão, Que nos dê esperança. Que esta luz seja uma fonte de amor, De paz, de justiça, De bondade. Que ela possa tocar os corações das pessoas, E transformar o mundo. Que esta luz seja um sinal de que o bem ainda existe, Que a esperança ainda é possível, Que o amor ainda vence. Oh, Deus, Envia-nos uma réstia de luz, Para que possamos construir um mundo melhor. Amém !",
+
+                         "subtitlePrayer15": "Mães em Desespero",
+                        "prayer15": "Pai, Venho a Ti hoje em nome de todas as mães que se encontram em desespero. Elas estão passando por momentos difíceis, e não sabem como encontrar a saída. Elas estão cansadas, sobrecarregadas, e às vezes até sem esperança. Pai, Entra no coração dessas mães. Dá-lhes a paz que elas precisam. Dá-lhes a força que elas precisam. Dá-lhes a sabedoria que elas precisam. Pai, Mostra-lhes o Teu amor. Mostra-lhes que Tu estás com elas. Que Tu nunca as abandonarás. Pai, Sê a luz que guia esses seus filhos. Sê a esperança que lhes dá forças para seguir em frente. Sê o refúgio que lhes dá descanso.",
+
+                         "subtitlePrayer16": "Oração pela ansiedade",
+                        "prayer16": "Deus, Pai de amor e misericórdia, Vinde em socorro daqueles que passam pela ansiedade. Eles se sentem perdidos, confusos e desorientados. O medo e a preocupação os dominam, E eles não conseguem encontrar paz. Senhor, Renovai a sua paz em seus corações. Afastai de seus pensamentos as preocupações e os medos. Dê-lhes a certeza de que não estão sozinhos, E que vocês estão sempre com eles. Que eles possam sentir o vosso amor e a vossa presença, E que isso lhes dê força e coragem para enfrentarem os desafios. Senhor, Dai-lhes a graça de confiarem em vós, E de saberem que vocês têm o controle de tudo. Que eles possam descansar em vossos braços, E encontrar a paz que só vocês podem dar. Em nome de Jesus, Amém. **(Você pode acrescentar o nome de uma pessoa específica ou de um grupo de pessoas que você deseja orar.)** Essa oração pode ser feita individualmente ou em grupo. Ela pode ser repetida quantas vezes forem necessárias, até que a ansiedade seja aliviada. Além da oração, é importante que as pessoas que sofrem de ansiedade busquem ajuda profissional. Um psicólogo ou psiquiatra poderá ajudá-los a entender a origem da sua ansiedade e a desenvolver estratégias para lidar com ela.",
+
+                         "subtitlePrayer17": "Oração da Unidade",
+                        "prayer17": "Deus Criador, Nós nos reunimos hoje para te louvar e te agradecer. Somos um povo diverso, de diferentes origens e culturas, Mas estamos unidos em nossa fé em ti. Pedimos-te que nos ajudes a viver em paz e harmonia, A respeitar uns aos outros, E a trabalhar juntos para um mundo melhor. Abençoa nossas famílias e amigos, E guia-nos em nossos caminhos. Faz-nos instrumentos da tua paz, E ajuda-nos a construir um mundo onde todos sejam respeitados e amados. (Adaptado de uma oração do movimento ecumênico): Esta oração é uma forma de expressarmos nosso desejo de unidade e paz no mundo. Ela reconhece a diversidade de nosso povo, mas também a nossa unidade em Cristo. Pedimos a Deus que nos ajude a viver em paz e harmonia, a respeitar uns aos outros, e a trabalhar juntos para um mundo melhor.",
+
+                         "subtitlePrayer18": "",
+                        "prayer18": "",
+
+                         "subtitlePrayer19": "",
+                        "prayer19": "",
+
+
+                            "posters": {
+                              "title": "Our Posters",
+                              "poster1": "O Bazar Solidário da Instituição Espírita de Caridade Solar de Jesus é um evento encantador que une a magia das compras a uma nobre causa. Em um ambiente acolhedor e cheio de amor, este bazar oferece uma variedade de produtos cuidadosamente selecionados, desde roupas e calçados. Ao participar desse bazar, cada pessoa se torna parte de uma corrente de amor que ilumina vidas e transforma comunidades.",
+                              "poster2": "A Instituição Espírita de Caridade Solar de Jesus opera um sistema transparente e eficiente para distribuição de recursos. As doações financeiras destinadas às campanhas de bazar, assistência social, oficina de costura, trabalhadores da última hora e manutenção da instituição são gerenciadas de forma organizada. O dinheiro é alocado de maneira equitativa, cobrindo despesas como prédio e limpeza, energia, água e esgoto e repasse de doações. A instituição prioriza a sustentabilidade e ações beneficentes, assegurando que cada contribuição seja utilizada de maneira responsável para o bem-estar da comunidade atendida.",
+                              "poster3": "O Grupo Trabalhadores da Última Hora é a mão estendida da Instituição Espírita de Caridade Solar de Jesus para aqueles que mais necessitam. Dedicados a oferecer auxílio imediato e acolhimento aos moradores de rua e às pessoas em fila de espera nos hospitais, esses voluntários são verdadeiros anjos que atuam nos momentos mais cruciais.",
+                              "poster4": "A Assistência Social da Instituição Espírita de Caridade Solar de Jesus é um elo de amor e solidariedade, dedicado a transformar vidas por meio de ações concretas e acolhedoras. Com base nos princípios espíritas, nossa equipe comprometida trabalha incansavelmente para oferecer apoio integral a indivíduos em situação de vulnerabilidade, promovendo dignidade, inclusão e bem-estar. Buscamos não apenas suprir necessidades básicas, mas também inspirar esperança e promover o desenvolvimento pessoal, visando a construção de uma sociedade mais justa e fraterna. Juntos, iluminamos caminhos e cultivamos o amor ao próximo, guiados pela luz do entendimento e compaixão.",
+                              "poster5": "A Instituição Espírita de Caridade Solar de Jesus opera um sistema transparente e eficiente para distribuição de recursos. As doações financeiras destinadas às campanhas de bazar, assistência social, oficina de costura, trabalhadores da última hora e manutenção da instituição são gerenciadas de forma organizada. O dinheiro é alocado de maneira equitativa, cobrindo despesas como prédio e limpeza, energia, água e esgoto e repasse de doações. A instituição prioriza a sustentabilidade e ações beneficentes, assegurando que cada contribuição seja utilizada de maneira responsável para o bem-estar da comunidade atendida.",
+                              "poster6": "O Grupo Voluntários da Alegria, vinculado à Instituição Espírita de Caridade Solar de Jesus, é uma equipe dedicada e apaixonada que costura enxovais de bebê para recém-nascidos em situações de necessidade. Com amor e habilidade, esses voluntários transformam tecidos em verdadeiras obras de carinho, proporcionando não apenas itens essenciais, mas também um toque especial de carinho e esperança para as famílias beneficiadas."
+                            },
+
+
+                                "contact_us": "Entre em Contato Conosco",
+                                "namelabel": "Nome",
+                                "name": "Digite seu nome",
+                                "emaillabel": "E-mail",
+                                "email": "Digite seu e-mail",
+                                "phonelabel": "Telefone",
+                                "phone": "Digite seu telefone",
+                                "messagelabel": "Mensagem",
+                                "message": "Digite sua mensagem",
+                                "send": "Enviar",
+                                "fill_all_fields": "Por favor, preencha todos os campos",
+                                "location": "Nossa Localização",
+
+
+            
+                                    "homenageados.title": "Homenajeados",
+                                    "homenageados.description": "Com profundo respeito e gratidão, prestamos neste espaço uma singela homenagem aos abnegados trabalhadores do Centro Espírita Solar de Jesus que já partiram para a vida espiritual. Suas vidas dedicadas ao estudo e à prática do Espiritismo deixaram um legado de amor, caridade e esclarecimento que permanecerá como inspiração para todos nós. Possamos honrar suas memórias seguindo seus nobres exemplos, cultivando a fraternidade, o conhecimento das leis divinas e o auxílio ao próximo. Que a luz do Evangelho de Jesus continue a iluminar seus caminhos na jornada infinita dos espíritos imortais. Nossos corações se elevam em prece de gratidão por suas vidas e obras em prol da causa maior da renovação espiritual da humanidade. Que possam prosseguir sua missão de esclarecimento e amparo das esferas espirituais superiores.",
+
+                                    "gallery_title": "Galeria de Fotos - Solar de Jesus"
+                                      
+                                      
+                                  
+                              
+                              
+                              
+                              
+                              
+                              
+                          
+                          
+                            
+                            
+                            
+                          
+                                                          
+                          
+}

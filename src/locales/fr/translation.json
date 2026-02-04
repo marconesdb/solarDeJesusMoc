@@ -1,0 +1,526 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "whoWeAre": "Qui Sommes-Nous",
+    "ourHistory": "Notre Histoire",
+    "gallery": "Galerie",
+    "ourMoments": "Nos Moments",
+    "ourWorks": "Nos Travaux",
+    "honorees": "Honorés",
+    "spiritDoctrine": "Doctrine Spirite",
+    "basicWorks": "Œuvres de Base",
+    "spiritArticles": "Articles Spirites",
+    "prayers": "Prières",
+    "downloads": "Téléchargements",
+    "bookSale": "Vente de Livres",
+    "donations": "Dons",
+    "contact": "Contact",
+    "language": "Langue",
+    "english": "Anglais",
+    "french": "Français",
+    "spanish": "Espagnol",
+    "portuguese": "Portugais"
+  
+},
+
+"quotes": {
+    "quote1": {
+      "text": "Hors de la charité, il n'y a point de salut.",
+      "author": "Allan Kardec"
+    },
+    "quote2": {
+      "text": "Dieu nous accorde, chaque jour, une nouvelle page de vie dans le livre du temps. Ce que nous y inscrivons relève de notre responsabilité.",
+      "author": "Chico Xavier"
+    },
+    "quote3": {
+      "text": "Les hommes sèment sur terre ce qu'ils récolteront dans la vie spirituelle : les fruits de leur courage ou de leur faiblesse.",
+      "author": "Allan Kardec"
+    },
+    "quote4": {
+      "text": "Naître, mourir, renaître encore et progresser sans cesse, telle est la loi.",
+      "author": "Allan Kardec"
+    },
+    "quote5": {
+      "text": "Le plus grand bien que nous puissions faire pour la doctrine spirite est sa diffusion.",
+      "author": "Bezerra de Menezes, psychographié par Chico Xavier"
+    },
+    "quote6": {
+      "text": "La vie sur Terre est une école bénie, où la souffrance est l'instructeur qui enseigne à l'élève rebelle les grandes leçons de l'âme.",
+      "author": "André Luiz, psychographié par Chico Xavier"
+    },
+    "quote7": {
+      "text": "Le pardon est la plus haute expression de l'amour.",
+      "author": "Joanna de Ângelis, psychographié par Divaldo Franco"
+    },
+    "quote8": {
+      "text": "Chaque difficulté vaincue prépare l'esprit à atteindre une victoire plus grande.",
+      "author": "Emmanuel, psychographié par Chico Xavier"
+    },
+    "quote9": {
+      "text": "L'amour est la force qui unit les mondes et régit les astres.",
+      "author": "Leon Denis"
+    },
+    "quote10": {
+      "text": "Le courage de l'amour crée la bénédiction du pardon.",
+      "author": "Emmanuel, psychographié par Chico Xavier"
+    },
+    "quote11": {
+      "text": "La vraie religion est celle qui nous rend meilleurs.",
+      "author": "Allan Kardec"
+    },
+    "quote12": {
+      "text": "La charité est l'amour, c'est le soleil que Notre Seigneur a fait briller clair et fécond ; égayant dans cette vie l'existence douloureuse de ceux qui souffrent en ce monde !",
+      "author": "Casimiro Cunha, psychographié par Chico Xavier"
+    },
+    "quote13": {
+      "text": "Votre irritation ne résoudra aucun problème. Votre mauvaise humeur ne change pas la vie. Ne gâchez pas votre journée.",
+      "author": "Chico Xavier"
+    },
+    "quote14": {
+      "text": "La réincarnation est la justice de Dieu en action.",
+      "author": "Eurípedes Barsanulfo"
+    },
+    "quote15": {
+      "text": "La foi inébranlable est seulement celle qui peut regarder la raison face à face, à toutes les époques de l'humanité.",
+      "author": "Allan Kardec"
+    },
+    "quote16": {
+      "text": "Améliorez tout en vous, pour que tout s'améliore autour de vos pas.",
+      "author": "Chico Xavier"
+    },
+    "quote17": {
+      "text": "Ne gardez pas de ressentiment dans votre cœur, sachant que celui qui vous déçoit est un compagnon vaincu par ses propres conflits.",
+      "author": "Bezerra de Menezes, psychographié par Chico Xavier"
+    },
+    "quote18": {
+      "text": "Si vous avez commis une erreur, ne tombez pas dans le désespoir, mais en travaillant et en servant, vous recevrez de Dieu l'opportunité de la rectification et de la paix.",
+      "author": "Meimei, psychographié par Chico Xavier"
+    },
+    "quote19": {
+      "text": "L'Amour vaincra toujours, et, pour cela, la douleur sera amenée à disparaître de notre chemin encore troublé.",
+      "author": "Bezerra de Menezes, psychographié par Chico Xavier"
+    },
+    "quote20": {
+      "text": "Vous n'aurez pas toujours ce que vous désirez, mais tant que vous aiderez les autres, vous trouverez les ressources dont vous avez besoin.",
+      "author": "Chico Xavier"
+    },
+    "quote21": {
+      "text": "La charité est un exercice spirituel. Celui qui pratique le bien met en mouvement les forces de l'âme.",
+      "author": "Chico Xavier"
+    },
+    "quote22": {
+      "text": "Après la mort, personne ne marche avec la lumière d'autrui.",
+      "author": "Chico Xavier"
+    },
+    "quote23": {
+      "text": "Jésus place l'humilité dans la catégorie des vertus qui rapprochent de Dieu et l'orgueil parmi les vices qui en éloignent la créature.",
+      "author": "Allan Kardec"
+    },
+    "quote24": {
+      "text": "Pardonnez maintenant, aujourd'hui et demain, inconditionnellement. Rappelez-vous que toutes les créatures portent en elles les imperfections et les faiblesses qui leur sont propres, tout comme, encore déséquilibrés, nous portons aussi les nôtres.",
+      "author": "Emmanuel, psychographié par Chico Xavier"
+    },
+    "quote25": {
+      "text": "Silence face à l'injure et pardon aux offenses. Rappelez-vous que les agresseurs sont malades. Ne permettez pas que les frères déséquilibrés détruisent votre travail ou éteignent votre espérance.",
+      "author": "Chico Xavier"
+    },
+    "quote26": {
+      "text": "L'objectif de votre vie sur Terre n'est pas l'autorité, la beauté ou le confort éphémère. C'est le perfectionnement spirituel.",
+      "author": "André Luiz, psychographié par Chico Xavier"
+    },
+    "quote27": {
+      "text": "La réponse de Dieu peut tarder un peu, mais elle ne manquera jamais d'être donnée. Ce temps d'attente sert à prouver la foi, la persévérance et la confiance. C'est un test de patience et l'opportunité de développer la force intérieure, la joie et le courage.",
+      "author": "Bezerra de Menezes, psychographié par Chico Xavier"
+    },
+    "quote28": {
+      "text": "Aimez-vous, en vous respectant, et en agissant de manière à ne pas avoir honte de vous-même lorsque vous êtes soumis au crible de la conscience.",
+      "author": "Joanna de Ângelis, psychographié par Divaldo P. Franco"
+    },
+    "quote29": {
+      "text": "Quelles que soient les circonstances, allumez la lumière de l'espérance dans l'esprit, la joie de l'Amour de Dieu dans le cœur et attendez.",
+      "author": "Joanna de Ângelis, psychographié par Divaldo P. Franco"
+    },
+    "quote30": {
+      "text": "Pensez, toutefois, au soutien de Dieu et, dans tous les épisodes du chemin, vous le sentirez avec vous dans le silence du cœur.",
+      "author": "Emmanuel, psychographié par Chico Xavier"
+    },
+    "quote31": {
+      "text": "Partout, la parole est l'indice de notre position évolutive. Il est indispensable de l'améliorer et de l'ennoblir.",
+      "author": "Emmanuel, psychographié par Chico Xavier"
+    },
+    "quote32": {
+      "text": "Dans toutes les épreuves, priez et allez de l'avant, en demandant au Seigneur de vous aider à maintenir la conscience tranquille dans l'accomplissement des devoirs qui vous incombent.",
+      "author": "Emmanuel, psychographié par Chico Xavier"
+    },
+    "quote33": {
+      "text": "Chaque fois que la Justice Divine nous cherche pour régler les comptes, si elle nous trouve en train de travailler au profit des autres, la Miséricorde Divine ordonne que le recouvrement soit suspendu pour une durée indéterminée.",
+      "author": "Chico Xavier"
+    },
+    "quote34": {
+      "text": "La réincarnation est toujours évolution, récapitulation, enseignement, apprentissage, et tout cela coûte effort, obstacles et sueur. Cependant, dans de nombreuses circonstances, c'est un travail expiatoire, une régénération ou un processus curatif.",
+      "author": "André Luiz, psychographié par Chico Xavier"
+    },
+    "quote35": {
+      "text": "Notre bonheur sera naturellement proportionnel au bonheur que nous créerons pour les autres. La joie du prochain commence souvent dans le sourire que vous voulez bien lui donner.",
+      "author": "Chico Xavier"
+    },
+    "quote36": {
+      "text": "Étudiez-vous vous-même, en observant que la connaissance de soi apporte l'humilité et sans humilité il est impossible d'être heureux.",
+      "author": "Allan Kardec"
+    },
+    "quote37": {
+      "text": "Persistez encore un peu. Ne cultivez pas le pessimisme. Centrez-vous sur le bien à faire. Oubliez les suggestions de la peur destructrice. Allez de l'avant, même en traversant l'ombre de vos propres erreurs. Avancez même si c'est à travers les larmes. Et ainsi vous vaincrez.",
+      "author": "Chico Xavier"
+    },
+    "quote38": {
+      "text": "Occupez votre temps disponible avec un travail profitable, sans oublier le repos indispensable à la juste récupération. La suggestion des ténèbres nous atteint par l'heure vide.",
+      "author": "André Luiz, psychographié par Chico Xavier"
+    },
+    "quote39": {
+      "text": "Accordez-vous une plus grande dose de confiance en vos valeurs, en vous honorant par l'effort pour toujours vous améliorer et sans découragement. Si vous vous trompez, répétez l'action, et si vous réussissez, continuez d'avancer.",
+      "author": "Joanna de Ângelis, psychographié par Divaldo P. Franco"
+    },
+    "quote40": {
+      "text": "...Avancez, réjouissez-vous de la souffrance qui règle vos comptes et bénissez les obstacles qui vous rendent plus expérimenté et plus noble !...",
+      "author": "Emmanuel, psychographié par Chico Xavier"
+    },
+    "quote41": {
+      "text": "Il existe des Bienfaiteurs bien-aimés qui vous assistent, qui participent à vos nuits d'insomnie et aux angoisses de vos cœurs. Apprenez à les écouter, en vous accordant avec ces anges tutélaires à travers la prière, par la pensée tournée vers le Bien.",
+      "author": "Bezerra de Menezes, psychographié par Chico Xavier"
+    },
+    "quote42": {
+      "text": "...Réajustons-nous pour correspondre à la protection que le Seigneur nous a dispensée. La difficulté est notre marche d'ascension. L'aide Divine ne nous manquera pas. Gardons la sérénité ! Notre foi vivante, notre valeur !",
+      "author": "Bezerra de Menezes, psychographié par Chico Xavier"
+    },
+    "quote43": {
+      "text": "La bataille la plus difficile à mener se déroule dans votre monde intime. Personne ne la voit, ne l'applaudit ou ne la censure. Elle est vôtre. La victoire, ou la défaite, vous appartiendra en silence. Aucune aide extérieure ne pourra contribuer à votre succès, ou aucune conjoncture ne vous mènera à l'échec.",
+      "author": "Joanna de Ângelis, psychographié par Divaldo P. Franco"
+    },
+    "quote44": {
+      "text": "Coopérez avec la vie, en répandant des bénédictions où que vous soyez, avec qui vous rencontrez, selon l'opportunité qui se présente. Rendez avec amour l'amour que la vie vous offre...",
+      "author": "Joanna de Ângelis, psychographié par Divaldo P. Franco"
+    },
+    "quote45": {
+      "text": "Quand vous comprendrez que la récolte d'aujourd'hui correspond exactement aux semailles d'hier, vous ne regretterez plus rien sinon votre propre manque de discernement au moment de choisir la semence que vous avez délibérément jetée dans le sol de la vie.",
+      "author": "André Luiz, psychographié par Chico Xavier"
+    },
+    "quote46": {
+      "text": "Ne permettez pas que des pensées malheureuses créent des racines dans votre esprit. La vie ne se résume pas aux problèmes que vous affrontez en ce moment. Au-dessus d'eux, de nombreuses opportunités de progrès spirituel vous sourient. Il suffit que vous ayez confiance en Dieu et fassiez de votre mieux.",
+      "author": "Sœur Scheilla, psychographié par Chico Xavier"
+    },
+    "quote47": {
+      "text": "Priez et agissez. Servez et ayez confiance. Le pessimisme n'a jamais le dernier mot. Attendez Dieu et gardez la certitude que Dieu fait toujours ce qui est le mieux.",
+      "author": "Emmanuel, psychographié par Chico Xavier"
+    },
+    "quote48": {
+      "text": "Ne perdez pas votre foi parmi les ombres du monde. Même si vos pieds saignent, allez de l'avant, vous élevant par la lumière céleste au-dessus de vous-même. Croyez et travaillez. Efforcez-vous dans le bien et attendez avec patience. Tout passe et tout se renouvelle sur Terre, mais ce qui vient du Ciel demeurera.",
+      "author": "Meimei, psychographié par Chico Xavier"
+    },
+    
+    "quote49": {
+    "text": "Réservez-vous le droit de rester indifférent aux provocations de toute nature. Dans une époque de folie comme celle-ci, le mal se promène en liberté, séduisant les imprudents.",
+    "author": "Joanna de Ângelis, psychographié par Divaldo P. Franco"
+    },
+    "quote50": {
+    "text": "Pardonnez à vos persécuteurs. Ils sont déjà malheureux, en raison de ce qu'ils cultivent dans leur for intérieur et de ce qu'ils sont réellement.",
+    "author": "Joanna de Ângelis, psychographié par Divaldo P. Franco"
+    },
+    "quote51": {
+    "text": "Quand vous serez sur le point de défaillir, cherchez refuge dans la prière. En priant, vos paysages mentaux et moraux se renouvelleront, élevant votre moral et vous réconfortant spirituellement.",
+    "author": "Joanna de Ângelis, psychographié par Divaldo P. Franco"
+    },
+    "quote52": {
+    "text": "Relevez celui qui est tombé, aidez celui qui est étourdi, secourez l'affligé, donnez-vous à la vie et la vie vous répondra en dons d'espérance et de progrès supérieur.",
+    "author": "Joanna de Ângelis, psychographié par Divaldo P. Franco"
+    },
+    "quote53": {
+    "text": "Le bien que vous faites aujourd'hui peut être oublié demain. Faites le bien quand même. Voyez qu'au final, tout est entre vous et Dieu ! Cela n'a jamais été entre vous et les autres.",
+    "author": "Mère Teresa de Calcutta"
+    },
+
+    "quote54": {
+        "text": "",
+        "author": ""
+    }
+
+  },
+
+  
+    "semanaEspirita": {
+      "title": "Dieu, Christ et Charité",
+      "quote": "Mes enfants, dans la maxime : Hors de la charité, point de salut, sont enfermés les destins des hommes, sur Terre et au ciel ; sur Terre, car sous cet étendard ils vivront en paix ; au ciel, car ceux qui l'auront pratiquée trouveront grâce auprès du Seigneur...",
+      "reference": "CHAP 15, Article 10 - L'Évangile Selon le Spiritisme",
+      "author": "Allan Kardec"
+    },
+
+    "banner": {
+    "altText": "Image",
+    "title": "Devenez un Volontaire de la Joie :",
+    "description": "Offrez votre amour aux autres, en donnant de votre temps et en apportant un réconfort moral et spirituel."
+  },
+
+    "home": {
+      "prayerMoment": "Moment de Prière",
+      "prayerPlace": "Crèche - Solar de Jesus",
+      "banner": {
+        "altText": "Image"
+      }
+    },
+
+      "footer": {
+        "rightsReserved": "&copy; Institución de Caridad Espiritual Solar de Jesús - {{year}} Todos los derechos reservados",
+        "address": "Dirección: Av. Leonel Beirão de Jesus, 1555, Barrio: Sumaré",
+        "postalCode": "Código Postal: 39402-547 - Montes Claros - MG/BR",
+        "cnpj": "CPNJ 21.355.599/0001-56",
+        "phone": "Teléfono: (38) 3214-2878",
+        "alfredoContact": "Alfredo Lorenço: (38) 99979-9996",
+        "claudioContact": "Cláudio Mendes: (38) 99166-0454",
+        "email": "instituicaoespiritadecaridadesolardejesus@solardejesus.com.br",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/solardejesus/",
+          "instagram": "https://www.instagram.com/voluntariasdaalegria1/",
+          "whatsapp": "https://wa.me/5538999799996"
+        }
+      },
+
+        "ourHistory": {
+          "helmet": {
+            "favicon": "/Favicons/favicon-16x16.png"
+          },
+          "main": {
+            "backgroundClass": "bg-gray-100 min-h-screen py-12 px-4 sm:px-6 lg:px-8",
+            "title": "Notre Histoire",
+            "founderTitle": "Notre Fondateur",
+            "founderName": "Francisco Soares da Silva",
+            "imageAlt": "Francisco Soares da Silva",
+            "history": {
+              "paragraphs": [
+                "En 1930, Francisco Soares da Silva, connu sous le nom de Chico Zapateiro, déménagea à Belo Horizonte, où il rencontra le médium Antônio Loreto Flores, président du Centre Spirite Amor e Caridade. Là, il développa ses facultés médiumniques. Lors d'une des séances médiumniques, l'Esprit Bezerra de Menezes, par l'intermédiaire du médium Flores, écrivit une lettre à Chico Zapateiro. Dans cette lettre, il révéla que Chico avait une mission dans les terres du nord de Minas : fonder une maison spirite sous la protection spirituelle de Teresa de Jésus.",
+                "Francisco ne ménagea aucun effort. Dès qu'il prit sa retraite du DER, il quitta Belo Horizonte pour Montes Claros, déterminé à fonder une maison spirite dans sa ville natale. En 1979, au centre spirite Joana D`Ark, situé à Vila Guilhermina, je rencontrai M. Francisco (Chico Zapateiro). En réalité, ce fut une retrouvailles, car l'affinité qui s'est établie ne pouvait être traduite en mots. Là, nous avons organisé des réunions d'étude doctrinale et mis en place des groupes de travail.",
+                "Les réunions médiumniques avaient lieu les vendredis. Lors de l'une de ces occasions, l'esprit Eurípedes Barsanulfo, par la médiumnité de Chico Zapateiro, avertit le groupe de leur responsabilité, disant que, depuis les temps de culte dans le temple d'Apollon, certains des présents s'étaient convertis au christianisme, et que, de nos jours, nous étions engagés dans la pratique et la diffusion du spiritisme, contribuant à restaurer le christianisme pur laissé par Jésus, en rompant les paradigmes de l'époque, en recherchant une coexistence ascendante et en montrant que les deux sont nécessaires et complémentaires pour l'humanité. Eurípedes Barsanulfo souligna que toutes les activités devaient suivre la devise du drapeau de l'esprit Ismael : Dieu, Christ et Charité.",
+                "Le temple Solar d'Apollon nous renvoie à l'année 195 après J.-C. dans la petite ville grecque de Sicion, dans la région du Péloponnèse, sur les rives du golfe de Corinthe, et une province de l'Empire romain, dont la Grèce faisait partie. Bien que le christianisme fût toléré dans les provinces, la religion prédominante était le culte des dieux mythologiques. Apollon était consacré aux arts et à la médecine dans les sanctuaires de Delphes et d'Éleusis. Il a été rapporté que des phénomènes médiumniques se produisaient dans le Solar d'Apollon. Avec la présence de l'Apôtre Paul de Tarse dans la région, un grand nombre de personnes se convertirent au christianisme, et le Solar d'Apollon se transforma en Solar de Jésus. (Livre 'Solar de Apolo', de Zilda Gama).",
+                "Le 22 octobre 1982, nous fondâmes le Centre Spirite Solar de Jesus, avec des activités au siège du Centre Spirite Joana D`Ark, où nous fûmes accueillis avec beaucoup d'affection et de respect. Avec le soutien du président de l'Alliance Municipale Spirite de Montes Claros, M. Petrônio, nous avons effectué l'enregistrement officiel de l'Institution Spirite de Charité Solar de Jesus, qui fut inscrite au registre en tant qu'entité à but non lucratif, avec Francisco Soares da Silva (Chico Zapateiro) comme premier président.",
+                "Ce fut une tâche accomplie avec grande joie et accompagnée de personnes intéressées à développer un groupe d'étude afin que, plus tard, la maison puisse accueillir le public. Notre groupe comprenait initialement Acácio Fonseca, Pedro Paulo, Maria José Fernandes, Eunice Aguiar, Willian Martins Santos, Durval Soares, Maria Adeide, Renilson Durães, Eugênio Assis et Athos Frões.",
+                "En 1998, une opportunité de changement se présenta avec l'arrivée de la famille Spyer Rabelo et, plus tard, du couple Marice et Paulo Dennucy. À partir de cette année, nous avons pu fonder notre crèche sur l'Avenida Coração de Jesus, dans le quartier Major Prates, en signant un partenariat avec le Secrétariat à l'Éducation pour gérer la maternelle et la crèche. Ce fut une autre expérience précieuse pour nos vies. Depuis lors, nous avons lancé des campagnes pour collecter des vêtements et des aliments pour les personnes dans le besoin, des soupes communautaires pour les familles les plus démunies, des conférences éducatives et des cours de morale chrétienne.",
+                "Nous étions tous conscients des responsabilités liées à la gestion d'un projet 100% philanthropique. Comme dans tous les centres spirites, le nôtre souffrait également, et continue de souffrir, du roulement des collaborateurs, un fait compris par nous tous, spirites. De nombreux collaborateurs sont passés et ont contribué d'une manière ou d'une autre à la croissance du groupe.",
+                "En me souvenant de ces événements, alors que notre maison célèbre son 30e anniversaire, je me souviens particulièrement de son fondateur, pour qui j'ai toujours eu une profonde admiration. Je rends ici hommage à l'un des grands pionniers du spiritisme dans le nord de Minas. Que Jésus amplifie les opportunités de ce cher compagnon qui continue à lutter pour la cause commune depuis le Plan Invisible."
+              ],
+              "author": "Alfredo Lourenço"
+            }
+          }
+        },
+
+    
+          "voluntariosDaAlegria": {
+              "imageAlt": "Logo des Volontaires de la Joie",
+              "title": "Volontaires de la Joie",
+              "subtitle": "Cousant de petits vêtements, tissant des joies : Volontaires de la Joie, Transformant des Lignes en Moments Spéciaux.",
+              "description": "Dans la ville de Montes Claros, MG, où la lumière brillait intensément avec les couleurs de la joie, un groupe spécial se réunissait régulièrement, connu sous le nom des Volontaires de la Joie. Ils partageaient une passion commune : la couture. Chaque aiguille et fil étaient comme des extensions de leurs cœurs généreux et étaient maniés par des mains dévouées. Un jour, ils réalisèrent que des mères en détresse murmuraient à leurs oreilles parce que leurs petits enfants nécessiteux avaient besoin de nouveaux vêtements, et beaucoup naîtraient sans aucun habit. Les enfants, avec leurs histoires uniques et leurs sourires rayonnants, étaient l'inspiration parfaite pour les Volontaires de la Joie. Le groupe se réunit dans son atelier, au Centre Spirituel Solar de Jésus, où des tissus colorés et des fils vibrants emplissaient l'environnement de positivité. Chaque volontaire choisit un morceau de tissu avec soin, imaginant comment ils pourraient le transformer en quelque chose de spécial. Certains choisirent des motifs éclatants, tandis que d'autres optèrent pour des tons doux, créant une collection diversifiée, tout comme les enfants eux-mêmes. Pendant qu'ils cousaient, ils partageaient des histoires et des rires, créant une atmosphère remplie de chaleur humaine. Les aiguilles bougeaient avec habileté, transformant de simples morceaux de tissu en pièces uniques et pleines de tendresse. Lorsque les vêtements furent prêts, les Volontaires de la Joie partirent à la rencontre de ces futures mères et mères qui auraient leurs petits dans des conditions difficiles en raison de la vulnérabilité économique et sociale. Les mères furent accueillies avec des câlins chaleureux et s'émerveillèrent des nouveaux vêtements faits sur mesure, leurs visages s'illuminèrent. C'était plus que des vêtements ; c'était une manifestation tangible du soin et de l'attention que chaque volontaire avait mis dans chaque point. Les Volontaires de la Joie n'avaient pas seulement cousu des vêtements ce jour-là, mais avaient également tissé des liens indéfectibles d'amitié et de compassion. Leur travail n'était pas seulement de créer des vêtements, mais d'envelopper les nouveau-nés dans une étreinte collective d'amour et d'espoir. Depuis lors, les Volontaires de la Joie ont continué à coudre non seulement des vêtements, mais aussi des histoires de solidarité et de joie, montrant que, avec un peu de créativité et beaucoup de dévouement, il est possible de transformer du tissu en trésors qui réchauffent les cœurs.",
+              "videoTitle": "Apprenez à Coudre des Vêtements pour Enfants Démunis - Volontaires de la Joie",
+              "videoDescription": "Apprenez à coudre des vêtements pour enfants dans le besoin - Volontaires de la Joie | Centre Spirituel Solar de Jésus"
+          },
+          "trabalhadoresUltimaHora": {
+              "imageAlt": "Logo des Travailleurs de la Dernière Heure",
+              "title": "Travailleurs de la Dernière Heure",
+              "subtitle": "Dans la Dernière Journée, Travailleurs de Lumière : Semant Amour et Espérance, Suivant les Pas de Jésus.",
+              "description": "Dans la ville de Montes Claros, MG, les Travailleurs de la Dernière Heure sont un groupe dédié à servir et aider le prochain, inspiré par les enseignements de Jésus. Ils se réunissent au Centre Spirituel Solar de Jésus dans le but de réaliser des œuvres de charité et de solidarité. Suivant la parabole des travailleurs de la dernière heure, le groupe croit qu'il n'est jamais trop tard pour faire le bien et contribuer à la transformation sociale. Leur travail couvre divers fronts d'action, depuis le soutien aux familles vulnérables jusqu'à la réalisation de projets communautaires visant à améliorer la qualité de vie des personnes.",
+              "videoTitle": "Venez Collaborer à l'Œuvre du Bien - Groupe Travailleurs de la Dernière Heure",
+              "videoDescription": "Venez collaborer au travail du BIEN - Groupe Travailleurs de la Dernière Heure - Centre Spirituel Solar de Jésus"
+          },
+          "bazarSolarDeJesus": {
+              "imageAlt": "Bazar du Centre Spirituel Solar de Jésus",
+              "title": "Bazar du Centre Spirituel Solar de Jésus",
+              "subtitle": "Brillez avec Solidarité : Bazar du Centre Spirituel Solar de Jésus, Où Chaque Achat Illumine des Vies !",
+              "description": "Il y avait une petite communauté, étreinte par la foi et la volonté de faire le bien. Au cœur de cette communauté, s'élevait le Centre Spirituel Solar de Jésus, un phare d'amour et de solidarité. Un jour, un groupe de volontaires eut une idée brillante pour unir leurs efforts et contribuer encore plus au bien-être de ceux qui en avaient besoin. Ainsi est né le Bazar du Centre Spirituel Solar de Jésus. Ce lieu spécial devint un point de rencontre pour des dons généreux de vêtements, d'ustensiles ménagers et d'autres ressources matérielles. La communauté se mobilisa, chaque personne apportant un petit bout d'amour. Le Bazar, avec ses étagères colorées et ses vitrines pleines d'histoires, se transforma en un espace de partage. Les vêtements, autrefois gardés dans les armoires, trouvaient de nouveaux propriétaires, offrant non seulement une chaleur physique, mais aussi une chaleur humaine. Les ressources collectées prenaient vie, se transformant en aide matérielle pour les plus nécessiteux. Chaque don, chaque pièce de vêtement, racontait une histoire de générosité. Et ainsi, le Bazar du Centre Spirituel Solar de Jésus n'était pas seulement un lieu de transactions commerciales, mais un point de rencontre pour des cœurs solidaires. Les dons n'étaient pas de simples objets ; c'étaient des câlins invisibles, transmettant amour et espoir. À la fin de chaque journée au Bazar, les volontaires souriaient, sachant qu'ils faisaient la différence dans la vie de nombreuses personnes. L'argent collecté trouvait son chemin vers l'aide à des projets sociaux, le soutien aux familles en difficulté et l'appui à des causes nobles. Le Bazar du Centre Spirituel Solar de Jésus devint un symbole de la capacité humaine à s'unir pour le prochain. Il ne vestait pas seulement les corps, mais réchauffait aussi les âmes. Dans chaque pièce donnée et chaque achat réalisé, résonnait la devise du centre : Illuminer des Vies, Répandre l'Amour.",
+              "videoDescription": "Bazar de l'Institution Spirituelle de Charité Solar de Jésus - Montes Claros-MG"
+          },
+          "evangelizacaoInfantil": {
+              "imageAlt": "Logo de l'Évangélisation Infantile",
+              "title": "Évangélisation Infantile",
+              "subtitle": "Semant des Graines Divines : Atelier d'Amour, Valeurs et Spiritualité pour de Petits Cœurs !",
+              "description": "L'évangélisation spirituelle infantile est un travail spirituel qui possède une structure d'étude et de compréhension des bonnes pratiques, d'accueil et de soutien tant pour les enfants que pour leurs familles. Ce travail aide les enfants dans leur formation morale à travers les enseignements de Jésus. L'Évangélisation Infantile aide l'être à se préparer à la vie adulte, à affronter les défis terrestres, cultivant en lui-même la pratique du bien et le développement de la morale chrétienne. L'évangélisation spirituelle infantile est essentielle pour éduquer et attribuer des valeurs morales, en plus d'enseigner le spiritisme aux enfants. En plus de rapprocher l'individu de Dieu, elle le connecte aussi à lui-même. L'évangélisation spirituelle offre un environnement accueillant et sûr pour que les enfants et les jeunes puissent s'exprimer librement, partager leurs expériences et recevoir des conseils appropriés pour faire face aux difficultés de la vie. C'est une opportunité d'apprentissage et de croissance personnelle, qui contribue à la formation d'individus plus conscients et responsables.",
+              "groupImageAlt": "Élèves et Éducatrice de l'Évangélisation Infantile",
+              "groupImageDescription": "Élèves et Éducatrice de l'Évangélisation Infantile Centre Spirituel Solar de Jésus - Montes Claros-MG"
+          },
+          "assistenciaSocial": {
+              "imageAlt": "Logo de l'Assistance Sociale",
+              "title": "Assistance Sociale",
+              "subtitle": "Distribution de Paniers Alimentaires Noël 2023 - Centre Spirituel Solar de Jésus - Montes Claros - MG",
+              "prayer": "*Prière pour ceux qui ont faim à Noël* Père Céleste, À Noël, nous célébrons la naissance de Jésus, le Pain de Vie. Mais nous savons que, dans de nombreux endroits du monde, il y a encore des personnes qui ont faim. Nous vous prions de regarder ceux qui souffrent en cette nuit sainte. Envoyez-leur Votre amour et Votre soutien. Ouvrez-leur Vos portes et montrez-leur Votre miséricorde. Donnez-leur le pain qui nourrit le corps et l'âme. Donnez-leur la paix et l'espérance. Nous vous prions aussi de nous aider à être plus solidaires avec ceux qui ont faim. Inspirez-nous à partager ce que nous avons avec ceux qui en ont besoin. Montrez-nous comment nous pouvons faire la différence dans le monde. Au nom de Jésus, le Pain de Vie, Amen !",
+              "videoTitle": "Distribution de Paniers Alimentaires Noël 2023",
+              "videoDescription": "Distribution de Paniers Alimentaires Noël 2023 - Centre Spirituel Solar de Jésus"
+          },
+          "passeEspirita": {
+              "imageAlt": "Image du Passe Spirituel",
+              "title": "Le Passe Spirituel",
+              "subtitle": "Renouvelez vos énergies, trouvez l'équilibre : le Passe Spirituel, un toucher de bien-être pour le corps et l'âme.",
+              "description": "Le passe spirituel et l'eau fluidifiée sont une pratique courante au sein du spiritisme, une doctrine qui a ses racines au XIXe siècle. Cette technique implique la transmission d'énergies fluidiques bénéfiques par les mains, dans le but de promouvoir l'équilibre énergétique, physique et spirituel d'une personne. Par le passe, on canalise des énergies positives, qui peuvent aider à l'harmonisation des centres d'énergie du corps (chakras) et procurer du bien-être. Le passe spirituel est fréquemment réalisé dans les centres spirites lors de réunions publiques, étant considéré comme une ressource thérapeutique complémentaire dans le contexte de la spiritualité spirite.",
+              "prayerTitle": "**Prière pour les Malades**",
+              "prayer": "Dieu Père, Tout-Puissant, Vous qui êtes la source de la vie et de la guérison, regardez avec miséricorde Vos fils et filles qui souffrent de maladies du corps et de l'âme. Touchez-les de Votre main puissante, et guérissez-les de toutes leurs douleurs et souffrances. Donnez-leur la force de faire face à leur maladie, et l'espoir d'être un jour guéris. Enveloppez-les dans Votre amour miséricordieux, et donnez-leur la paix que Vous seul pouvez donner. Nous prions pour tous les malades du monde, spécialement pour ceux qui sont les plus dans le besoin : ceux qui souffrent de maladies graves, ceux qui sont en phase terminale, ceux qui vivent avec une douleur chronique, ceux qui sont discriminés à cause de leur maladie, et ceux qui n'ont pas accès aux soins de santé dont ils ont besoin. Écoutez notre supplication, et donnez-leur la guérison qu'ils désirent tant. Au nom de Jésus-Christ, Notre Seigneur. Amen !",
+              "imageDescription": "Illustration du Passe Spirituel"
+          },
+
+
+            "title": "Œuvres Fondamentales du Spiritisme",
+            "description": "Les œuvres fondamentales du spiritisme constituent un ensemble essentiel de textes qui servent de base doctrinale pour les adeptes de cette philosophie spiritualiste. Elles ont été codifiées par Allan Kardec, pseudonyme de l’éducateur et écrivain français Hippolyte Léon Denizard Rivail, au XIXe siècle. Ces œuvres, comprenant cinq livres, sont considérées comme les fondements du spiritisme, offrant des enseignements sur la nature, l’origine et le destin des esprits, ainsi que sur la relation entre le monde matériel et le monde spirituel.",
+            "book1": "Le Livre des Esprits",
+            "book1_description": "Publié en 1857, c’est l’œuvre inaugurale de la codification. Dans ce livre, Kardec présente une série de questions aux esprits par l’intermédiaire de médiums, explorant des thèmes comme Dieu, l’âme, la réincarnation et l’évolution spirituelle.",
+            "book2": "Le Livre des Médiums",
+            "book2_description": "Publié en 1861, il est consacré à l’étude des manifestations médiumniques. Kardec explore les différents types de médiumnité, leurs caractéristiques et les précautions nécessaires pour une pratique médiumnique responsable.",
+            "book3": "L’Évangile Selon le Spiritisme",
+            "book3_description": "Publié en 1864, il s’agit d’une compilation d’enseignements moraux de Jésus à la lumière du spiritisme. Il propose des réflexions sur des thèmes tels que la charité, le pardon et l’amour du prochain, encourageant la pratique de l’Évangile dans la vie quotidienne.",
+            "book4": "Le Ciel et l’Enfer",
+            "book4_description": "Écrit en 1865, il aborde la question de la vie après la mort, en présentant une analyse des différentes conditions spirituelles vécues par les esprits après la désincarnation.",
+            "book5": "La Genèse",
+            "book5_description": "Publié en 1868, il explore l’origine de la Terre et des êtres vivants à la lumière de la doctrine spirite. Kardec traite de sujets tels que la pluralité des mondes habités, la création et l’influence des esprits dans l’évolution de l’humanité. Ces œuvres, étudiées conjointement, fournissent une compréhension approfondie des principes spirites. Elles stimulent le développement moral et intellectuel des pratiquants et offrent des orientations pour une vie plus épanouie, fondée sur la fraternité, la solidarité et l’amélioration spirituelle.",
+
+            
+              "article_title_1": "Article - La Charité Selon Jésus : Bienveillance, Indulgence et Pardon des Offenses",
+              "article_text_1": "L'article \"La Charité Selon Jésus : Bienveillance, Indulgence et Pardon des Offenses\" met en lumière le message intemporel de Jésus-Christ sur la charité, qui continue d'inspirer des millions de personnes à travers le monde. L'essence de la charité, selon Jésus, implique bienveillance, indulgence et pardon des offenses. La bienveillance se réfère à un amour désintéressé et compatissant, étendu à tous, indépendamment des différences. L'indulgence implique la compréhension des faiblesses humaines et l'offre d'une aide pour les surmonter, favorisant l'empathie et la miséricorde. Le pardon, au cœur du message de Jésus, ne signifie pas oublier, mais se libérer de la rancune, suivant l'exemple de Jésus qui a pardonné même pendant sa crucifixion. Ces principes forment la base de la vie chrétienne, favorisant des relations interpersonnelles fondées sur l'amour et la compassion, et continuent d'être une force transformatrice pour ceux qui cherchent à suivre les enseignements de Jésus.",
+              "read_more": " Lire Plus",
+              "article_title_2": "Article - Le Courage de la Foi Selon la Doctrine Spirite",
+              "article_text_2": "Le courage de la foi est une vertu qui nous permet de vivre notre foi de manière authentique, même face à l'adversité. C'est le courage de professer nos croyances, même lorsqu'elles sont contrées par la société. C'est le courage de faire le bien, même quand cela nous coûte. Le spiritisme nous enseigne que le courage de la foi est une vertu qui doit être cultivée par tous ceux qui recherchent le progrès spirituel. C'est une vertu qui nous permet de surmonter les obstacles de la vie et d'atteindre le bonheur véritable.",
+
+
+              "titleCaridade": "La Charité Selon Jésus : Bienveillance, Indulgence et Pardon des Offenses",
+              "content": {
+                "paragraph1": "La charité, selon Jésus, est plus qu'un simple acte de don ou d'aide. C'est un état d'esprit, une attitude d'amour inconditionnel envers son prochain. Dans les enseignements de Jésus, nous voyons l'essence de la charité se manifester dans chaque parole, chaque geste de compassion et chaque moment de pardon. C'est un appel à transcender l'égoïsme et à embrasser la générosité, à regarder au-delà des différences et à tendre la main aux nécessiteux. Jésus a exemplifié la charité dans Sa propre vie, se consacrant aux pauvres, aux malades et aux marginalisés. Il n'a pas seulement offert de la nourriture aux affamés et des soins aux malades, mais a également apporté du réconfort aux affligés et pardonné aux pécheurs. Sa charité ne connaissait pas de limites, car Il voyait en chaque personne l'image et la ressemblance de Dieu.",
+                "paragraph2": "De plus, Jésus nous a enseigné l'importance du pardon comme une partie fondamentale de la charité. Il nous a montré que le pardon ne consiste pas seulement à libérer l'autre de la culpabilité, mais également à se libérer soi-même du poids du ressentiment et de la rancune. En pardonnant, nous ouvrons un espace pour que l'amour circule librement dans nos vies, transformant non seulement ceux qui reçoivent notre pardon, mais également nous-mêmes. Ainsi, suivre l'exemple de Jésus dans la pratique de la charité est plus qu'une simple obligation religieuse ; c'est un choix conscient de vivre une vie d'amour et de compassion. C'est reconnaître l'humanité commune que nous partageons et agir en solidarité les uns avec les autres. Ainsi, en empruntant le chemin de la charité selon Jésus, nous transformons non seulement le monde qui nous entoure, mais nous nous rapprochons également de la véritable essence de l'amour divin.",
+                "paragraph3": "Dans ce voyage de charité selon Jésus, nous sommes appelés à cultiver non seulement des actions altruistes, mais aussi un cœur compatissant et un esprit ouvert. Il faut voir au-delà des apparences et des barrières que nous avons créées entre nous et les autres. La charité nous invite à tendre la main non seulement à ceux qui nous sont proches ou semblables, mais à tous les êtres vivants qui partagent ce monde avec nous. Il est important de se rappeler que la charité va au-delà du simple acte de donner l'aumône ou de faire de bonnes œuvres. Elle nécessite une profonde empathie, un désir sincère d'alléger les souffrances d'autrui et un engagement continu pour la justice et l'égalité. Cela signifie être prêt à sacrifier un peu de notre confort personnel pour le bien-être des autres et être prêt à agir dès que l'occasion se présente.",
+                "paragraph4": "Suivre les enseignements de Jésus sur la charité nous met également au défi de surmonter nos propres limites et préjugés. Cela nous invite à reconnaître la dignité et la valeur intrinsèque de chaque être humain, indépendamment de son origine, de sa race, de sa religion ou de son statut social. C'est une invitation à construire des ponts au lieu d'ériger des murs, à promouvoir l'inclusion au lieu de l'exclusion, à pratiquer la compassion au lieu du jugement. Ainsi, en empruntant le chemin de la charité selon Jésus, nous rendons non seulement le monde meilleur pour tous, mais nous devenons également des êtres humains plus épanouis et réalisés. Nous trouvons un sens et un but dans nos vies en servant les autres avec amour et générosité, suivant l'exemple de Celui qui nous a enseigné que le plus grand commandement est d'aimer son prochain comme soi-même.",
+                "author": "Auteur : Marcone Silva de Brito",
+                "publishDate": "Date de Publication : [28/02/2024]"
+              },
+              "references": {
+                "title": "Références Bibliographiques",
+                "ref1": "Jésus et Vie, chap. 19, éd. LEAL, Par l'Esprit Joanna de Ângelis, psychographié par Divaldo Pereira Franco",
+                "ref2": "L'Évangile Selon le Spiritisme Codifié par Allan Kardec",
+                "ref3": "Le Livre des Esprits - Questions de 886 à 889"
+              },
+
+
+              
+                "titleCoragem": "Le courage de la foi selon la doctrine spirite",
+                "paragraph1": "La Doctrine Spirite, codifiée par Allan Kardec au XIXe siècle, offre une vision globale de l'existence, abordant des thèmes tels que l'immortalité de l'âme, la réincarnation et l'influence des esprits sur la vie terrestre. Dans ce contexte, le courage de la foi émerge comme un élément essentiel dans le parcours spirituel, guidant les adeptes à travers les défis de l'existence et favorisant une compréhension profonde du but de la vie. La foi est l'un des piliers de la doctrine spirite, car elle nous permet de croire en l'existence de Dieu, dans le monde spirituel et dans la vie après la mort. Cependant, la foi ne doit pas être considérée comme quelque chose de passif, mais comme une force active qui nous pousse à agir selon les principes de l'évangile. Le courage de la foi est la capacité de vivre notre foi de manière authentique, même face aux adversités. C'est le courage de professer nos croyances, même lorsqu'elles sont contrariées par la société. C'est le courage de pratiquer le bien, même quand cela nous coûte. Le spiritisme nous enseigne que le courage de la foi est une vertu qui doit être cultivée par tous ceux qui recherchent le progrès spirituel. C'est une vertu qui nous permet de surmonter les obstacles de la vie et d'atteindre le bonheur véritable.",
+                "paragraph2": "Le courage, du point de vue spirite, ne se limite pas à l'affrontement de dangers physiques, mais s'étend au domaine spirituel et moral. La foi, quant à elle, est considérée comme une base fondamentale pour construire ce courage intérieur. Croire à l'existence d'un plan spirituel, à la loi de cause à effet et à l'opportunité d'une évolution constante procure la force nécessaire pour surmonter les obstacles terrestres. La foi dans la Doctrine Spirite n'est pas aveugle, mais fondée sur la raison et la logique. Allan Kardec a proposé la méthode de l'observation, de la comparaison et de l'expérimentation comme base de l'acceptation des principes spirites. Ainsi, la foi devient un exercice conscient de confiance dans les lois divines, démontrant le courage de questionner, d'apprendre et de se transformer.",
+                "paragraph3": "Dans la perspective spirite, la réincarnation est un processus par lequel l'âme traverse diverses expériences terrestres, offrant des opportunités d'apprentissage et d'évolution spirituelle. Dans ce cycle de renaissances, le courage de la foi se révèle dans l'acceptation des défis comme instruments de progrès. La compréhension que les difficultés rencontrées dans la vie actuelle sont le reflet d'actions passées et des opportunités de réparation et de croissance spirituelle renforce le courage intérieur de l'homme dans les épreuves présentes.",
+                "paragraph4": "La Doctrine Spirite souligne l'interaction entre les plans spirituels et terrestres, en mettant l'accent sur l'influence des esprits sur la vie humaine. Le courage de la foi se manifeste dans la capacité à affronter les influences négatives, en cherchant l'élévation spirituelle et la pratique du bien. La compréhension que les esprits désincarnés sont également soumis à la loi du progrès et qu'ils sont souvent disposés à aider à la croissance de l'humanité encourage le courage de croire à la protection spirituelle.",
+                "paragraph5": "Le courage de la foi peut être cultivé de diverses manières, telles que : Étude et réflexion : L'étude de la doctrine spirite nous aide à mieux comprendre les fondements de la foi et à renforcer notre conviction. Pratique de la charité : La pratique de la charité est un moyen d'exprimer notre amour pour Dieu et pour les autres. Elle nous aide à développer la compassion et l'humilité, qui sont des vertus essentielles pour le courage de la foi. Prière et méditation : La prière et la méditation sont des moyens de nous connecter à Dieu et au monde spirituel. Elles nous aident à trouver la paix intérieure et la force nécessaire pour affronter les adversités.",
+                "paragraph6": "L'histoire de l'humanité est remplie d'exemples de courage de la foi. Parmi les exemples notables, on trouve : Jésus-Christ, qui a affronté la persécution et la mort pour répandre la parole de Dieu. Martin Luther King Jr., qui a lutté pour l'égalité raciale aux États-Unis, même face à la violence et aux préjugés. Mère Teresa de Calcutta, qui a consacré sa vie à aider les pauvres et les démunis. Dans la Doctrine Spirite, le courage de la foi n'est pas seulement un acte de résistance face aux adversités, mais une posture active dans la quête de compréhension, d'amour et d'évolution. La foi est un phare qui éclaire les chemins spirituels, fournissant le courage de faire face aux défis avec sagesse et discernement. Le courage de la foi est une vertu qui nous permet de vivre de manière pleine et harmonieuse. Elle est essentielle à notre progrès spirituel et à la construction d'un monde meilleur.",
+                "referenceSection": "Références bibliographiques",
+                "reference": "L'Évangile Selon le Spiritisme codifié par Allan Kardec",
+
+                "titleOracao": "Prière",
+                "prayer1": "Ô Dieu, notre Père, Nous te remercions d’avoir rafraîchi nos âmes après la chaleur des épreuves, de l’expiation et de la souffrance. Tu es le Dieu de compassion et d'amour. Vous nous connaissez et nous comprenez. Vous savez ce que nous avons vécu et ce que nous avons ressenti. Dans le feu de l’épreuve, Tu nous as donné la force de persévérer. Dans le feu de l’expiation, Tu nous as donné paix et réconfort. Dans le feu de la souffrance, tu nous as donné l’espoir et le renouveau. Grâce à Toi, nous pouvons nous reposer sur Tes promesses d’amour et de fidélité. Nous pouvons avoir confiance en Ta justice et Ta miséricorde. Nous pouvons savoir que Tu es avec nous à tout moment, dans le meilleur comme dans le pire. Ô Dieu, rafraîchis nos âmes par ta présence. Donne-nous ta paix, ta joie et ton espérance. Aide-nous à vivre en Ta présence chaque jour de notre vie.",
+
+
+                            
+              "prayer2": "Ô Grand Créateur de l’Univers, aujourd’hui, avec humilité, nous tournons nos cœurs vers Toi reconnaissant Ta grandeur et Ton amour infini. Nous Te demandons de guider chaque étape de notre vie, en comprenant les besoins uniques de chacun de Tes enfants dans ce vaste monde. Pour ceux qui sont confrontés à des difficultés financières, nous demandons Ta généreuse provision afin que l’abondance puisse affluer dans leur vie et que les soucis financiers se dissipent comme la brume à l’aube. À ceux qui font face à des problèmes de santé, nous implorons Ta guérison compatissante, afin qu’ils puissent ressentir Ton contact réparateur et trouver du réconfort dans les moments de douleur. Pour ceux qui sont perdus dans les ténèbres de la solitude, nous demandons Ta présence chaleureuse, afin qu’ils sentent Ton amour les envelopper et leur apporter du réconfort. À ceux qui recherchent la sagesse, accordez-leur du discernement dans leurs choix, en éclairant le chemin à parcourir et en les guidant dans les décisions qui façonneront leur destin. Pour ceux qui luttent pour la paix intérieure, offre-leur la tranquillité au milieu de l’agitation du monde, leur permettant de trouver la sérénité dans Ta grâce. À ceux qui font face à des difficultés familiales, déverse Ta bénédiction sur leur foyer, favorisant la compréhension, le pardon et l’amour inconditionnel entre les êtres chers.Seigneur, tu connais les désirs secrets de chaque cœur, et nous espérons que par ta miséricorde tu répondras à chaque besoin unique. Que ta lumière divine brille aux quatre coins de la Terre, nous unissant dans la compassion et la solidarité. Fortifie-nous pour faire face aux défis quotidiens et inspire-nous à être des instruments de ta paix et de ton amour dans ce monde. En ton nom, nous prions, confiants que tu es la source de tout bien et que, dans ton infinie sagesse, tu répondras aux prières de ceux qui sollicitent ton aide.",
+              "subtitlePrayer3": "Prière d'espérance",
+              "prayer3": "Dieu d'espérance, Dans un monde plein d'incertitude, Nous te cherchons. Cela nous donne de l'espoir pour l'avenir, de la force pour affronter les défis et de la paix pour nos cœurs. Aide-nous à voir le bien en chaque personne, à trouver la beauté dans le monde, et à vivre avec foi et joie. Cette prière est une manière d'exprimer notre espérance pour l'avenir. Nous demandons à Dieu de nous donner la force de faire face aux défis, la paix dans nos cœurs et la capacité de voir le bien en chaque personne.",
+
+
+              "subtitlePrayer4": "Pardon",
+              "prayer4": "Pardonne à celui qui t'a offensé, en oubliant ce qu'il a fait. Donne ton frère non seulement ce que tu as, mais aussi une part de toi-même... En consolant celui qui souffre, offre-lui ton amour. Réjouis-toi avec celui qui est heureux, en Lacent grâce au Seigneur pour lui. Que la routine ne diminue pas comme l'ardeur de ces actions. Ne justifiez jamais ce qui est condamnable. Je ne tolère pas le mal que tout le monde accepte. Et la Paix me descend.",
+
+              "subtitlePrayer5": "Prière pour ceux qui ont faim à Noël",
+              "prayer5": "Père céleste, À Noël, nous célébrons la naissance de Jésus, le Pain de Vie. Mais nous savons que, dans de nombreux endroits du monde, des personnes souffrent encore de la faim. Nous vous demandons de regarder ceux qui souffrent en cette nuit sainte. Puisses-tu leur envoyer ton amour et ta subsistance. Puisses-tu leur ouvrir tes portes et leur montrer ta miséricorde. Puissiez-vous leur donner le pain qui nourrit le corps et l'âme. Puissiez-vous leur donner la paix et l'espoir. Nous vous demandons également de nous aider à soutenir davantage ceux qui ont faim. Puissiez-vous nous inciter à partager ce que nous avons avec ceux qui en ont besoin. Puissiez-vous nous montrer comment nous pouvons faire une différence dans le monde. Au nom de Jésus, le Pain de Vie, Amen. (Vous pouvez ajouter une phrase personnelle, demandant à Dieu de bénir quelqu'un en particulier qui a faim.) Cette prière peut être priée individuellement ou en groupe. C'est une manière d'exprimer notre compassion envers ceux qui souffrent et de demander à Dieu de les bénir. C’est aussi l’occasion de s’engager à soutenir davantage ceux qui ont faim.",
+
+              "subtitlePrayer6": "Prière pour les criminels",
+              "prayer6": "Seigneur Dieu, Père de tous, Avec humilité et compassion, nous nous tournons vers Toi, priant pour tous les criminels de ce monde. Nous savons qu’ils sont des êtres humains, tout comme nous, et qu’ils ont aussi le droit d’être aimés et pardonnés. Demandons, Seigneur, d'éclairer leurs cœurs, afin qu'ils puissent reconnaître leurs erreurs et se repentir. Puisses-tu leur donner la force de surmonter leurs difficultés et de trouver un chemin de paix et de justice. Puisses-Tu également bénir les victimes de crimes, afin qu'elles puissent trouver réconfort et guérison. Et puisses-tu nous donner la sagesse d’agir avec amour et compassion, même face à la douleur et à la souffrance. Amen!",
+
+               "subtitlePrayer7": "",
+               "prayer7": "Dans le silence de l'âme, la prière résonne, Une douce symphonie qui élève l'être. C'est une rencontre intime avec le divin, un dialogue sacré, pur et sincère. Dans la prière, les ailes de l'espérance s'ouvrent, nous emmenant au-delà des frontières terrestres. C'est le refuge de l'âme dans les moments de détresse, Où l'on trouve la paix aux heures les plus sereines. Dans les mots chuchotés à l'univers, réside le pouvoir de transformation. C'est un portail qui nous connecte à l'infini, nous guidant avec amour et compassion. Dans la prière, le cœur s'ouvre à l'humilité, reconnaissant notre fragilité et notre foi. C'est le pont qui unit l'humain au divin, un lien éthéré qui nous mène à l'harmonie et à la foi. Puisse dans chaque prière, nous trouvons lumière et force, Pour affronter les défis du chemin. Que la prière soit notre phare dans les ténèbres, Et l'expression la plus pure de l'amour divin.",
+
+               "subtitlePrayer8": "Acte de foi",
+               "prayer8": "À tout moment, j'ai confiance en Dieu. Dans ce que je fais, je pense à Dieu. Avec qui je vis, j’aime Dieu. Où dois-je suivre. Je continue avec Dieu. Dans ce qui se passe. Dieu fait le mieux. Tout ce que j'ai est une bénédiction de Dieu. EMMANUEL (Chico Xavier)",
+
+               "subtitlePrayer9": "Prière pour demander pardon",
+               "prayer9": "Ô Dieu, Père d'amour et de bonté, je viens à Toi aujourd'hui pour te demander pardon. Je demande pardon pour toutes les fois où j'ai commis des erreurs, Pour toutes les fois où j'ai blessé les autres, Pour toutes les fois où je ne T'ai pas été fidèle, je sais que le pardon est un don, Et je le demande avec humilité. Je reconnais que j'ai besoin de Ton pardon, Pour me libérer du poids du péché, Et pour vivre en paix. Je demande également pardon pour toutes les fois où je n'ai pas pardonné à ceux qui m'ont blessé. Je sais que le pardon est un processus, mais je suis prêt à pardonner, afin de pouvoir me libérer de la haine et du ressentiment. Bénis-moi par ton pardon et aide-moi à être un instrument de ton amour. Amen.",
+
+                "subtitlePrayer10": "",
+               "prayer10": "Seigneur, apprends-nous à prier sans oublier notre travail, à donner sans regarder qui, à servir sans demander combien de temps, à souffrir sans blesser personne, à progresser sans perdre en simplicité, à semer le bien sans penser aux résultats, à nous excuser. sans conditions, avancer sans compter les obstacles, voir sans méchanceté, écouter sans corrompre, parler sans blesser, comprendre autrui sans exiger de compréhension, respecter autrui sans exiger de considération, faire de son mieux, en plus de l'exécution de son propre devoir sans facturer de frais de reconnaissance. Seigneur, fortifie en nous la patience face aux difficultés des autres, tout comme nous avons besoin de la patience des autres face à nos propres difficultés. Aide-nous à ne faire à personne ce que nous ne voulons pas pour nous-mêmes. Surtout, cela nous aide à reconnaître que notre plus grand bonheur sera invariablement celui de réaliser nos projets, où et comme nous le souhaitons, aujourd'hui, maintenant et toujours. Amen! par l'Esprit Emmanuel, psychographie de Francisco Cândido Xavier",
+
+              
+               "subtitlePrayer11": "Prière pour les enfants du monde",
+               "prayer11": "Dieu le Père, nous te louons et te remercions pour le don de la vie. Nous vous demandons pour tous les enfants du monde. Bénis-les de ta paix, de ton amour et de ta protection. Gardez-les du mal et de la violence. Cela leur donne des parents aimants et responsables. Donnez-leur des enseignants et des éducateurs pour les aider à grandir et à apprendre. Donnez-leur des amis qui les aiment et les acceptent tels qu'ils sont. Cela leur donne santé, joie et espoir. Puissent-ils grandir en sagesse et en grâce, Et puissent-ils un jour connaître ton amour infini. Amen!",
+
+               "subtitlePrayer12": "Prière pour la culture de l'Amour",
+               "prayer12": "Ô Dieu, source de tout amour, je viens à Toi aujourd'hui pour te demander ton aide pour cultiver l'amour dans ma vie. Je sais que l'amour est le chemin vers la paix et le bonheur, et je veux vivre une vie pleine d'amour. Aide-moi à être plus compatissant et gentil envers les autres, à pardonner à ceux qui m'ont blessé, et à voir le bien en chacun. Donne-moi la force de surmonter mes peurs et mes préjugés, Et de construire des ponts de compréhension avec ceux qui sont différents de moi. Aide-moi à être un instrument de ton amour dans le monde et à faire une différence dans la vie des gens. Au nom de Jésus, Amen Réflexion : L'amour est une force puissante qui peut transformer le monde. Lorsque nous cultivons l’amour dans nos vies, nous contribuons à la création d’un monde plus paisible et plus harmonieux. Cette prière peut nous aider à nous rappeler l’importance de l’amour et à chercher des moyens de le cultiver dans nos vies. Voici quelques idées spécifiques pour cultiver l’amour : Soyez gentil et prévenant envers ceux qui vous entourent. Pardonnez à ceux qui vous ont blessé. Voyez le bien en chacun, même chez les personnes différentes de vous. Soyez un instrument de paix et de réconciliation dans le monde. L'amour est un choix, mais c'est un choix qui vaut la peine d'être fait.",
+
+
+               "subtitlePrayer13": "Prière pour que l'homme orgueilleux surmonte ses préjugés",
+               "prayer13": "Père céleste, je viens à toi humblement pour te demander de m’aider à surmonter mes préjugés. Je sais que je suis un homme fier et que cela m'empêche de voir le monde clairement. Je juge les gens sur leur apparence et non sur leurs actes. Je me sens supérieur aux autres et cela m’amène à traiter les gens avec dédain. Je sais que c'est mal et je veux changer. Je vous demande de m'aider à être plus humble, à voir le monde avec mon cœur, et à traiter les gens avec respect. Apprends-moi à aimer mes ennemis, Et à pardonner à ceux qui m'offensent. Donne-moi la force de briser mes barrières, Et de construire un monde plus juste et fraternel. Amen. (Vous pouvez ajouter une prière spécifique, par exemple, pour aider à surmonter les préjugés contre une certaine race, ethnicité, religion, orientation sexuelle, etc.). Prière personnelle : Ô Dieu, je veux être un homme meilleur. Je veux être un homme qui aime et respecte tout le monde, quelles que soient leurs différences. Donne-moi la force de vaincre mes préjugés, Et de construire un monde plus juste et fraternel. Amen. Cette prière est une façon pour un homme fier de reconnaître son erreur et de demander à Dieu de l'aider à changer. Cela commence par un humble plaidoyer, demandant à Dieu de l’aider à surmonter son orgueil. Elle reconnaît alors les erreurs de l'homme fier, comme juger les gens sur leurs apparences, se sentir supérieur aux autres et traiter les gens avec dédain. La prière se termine par une demande d'aide à Dieu pour être plus humble, aimer vos ennemis et pardonner à ceux qui vous offensent. Il est important que la prière soit faite avec sincérité et humilité. Un homme fier doit être prêt à reconnaître ses erreurs et à demander à Dieu de l’aider à changer.",
+
+               "subtitlePrayer14": "Prière pour un éclat de lumière dans le monde",
+               "prayer14": "Oh, mon Dieu, dans un monde de ténèbres, je te demande un éclat de lumière. Une lumière qui éclaire nos chemins, Qui nous guide dans les ténèbres, Qui nous donne de l'espoir. Que cette lumière soit source d'amour, De paix, de justice, De bienveillance. Puisse-t-il toucher le cœur des gens et transformer le monde. Que cette lumière soit le signe que le bien existe encore, que l'espoir est encore possible, que l'amour gagne encore. Oh mon Dieu, Envoie-nous un rayon de lumière, Pour que nous puissions construire un monde meilleur. Amen !",
+
+                "subtitlePrayer15": "Mères désespérées",
+               "prayer15": "Père, je viens à Toi aujourd'hui au nom de toutes les mères désespérées. Ils traversent des moments difficiles et ne savent pas comment s’en sortir. Ils sont fatigués, dépassés et parfois même désespérés. Père, entre dans le cœur de ces mères. Donnez-leur la paix dont ils ont besoin. Donnez-leur la force dont ils ont besoin. Donnez-leur la sagesse dont ils ont besoin. Père, montre-leur ton amour. Montre-leur que tu es avec eux. Que tu ne les abandonneras jamais. Père, sois la lumière qui guide tes enfants. Soyez l’espoir qui leur donne la force d’avancer. Soyez le refuge qui leur donne du repos.",
+
+                "subtitlePrayer16": "Prière pour l'anxiété",
+               "prayer16": "Dieu, Père d'amour et de miséricorde, Viens en aide à ceux qui souffrent d'anxiété. Ils se sentent perdus, confus et désorientés. La peur et l'inquiétude les submergent, Et ils ne peuvent trouver la paix. Seigneur, renouvelle ta paix dans leurs cœurs. Gardez les inquiétudes et les peurs hors de vos pensées. Rassurez-les en leur disant qu'ils ne sont pas seuls et que vous êtes toujours avec eux. Puissent-ils ressentir votre amour et votre présence, et que cela leur donne la force et le courage de faire face aux défis. Seigneur, donne-leur la grâce de te faire confiance, et de savoir que tu contrôles tout. Puissent-ils reposer dans vos bras et trouver la paix que vous seul pouvez donner. Au nom de Jésus, Amen. **(Vous pouvez ajouter le nom d'une personne spécifique ou d'un groupe de personnes pour qui vous souhaitez prier.)** Cette prière peut être faite individuellement ou en groupe. Cela peut être répété autant de fois que nécessaire jusqu’à ce que l’anxiété soit soulagée. En plus de la prière, il est important que les personnes souffrant d’anxiété recherchent l’aide d’un professionnel. Un psychologue ou un psychiatre peut vous aider à comprendre l’origine de votre anxiété et à élaborer des stratégies pour y faire face.",
+
+               "subtitlePrayer17": "Prière d'unité",
+               "prayer17": "Dieu Créateur, nous nous réunissons aujourd'hui pour te louer et te remercier. Nous sommes un peuple diversifié, d'origines et de cultures différentes, mais nous sommes unis dans notre foi en vous. Nous vous demandons de nous aider à vivre en paix et en harmonie, à nous respecter les uns les autres, et à travailler ensemble pour un monde meilleur. Bénis nos familles et nos amis, Et guide-nous sur nos chemins. Fais de nous les instruments de ta paix, Et aide-nous à construire un monde où chacun est respecté et aimé. (Adapté d'une prière du mouvement œcuménique) : Cette prière est une manière d'exprimer notre désir d'unité et de paix dans le monde. Il reconnaît la diversité de notre peuple, mais aussi notre unité en Christ. Nous demandons à Dieu de nous aider à vivre en paix et en harmonie, à nous respecter les uns les autres et à travailler ensemble pour un monde meilleur.",
+
+                "subtitlePrayer18": "",
+               "prayer18": "",
+
+                "subtitlePrayer19": "",
+               "prayer19": "",
+
+
+               
+                "posters": {
+                  "title": "Nos Affiches",
+                  "poster1": "Le Bazar Solidaire de l'Institution Spirite de Charité Solar de Jesus est un événement enchanteur qui unit la magie des achats à une noble cause. Dans une ambiance chaleureuse et pleine d'amour, ce bazar propose une variété de produits soigneusement sélectionnés, allant des vêtements aux chaussures. En participant à ce bazar, chaque personne devient partie prenante d'une chaîne d'amour qui illumine des vies et transforme des communautés.",
+                  "poster2": "L'Institution Spirite de Charité Solar de Jesus gère un système transparent et efficace pour la distribution des ressources. Les dons financiers destinés aux campagnes du bazar, à l'assistance sociale, à l'atelier de couture, aux Travailleurs de la Dernière Heure et à l'entretien de l'institution sont gérés de manière organisée. Les fonds sont répartis équitablement, couvrant des dépenses telles que l'entretien et le nettoyage des locaux, l'électricité, l'eau et l'assainissement, ainsi que la redistribution des dons. L'institution privilégie la durabilité et les actions caritatives, veillant à ce que chaque contribution soit utilisée de manière responsable pour le bien-être de la communauté desservie.",
+                  "poster3": "Le Groupe des Travailleurs de la Dernière Heure est la main tendue de l'Institution Spirite de Charité Solar de Jesus vers ceux qui en ont le plus besoin. Dédiés à fournir une aide immédiate et un accueil aux sans-abris et aux personnes dans les files d'attente des hôpitaux, ces bénévoles sont de véritables anges qui interviennent aux moments les plus cruciaux.",
+                  "poster4": "Le Service d'Assistance Sociale de l'Institution Spirite de Charité Solar de Jesus est un lien d'amour et de solidarité, dédié à transformer des vies par des actions concrètes et accueillantes. Fondée sur les principes spirites, notre équipe engagée travaille sans relâche pour offrir un soutien intégral aux personnes en situation de vulnérabilité, promouvant dignité, inclusion et bien-être. Nous cherchons non seulement à répondre aux besoins fondamentaux, mais aussi à inspirer l'espoir et à favoriser le développement personnel, dans le but de construire une société plus juste et fraternelle. Ensemble, nous éclairons les chemins et cultivons l'amour du prochain, guidés par la lumière de la compréhension et de la compassion.",
+                  "poster5": "L'Institution Spirite de Charité Solar de Jesus gère un système transparent et efficace pour la distribution des ressources. Les dons financiers destinés aux campagnes du bazar, à l'assistance sociale, à l'atelier de couture, aux Travailleurs de la Dernière Heure et à l'entretien de l'institution sont gérés de manière organisée. Les fonds sont répartis équitablement, couvrant des dépenses telles que l'entretien et le nettoyage des locaux, l'électricité, l'eau et l'assainissement, ainsi que la redistribution des dons. L'institution privilégie la durabilité et les actions caritatives, veillant à ce que chaque contribution soit utilisée de manière responsable pour le bien-être de la communauté desservie.",
+                  "poster6": "Le Groupe des Volontaires de la Joie, rattaché à l'Institution Spirite de Charité Solar de Jesus, est une équipe dévouée et passionnée qui confectionne des layettes pour les nouveau-nés dans le besoin. Avec amour et compétence, ces bénévoles transforment des tissus en véritables œuvres de tendresse, offrant non seulement des articles essentiels, mais aussi une touche spéciale d'affection et d'espoir aux familles bénéficiaires."
+                },
+
+
+                
+                  "contact_us": "Contactez-nous",
+                  "namelabel": "Nom",
+                  "name": "Entrez votre nom",
+                  "emaillabel": "E-mail",
+                  "email": "Entrez votre e-mail",
+                  "phonelabel": "Téléphone",
+                  "phone": "Entrez votre téléphone",
+                  "messagelabel": "Message",
+                  "message": "Entrez votre message",
+                  "send": "Envoyer",
+                  "fill_all_fields": "Veuillez remplir tous les champs",
+                  "location": "Notre Localisation",
+
+
+                
+                  "homenageados.title": "Hommages",
+                  "homenageados.description": "Avec un profond respect et gratitude, nous rendons un humble hommage aux travailleurs dévoués du Centre Spirite Solar de Jésus qui ont déjà quitté pour la vie spirituelle. Leurs vies consacrées à l'étude et à la pratique du spiritisme ont laissé un héritage d'amour, de charité et d'élévation qui restera une source d'inspiration pour nous tous. Honorons leurs souvenirs en suivant leurs nobles exemples, cultivant la fraternité, la connaissance des lois divines et l'aide aux autres. Que la lumière de l'Évangile de Jésus continue d'illuminer leurs chemins dans le voyage infini des esprits immortels. Nos cœurs s'élèvent en prière de gratitude pour leurs vies et leurs œuvres en faveur de la grande cause du renouveau spirituel de l'humanité. Qu'ils puissent continuer leur mission de guidance et de soutien depuis les sphères spirituelles supérieures.",
+
+                  "gallery_title": "Galerie de Photos - Solar de Jésus"
+              
+
+              
+              
+                
+                
+              
+              
+
+              
+            
+              
+              
+            
+          
+          
+      
+      
+      
+      
+}

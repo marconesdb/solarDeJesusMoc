@@ -1,0 +1,518 @@
+{
+  "navbar": {
+    "home": "Home",
+    "whoWeAre": "Who We Are",
+    "ourHistory": "Our History",
+    "gallery": "Gallery",
+    "ourMoments": "Our Moments",
+    "ourWorks": "Our Works",
+    "honorees": "Honorees",
+    "spiritDoctrine": "Spirit Doctrine",
+    "basicWorks": "Basic Works",
+    "spiritArticles": "Spirit Articles",
+    "prayers": "Prayers",
+    "downloads": "Downloads",
+    "bookSale": "Book Sale",
+    "donations": "Donations",
+    "contact": "Contact",
+    "language": "Language",
+    "english": "English",
+    "french": "French",
+    "spanish": "Spanish",
+    "portuguese": "Portuguese"
+  
+},
+    "quotes": {
+    "quote1": {
+        "text": "Outside of charity there is no salvation.",
+        "author": "Allan Kardec"
+    },
+    "quote2": {
+        "text": "God grants us, each day, a new page in the book of time. What we put on it runs on our account.",
+        "author": "Chico Xavier"
+    },
+    "quote3": {
+        "text": "Men sow on Earth what they will reap in spiritual life: the fruits of their courage or their weakness.",
+        "author": "Allan Kardec"
+    },
+    "quote4": {
+        "text": "To be born, to die, to be reborn again, and to progress always, such is the law.",
+        "author": "Allan Kardec"
+    },
+    "quote5": {
+        "text": "The greatest good we can do for the Spiritist doctrine is its dissemination.",
+        "author": "Bezerra de Menezes, psychographed by Chico Xavier"
+    },
+    "quote6": {
+        "text": "Life on Earth is a blessed school, where suffering is the instructor that teaches the rebellious student the great lessons of the soul.",
+        "author": "André Luiz, psychographed by Chico Xavier"
+    },
+    "quote7": {
+        "text": "Forgiveness is the highest expression of love.",
+        "author": "Joanna de Ângelis, psychographed by Divaldo Franco"
+    },
+    "quote8": {
+        "text": "Each difficulty overcome prepares the spirit to achieve greater victory.",
+        "author": "Emmanuel, psychographed by Chico Xavier"
+    },
+    "quote9": {
+        "text": "Love is the force that unites worlds and governs the stars.",
+        "author": "Leon Denis"
+    },
+    "quote10": {
+        "text": "The courage of love creates the blessing of forgiveness.",
+        "author": "Emmanuel, psychographed by Chico Xavier"
+    },
+    "quote11": {
+        "text": "The true religion is that which makes us better.",
+        "author": "Allan Kardec"
+    },
+    "quote12": {
+        "text": "Charity is love, it is the sun that Our Lord made shine bright and fertile; bringing joy in this life to the painful existence of those who suffer in this world!",
+        "author": "Casimiro Cunha, psychographed by Chico Xavier"
+    },
+    "quote13": {
+        "text": "Your irritation will not solve any problem. Your bad mood does not change life. Don't ruin your day.",
+        "author": "Chico Xavier"
+    },
+    "quote14": {
+        "text": "Reincarnation is God's justice in action.",
+        "author": "Eurípedes Barsanulfo"
+    },
+    "quote15": {
+        "text": "Unshakeable faith is only that which can face reason in all epochs of humanity.",
+        "author": "Allan Kardec"
+    },
+    "quote16": {
+        "text": "Improve everything within yourself, so that everything improves around your steps.",
+        "author": "Chico Xavier"
+    },
+    "quote17": {
+        "text": "Do not keep resentment in your heart, knowing that the one who disappoints you is a companion overcome by their own conflicts.",
+        "author": "Bezerra de Menezes, psychographed by Chico Xavier"
+    },
+    "quote18": {
+        "text": "If you have erred, do not fall into despair, but by working and serving you will receive from God the opportunity for rectification and peace.",
+        "author": "Meimei, psychographed by Chico Xavier"
+    },
+    "quote19": {
+        "text": "Love will always prevail, and therefore, pain will be motivated to disappear from our still troubled path.",
+        "author": "Bezerra de Menezes, psychographed by Chico Xavier"
+    },
+    "quote20": {
+        "text": "You won't always have what you want, but as long as you're helping others, you'll find the resources you need.",
+        "author": "Chico Xavier"
+    },
+    "quote21": {
+        "text": "Charity is a spiritual exercise. Whoever practices good sets in motion the forces of the soul.",
+        "author": "Chico Xavier"
+    },
+    "quote22": {
+        "text": "After death, no one walks with another's light.",
+        "author": "Chico Xavier"
+    },
+    "quote23": {
+        "text": "Jesus places humility in the category of virtues that bring one closer to God and pride among the vices that distance the creature from Him.",
+        "author": "Allan Kardec"
+    },
+    "quote24": {
+        "text": "Forgive now, today and tomorrow, unconditionally. Remember that all creatures carry with them their peculiar imperfections and weaknesses, just as we, still maladjusted, carry our own.",
+        "author": "Emmanuel, psychographed by Chico Xavier"
+    },
+    "quote25": {
+        "text": "Silence for insult and forgiveness for offenses. Remember that aggressors are sick. Do not allow unbalanced brothers to destroy your work or extinguish your hope.",
+        "author": "Chico Xavier"
+    },
+    "quote26": {
+        "text": "The purpose of your life on Earth is not authority, beauty, or ephemeral comfort. It is spiritual improvement.",
+        "author": "André Luiz, psychographed by Chico Xavier"
+    },
+    "quote27": {
+        "text": "God's answer may take a while, but it will never fail to be given. This waiting time serves to prove faith, perseverance, and trust. It is a test of patience and an opportunity to develop inner strength, joy, and courage.",
+        "author": "Bezerra de Menezes, psychographed by Chico Xavier"
+    },
+    "quote28": {
+        "text": "Love yourself by respecting yourself and acting in a way that you won't be ashamed of yourself when subjected to the scrutiny of conscience.",
+        "author": "Joanna de Ângelis, psychographed by Divaldo P. Franco"
+    },
+    "quote29": {
+        "text": "Whatever the circumstances, light up the flame of hope in your mind, the joy of God's Love in your heart and wait.",
+        "author": "Joanna de Ângelis, psychographed by Divaldo P. Franco"
+    },
+    "quote30": {
+        "text": "Think, however, of God's protection and, in all episodes of the road, you will feel Him with you in the silence of your heart.",
+        "author": "Emmanuel, psychographed by Chico Xavier"
+    },
+    "quote31": {
+        "text": "Everywhere, the word is an index of our evolutionary position. It is essential to improve and ennoble it.",
+        "author": "Emmanuel, psychographed by Chico Xavier"
+    },
+    "quote32": {
+        "text": "In all trials, pray and move forward, asking the Lord to help you maintain a peaceful conscience in the performance of your duties.",
+        "author": "Emmanuel, psychographed by Chico Xavier"
+    },
+    "quote33": {
+        "text": "Every time Divine Justice seeks us for settlement of accounts, if it finds us working for the benefit of others, Divine Mercy commands that the collection be suspended indefinitely.",
+        "author": "Chico Xavier"
+    },
+    "quote34": {
+        "text": "Reincarnation is always evolution, recapitulation, teaching, learning, and all this costs effort, obstacles, and sweat. However, in many circumstances, it is expiatory work, regeneration, or healing process.",
+        "author": "André Luiz, psychographed by Chico Xavier"
+    },
+    "quote35": {
+        "text": "Our happiness will naturally be proportional to the happiness we create for others. The joy of others often begins in the smile you choose to give them.",
+        "author": "Chico Xavier"
+    },
+    "quote36": {
+        "text": "Study yourself, observing that self-knowledge brings humility, and without humility, it is impossible to be happy.",
+        "author": "Allan Kardec"
+    },
+    "quote37": {
+        "text": "Persist a little longer. Do not cultivate pessimism. Focus on the good to be done. Forget the suggestions of destructive fear. Move forward, even through the shadow of your own mistakes. Advance even if through tears. And thus you shall overcome.",
+        "author": "Chico Xavier"
+    },
+    "quote38": {
+        "text": "Occupy your available time with profitable work, without forgetting the essential rest for proper recovery. The suggestion of darkness reaches us through the empty hour.",
+        "author": "André Luiz, psychographed by Chico Xavier"
+    },
+    "quote39": {
+        "text": "Grant yourself a greater dose of confidence in your values, honoring yourself with the effort to always improve without discouragement. If you err, repeat the action, and if you succeed, move forward.",
+        "author": "Joanna de Ângelis, psychographed by Divaldo P. Franco"
+    },
+    "quote40": {
+        "text": "Walk forward, rejoice in the suffering that settles your accounts, and bless the obstacles that make you more experienced and nobler!",
+        "author": "Emmanuel, psychographed by Chico Xavier"
+    },
+    "quote41": {
+        "text": "There are beloved Benefactors who assist you, who participate in your sleepless nights and the anguish of your hearts. Learn to hear them, tuning in with these guardian angels through prayer, through thoughts turned to Good.",
+        "author": "Bezerra de Menezes, psychographed by Chico Xavier"
+    },
+    "quote42": {
+        "text": "Let us readjust ourselves to correspond to the protection that the Lord has given us. Difficulty is our step of ascension. Divine help will not fail us. Let us keep serenity! Our living faith, our valor!",
+        "author": "Bezerra de Menezes, psychographed by Chico Xavier"
+    },
+    "quote43": {
+        "text": "The most difficult battle to be fought occurs in your inner world. Nobody sees it, applauds or censures it. It's yours. Victory or defeat will belong to you in silence. No external help can contribute to your success, or any circumstance will lead you to failure.",
+        "author": "Joanna de Ângelis, psychographed by Divaldo P. Franco"
+    },
+    "quote44": {
+        "text": "Cooperate with life, spreading blessings wherever you are, with whoever you meet, as opportunity arises. Return with love the love that life offers you...",
+        "author": "Joanna de Ângelis, psychographed by Divaldo P. Franco"
+    },
+    "quote45": {
+        "text": "When you understand that today's harvest corresponds exactly to yesterday's sowing, you will lament nothing but your own lack of discernment at the moment of choosing the seed that you deliberately cast on the soil of life.",
+        "author": "André Luiz, psychographed by Chico Xavier"
+    },
+    "quote46": {
+        "text": "Do not allow unhappy thoughts to take root in your mind. Life is not limited to the problems you face at this moment. Above them, numerous opportunities for spiritual progress smile at you. Just trust in God and do your best within your reach.",
+        "author": "Sister Scheilla, psychographed by Chico Xavier"
+    },
+    "quote47": {
+        "text": "Pray and act. Serve and trust. Pessimism never has the last word. Wait for God and keep the certainty that God always does what's best.",
+        "author": "Emmanuel, psychographed by Chico Xavier"
+    },
+    "quote48": {
+        "text": "Do not lose your faith among the shadows of the world. Even if your feet are bleeding, move forward, rising by celestial light above yourself. Believe and work. Strive in good and wait with patience. Everything passes and everything renews itself on Earth, but what comes from Heaven will remain.",
+        "author": "Meimei, psychographed by Chico Xavier"
+    },
+    "quote49": {
+        "text": "Reserve yourself the right to remain indifferent to provocations of any nature. In an age of insanity like this, evil walks in freedom, seducing the unwary.",
+        "author": "Joanna de Ângelis, psychographed by Divaldo P. Franco"
+    },
+    "quote50": {
+        "text": "Forgive your persecutors. They are already unhappy, because of what they cultivate within and what they really are.",
+        "author": "Joanna de Ângelis, psychographed by Divaldo P. Franco"
+    },
+    "quote51": {
+        "text": "When you are about to faint, seek refuge in prayer. Through prayer, your mental and moral landscapes will be renewed, raising your spirit and comforting you spiritually.",
+        "author": "Joanna de Ângelis, psychographed by Divaldo P. Franco"
+    },
+    "quote52": {
+        "text": "Lift up the fallen, help the stunned, aid the afflicted, give yourself to life and life will respond to you with gifts of hope and superior progress.",
+        "author": "Joanna de Ângelis, psychographed by Divaldo P. Franco"
+    },
+    "quote53": {
+        "text": "The good you do today may be forgotten tomorrow. Do good anyway. See that, in the end, it is all between you and God! It was never between you and others.",
+        "author": "Mother Teresa of Calcutta"
+    },
+
+    "quote54": {
+        "text": "",
+        "author": ""
+    }
+
+    },
+
+    "semanaEspirita": {
+          "title": "God, Christ, and Charity",
+          "quote": "My children, in the maxim: Outside of charity there is no salvation, the destinies of men are enclosed, on Earth and in heaven; on Earth, because under this banner they will live in peace; in heaven, because those who have practiced it will find grace before the Lord...",
+          "reference": "CH 15, Item 10 - Gospel According to Spiritism",
+          "author": "Allan Kardec"
+        },
+
+    "banner": {
+              "altText": "Image",
+              "title": "Become a Joy Volunteer:",
+              "description": "Offer your love to others, donating your time and providing moral and spiritual comfort."
+            },
+
+        "home": {
+            "prayerMoment": "Prayer Moment",
+            "prayerPlace": "Nursery - Solar de Jesus",
+            "banner": {
+            "altText": "Image"
+            }
+        },
+
+            "footer": {
+              "rightsReserved": "&copy; Spiritual Charity Institution Solar de Jesus - {{year}} All rights reserved",
+              "address": "Address: Av. Leonel Beirão de Jesus, 1555, Neighborhood: Sumaré",
+              "postalCode": "ZIP Code: 39402-547 - Montes Claros - MG/BR",
+              "cnpj": "CPNJ 21.355.599/0001-56",
+              "phone": "Phone: (38) 3214-2878",
+              "alfredoContact": "Alfredo Lorenço: (38) 99979-9996",
+              "claudioContact": "Cláudio Mendes: (38) 99166-0454",
+              "email": "instituicaoespiritadecaridadesolardejesus@solardejesus.com.br",
+              "socialMedia": {
+                "facebook": "https://www.facebook.com/solardejesus/",
+                "instagram": "https://www.instagram.com/voluntariasdaalegria1/",
+                "whatsapp": "https://wa.me/5538999799996"
+              }
+            },
+
+    "ourHistory": {
+    "helmet": {
+      "favicon": "/Favicons/favicon-16x16.png"
+    },
+    "main": {
+      "backgroundClass": "bg-gray-100 min-h-screen py-12 px-4 sm:px-6 lg:px-8",
+      "title": "Our History",
+      "founderTitle": "Our Founder",
+      "founderName": "Francisco Soares da Silva",
+      "imageAlt": "Francisco Soares da Silva",
+      "history": {
+        "paragraphs": [
+          "In 1930, Francisco Soares da Silva, known as Chico Zapateiro, moved to Belo Horizonte, where he met the medium Antônio Loreto Flores, president of the Espírita Amor e Caridade Center. There, he developed his mediumistic abilities. During one of the mediumistic sessions, the Spirit Bezerra de Menezes, through the medium Flores, wrote a letter to Chico Zapateiro. In it, he revealed that Chico had a mission in the lands of northern Minas: to found a spiritualist center under the spiritual protection of Teresa de Jesus.",
+          "Francisco spared no effort. As soon as he retired from the DER, he moved from Belo Horizonte to Montes Claros, determined to found a spiritual center in his hometown. In 1979, at the Joana D`Ark espírita center, located in Vila Guilhermina, I met Mr. Francisco (Chico Zapateiro). In fact, it was a reunion, as the bond that was established could not be translated into words. There, we organized doctrinal study meetings and set up work groups.",
+          "The mediumistic meetings were held on Fridays. On one of these occasions, the spirit Eurípedes Barsanulfo, through Chico Zapateiro’s mediumship, warned the group about their responsibility, saying that, since the times of worship in the Temple of Apollo, some of those present had converted to Christianity, and that, in the present time, we were committed to living and spreading Spiritism, contributing to restore the pure Christianity left by Jesus, breaking paradigms of the time, seeking an ascending coexistence and showing that both are necessary and complementary for humanity. Eurípedes Barsanulfo emphasized that all activities should follow the motto of the flag of the spirit Ismael: God, Christ, and Charity.",
+          "The Temple of the Sun of Apollo takes us back to the year 195 AD in the small Greek town of Sicion, in the Peloponnese region, on the shores of the Gulf of Corinth, a province of the Roman Empire, of which Greece was a part. Although Christianity was tolerated in the provinces, the predominant religion was the worship of mythological gods. Apollo was dedicated to the arts and medicine in the sanctuaries of Delphi and Eleusis. It was reported that mediumistic phenomena occurred in the Solar of Apollo. With the presence of the Apostle Paul of Tarsus in the region, a large number of people converted to Christianity, and the Solar of Apollo became the Solar of Jesus. (Book 'Solar de Apolo', by Zilda Gama).",
+          "On October 22, 1982, we founded the Espírita Center Solar de Jesus, with activities at the headquarters of the Joana D`Ark Espírita Center, where we were received with great affection and respect. With the support of the President of the Aliança Municipal Espírita de Montes Claros, Mr. Petrônio, we officially registered the Espírita Charity Institution Solar de Jesus, which was listed in the registry as a non-profit entity, with Francisco Soares da Silva (Chico Zapateiro) as its first president.",
+          "It was a task carried out with great joy and accompanied by people interested in developing a study group so that, later, the house could serve the public. Our group initially included Acácio Fonseca, Pedro Paulo, Maria José Fernandes, Eunice Aguiar, Willian Martins Santos, Durval Soares, Maria Adeide, Renilson Durães, Eugênio Assis, and Athos Frões.",
+          "In 1998, an opportunity for change arose with the arrival of the Spyer Rabelo family and, later, the couple Marice and Paulo Dennucy. From that year onwards, we were able to found our daycare center on Avenida Coração de Jesus, in the Major Prates neighborhood, establishing an agreement with the Education Department to operate the preschool and daycare. This was another valuable experience for our lives. Since then, we began campaigns to collect clothes and food for those in need, community soup kitchens for the poorest families, educational lectures, and Christian moral lessons.",
+          "We were all aware of the responsibilities of running a 100% philanthropic project. As in all espírita centers, ours also suffered, and continues to suffer, from the turnover of collaborators, a fact understood by all of us, espíritas. Many collaborators passed through and contributed in some way to the growth of the group.",
+          "Remembering these events, while our center celebrates its 30th anniversary, I particularly remember its founder, for whom I have always had deep admiration. I pay tribute here to one of the great pioneers of Spiritism in northern Minas. May Jesus expand the opportunities of this dear companion who continues to fight for the common cause from the Invisible Plane."
+        ],
+        "author": "Alfredo Lourenço"
+      }
+    }
+  },
+
+      "voluntariosDaAlegria": {
+        "imageAlt": "Volunteers of Joy",
+        "title": "Volunteers of Joy",
+        "subtitle": "Sewing Clothes, Weaving Joys: Volunteers of Joy, Transforming Lines into Special Moments",
+        "description": "In the city of Montes Claros, MG, where light shone intensely with the colors of joy, a special group regularly gathered, known as the 'Volunteers of Joy'. They shared a common passion: sewing. Each needle and thread were like extensions of their generous hearts, handled by dedicated hands. One day, they realized that mothers in despair were whispering in their ears because their needy children needed new clothes, and many would be born without any clothing at all. The children, with their unique stories and radiant smiles, were the perfect inspiration for the Volunteers of Joy. The group gathered in their workshop at the Solar de Jesus Spiritist Center, where colorful fabrics and vibrant threads filled the environment with positivity. Each volunteer carefully chose a piece of fabric, imagining how they could transform it into something special. Some chose bright patterns, while others opted for soft tones, creating a diverse collection, just like the children themselves. While sewing, they shared stories and laughter, creating an atmosphere full of human warmth. The needles moved skillfully, transforming simple pieces of cloth into unique, caring garments. When the clothes were ready, the Volunteers of Joy set out to meet those future mothers and mothers who would have their children in difficult conditions due to economic and social vulnerability. The mothers were received with warm embraces and delighted with the new custom-made clothes, their faces lighting up. It was more than clothing; it was a tangible manifestation of the care and attention that each volunteer had put into every stitch. The Volunteers of Joy not only sewed clothes that afternoon but also wove indestructible bonds of friendship and compassion. Their work was not just about creating garments but about enveloping newborns in a collective embrace of love and hope. Since then, the Volunteers of Joy have continued to sew not just clothes, but also stories of solidarity and joy, showing that with a little creativity and much dedication, it is possible to transform fabric into treasures that warm hearts.",
+        "videoTitle": "Learn How to Sew Clothes for Needy Children - Volunteers of Joy",
+        "videoDescription": "Learn to Sew Clothes for Needy Children - Volunteers of Joy | Solar de Jesus Spiritist Center"
+      },
+      "trabalhadoresUltimaHora": {
+        "imageAlt": "Last Hour Workers",
+        "title": "Last Hour Workers",
+        "subtitle": "In the Final Journey, Workers of Light: Sowing Love and Hope, Following Jesus' Footsteps",
+        "description": "In the city of Montes Claros, MG, where light shone intensely with the colors of joy, a special group regularly gathered, known as the 'Volunteers of Joy'. They shared a common passion: sewing. Each needle and thread were like extensions of their generous hearts, handled by dedicated hands. One day, they realized that mothers in despair were whispering in their ears because their needy children needed new clothes, and many would be born without any clothing at all. The children, with their unique stories and radiant smiles, were the perfect inspiration for the Volunteers of Joy. The group gathered in their workshop at the Solar de Jesus Spiritist Center, where colorful fabrics and vibrant threads filled the environment with positivity. Each volunteer carefully chose a piece of fabric, imagining how they could transform it into something special. Some chose bright patterns, while others opted for soft tones, creating a diverse collection, just like the children themselves. While sewing, they shared stories and laughter, creating an atmosphere full of human warmth. The needles moved skillfully, transforming simple pieces of cloth into unique, caring garments. When the clothes were ready, the Volunteers of Joy set out to meet those future mothers and mothers who would have their children in difficult conditions due to economic and social vulnerability. The mothers were received with warm embraces and delighted with the new custom-made clothes, their faces lighting up. It was more than clothing; it was a tangible manifestation of the care and attention that each volunteer had put into every stitch. The Volunteers of Joy not only sewed clothes that afternoon but also wove indestructible bonds of friendship and compassion. Their work was not just about creating garments but about enveloping newborns in a collective embrace of love and hope. Since then, the Volunteers of Joy have continued to sew not just clothes, but also stories of solidarity and joy, showing that with a little creativity and much dedication, it is possible to transform fabric into treasures that warm hearts.",
+        "videoTitle": "Come Collaborate in the Work of Good - Last Hour Workers Group",
+        "videoDescription": "Come Collaborate in the Work of Good - Last Hour Workers Group - Solar de Jesus Spiritist Center"
+      },
+      "bazarSolarDeJesus": {
+        "imageAlt": "Solar de Jesus Spiritist Center Bazaar Logo",
+        "title": "Solar de Jesus Spiritist Center Bazaar",
+        "subtitle": "Shine with Solidarity: Solar de Jesus Spiritist Center Bazaar, Where Each Purchase Illuminates Lives!",
+        "description": "There was a small community, embraced by faith and the will to do good. At the heart of this community stood the Solar de Jesus Spiritist Center, a beacon of love and solidarity. One day, a group of volunteers had a brilliant idea to unite efforts and contribute even more to the well-being of those in need. Thus, the 'Solar de Jesus Spiritist Center Bazaar' was born. This special place became a meeting point for generous donations of clothes, household items, and other material resources. The community mobilized, each person bringing a piece of love with them. The Bazaar, with its colorful shelves and display windows full of stories, became a space of sharing. Clothes, once stored in wardrobes, found new owners, providing not just physical warmth, but human warmth. The resources raised took on their own life, transforming into material assistance for those most in need. Each donation, each piece of clothing, told a story of generosity. And so, the Solar de Jesus Spiritist Center Bazaar was not just a place of commercial transactions, but a meeting point for solidary hearts. Donations were not simple objects; they were invisible hugs, transmitting love and hope. At the end of each day at the Bazaar, volunteers smiled, knowing they were making a difference in many lives. The money raised found its way to support social projects, assist families in difficulty, and support noble causes. The Solar de Jesus Spiritist Center Bazaar became a symbol of human capacity to unite for the benefit of others. It not only clothed bodies but also warmed souls. In each donated piece and each purchase made, the center's motto echoed: 'Illuminating Lives, Spreading Love.'",
+        "videoTitle": "Spiritist Institution of Charity Solar de Jesus Bazaar",
+        "videoDescription": "Spiritist Institution of Charity Solar de Jesus Bazaar - Montes Claros-MG"
+      },
+      "evangelizacaoInfantil": {
+        "imageAlt": "Children's Evangelization Logo",
+        "title": "Children's Evangelization",
+        "subtitle": "Planting Divine Seeds: Workshop of Love, Values, and Spirituality for Little Hearts!",
+        "description": "Spiritist children's evangelization is a spiritual work that has a structure of study and understanding of good practices, welcoming and supporting both children and their families. This work helps children in their moral formation through Jesus' teachings. Children's Evangelization helps the individual prepare for adult life, to face earthly challenges, cultivating in themselves the practice of doing good and developing Christian morality. Spiritist children's evangelization is essential to educate and attribute moral values, as well as teach about Spiritism to children. In addition to bringing the individual closer to God, it also connects them with themselves. Spiritist evangelization provides a welcoming and safe environment for children and young people to express themselves freely, share their experiences, and receive appropriate guidance to deal with life's difficulties. It is an opportunity for learning and personal growth, which contributes to the formation of more conscious and responsible individuals.",
+        "groupImageAlt": "Students and Educator of Children's Evangelization",
+        "groupImageDescription": "Students and Educator of Children's Evangelization - Solar de Jesus Spiritist Center - Montes Claros-MG"
+      },
+      "assistenciaSocial": {
+        "imageAlt": "Social Assistance",
+        "title": "Social Assistance",
+        "subtitle": "Basic Food Basket Distribution Christmas 2023 - Solar de Jesus Spiritist Center - Montes Claros - MG",
+        "prayer": "*Prayer for Those Hungry at Christmas* Heavenly Father, At Christmas, we celebrate the birth of Jesus, the Bread of Life. But we know that in many places in the world, there are still people who go hungry. We ask you to look upon those who suffer on this holy night. Send them your love and sustenance. Open your doors to them and show them your mercy. Give them the bread that feeds body and soul. Give them peace and hope. We also ask you to help us be more compassionate with those who are hungry. Inspire us to share what we have with those in need. Show us how we can make a difference in the world. In the name of Jesus, the Bread of Life, Amen!",
+        "videoTitle": "Basic Food Basket Distribution Christmas 2023",
+        "videoDescription": "Basic Food Basket Distribution Christmas 2023 - Solar de Jesus Spiritist Center"
+      },
+      "passeEspirita": {
+        "imageAlt": "Spiritist Pass",
+        "title": "The Spiritist Pass",
+        "subtitle": "Renew Your Energy, Find Balance: The Spiritist Pass, a Touch of Well-being for Body and Soul",
+        "description": "The Spiritist pass and fluidified water is a common practice within Spiritism, a doctrine with roots in the 19th century. This technique involves the transmission of beneficial fluidic energies through the hands, with the aim of promoting energetic, physical, and spiritual balance of a person. Through the pass, positive energies are channeled, which can help harmonize the body's energy centers (chakras) and provide well-being. The Spiritist pass is often performed in Spiritist centers during public meetings and is considered a complementary therapeutic resource within the context of Spiritist spirituality.",
+        "prayerTitle": "**Prayer for the Sick** ",
+        "prayer": "God the Father, Almighty, You who are the source of life and healing, look with mercy upon your sons and daughters who suffer from illnesses of body and soul. Touch them with your mighty hand, and heal them of all their pains and sufferings. Give them the strength to face their illness, and the hope of one day being cured. Envelop them in your merciful love, and give them the peace that only You can give. We pray for all the sick in the world, especially those who are most in need: for those suffering from serious illnesses, for those in terminal phases, for those living with chronic pain, for those discriminated against because of their illness, and for those who do not have access to the health care they need. Hear our plea, and give them the healing they long for. In the name of Jesus Christ, Our Lord. Amen!",
+        "imageDescription": "Illustration of the Spiritist Pass"
+      },
+
+        "title": "Basic Works of Spiritism",
+        "description": "The basic works of Spiritism constitute a fundamental set of texts that serve as the doctrinal foundation for the followers of this spiritualist philosophy. They were codified by Allan Kardec, pseudonym of the French educator and writer Hippolyte Léon Denizard Rivail, in the 19th century. These works, comprising five books, are considered the basis of Spiritism, offering teachings about the nature, origin, and destiny of spirits, as well as the relationship between the material and spiritual worlds.",
+        "book1": "The Spirits' Book",
+        "book1_description": "Published in 1857, it is the inaugural work of the codification. In this book, Kardec presents a series of questions to spirits through mediums, exploring topics such as God, the soul, reincarnation, and spiritual evolution.",
+        "book2": "The Mediums' Book",
+        "book2_description": "Released in 1861, it is dedicated to the study of mediumistic manifestations. Kardec explores the different types of mediumship, their characteristics, and the necessary precautions for responsible mediumistic practice.",
+        "book3": "The Gospel According to Spiritism",
+        "book3_description": "Published in 1864, it is a compilation of Jesus' moral teachings in light of Spiritism. It offers reflections on topics such as charity, forgiveness, and love for others, encouraging the practice of the Gospel in daily life.",
+        "book4": "Heaven and Hell",
+        "book4_description": "Written in 1865, it addresses the issue of life after death, presenting an analysis of the different spiritual conditions experienced by spirits after disincarnation.",
+        "book5": "Genesis",
+        "book5_description": "Published in 1868, it explores the origin of planet Earth and living beings in light of the Spiritist doctrine. Kardec discusses topics such as the plurality of inhabited worlds, creation, and the influence of spirits on humanity's evolution. When studied together, these works provide a comprehensive understanding of Spiritist principles. They stimulate the moral and intellectual development of practitioners, while offering guidance for a more fulfilling life based on fraternity, solidarity, and spiritual improvement.",
+
+    
+            "article_title_1": "Article - Charity According to Jesus: Benevolence, Indulgence, and Forgiveness of Offenses",
+            "article_text_1": "The article \"Charity According to Jesus: Benevolence, Indulgence, and Forgiveness of Offenses\" highlights the timeless message of Jesus Christ on charity, which continues to inspire millions of people globally. The essence of charity, according to Jesus, involves benevolence, indulgence, and forgiveness of offenses. Benevolence refers to a selfless and compassionate love, extended to all, regardless of differences. Indulgence implies understanding human weaknesses and offering help to overcome them, fostering empathy and mercy. Forgiveness, central to Jesus's message, does not mean forgetting, but freeing oneself from resentment, following the example of Jesus who forgave even during his crucifixion. These principles form the foundation of Christian life, promoting interpersonal relationships based on love and compassion, and continue to be a transformative force for those who seek to follow Jesus's teachings.",
+            "read_more": " Read More",
+            "article_title_2": "Article - The Courage of Faith According to the Spiritist Doctrine",
+            "article_text_2": "The courage of faith is a virtue that allows us to live our faith authentically, even in the face of adversity. It is the courage to profess our beliefs, even when they are opposed by society. It is the courage to do good, even when it comes at a cost. Spiritism teaches us that the courage of faith is a virtue that should be cultivated by all who seek spiritual progress. It is a virtue that allows us to overcome life's obstacles and achieve true happiness.",
+
+        
+  "titleCaridade": "Charity According to Jesus: Benevolence, Indulgence, and Forgiveness of Offenses",
+  "content": {
+    "paragraph1": "Charity, according to Jesus, is more than just an act of giving or helping. It is a state of mind, an attitude of unconditional love towards others. In Jesus' teachings, we see the essence of charity manifested in every word, every gesture of compassion, and every moment of forgiveness. It is a call to transcend selfishness and embrace generosity, to look beyond differences, and to extend a helping hand to those in need. Jesus exemplified charity in His own life, dedicating Himself to the poor, the sick, and the marginalized. He not only provided food to the hungry and healing to the sick but also offered comfort to the afflicted and forgiveness to sinners. His charity knew no bounds, for He saw in every person the image and likeness of God.",
+    "paragraph2": "Moreover, Jesus taught us the importance of forgiveness as a fundamental part of charity. He showed us that forgiveness is not only about releasing others from guilt but also about freeing ourselves from the weight of resentment and bitterness. By forgiving, we make room for love to flow freely in our lives, transforming not only those who receive our forgiveness but also ourselves. Therefore, following Jesus' example in practicing charity is more than just a religious obligation; it is a conscious choice to live a life of love and compassion. It is about recognizing the common humanity we share and acting in solidarity with one another. Thus, as we walk the path of charity according to Jesus, we not only transform the world around us but also draw closer to the true essence of divine love.",
+    "paragraph3": "On this journey of charity according to Jesus, we are challenged to cultivate not only altruistic actions but also a compassionate heart and an open mind. We must see beyond appearances and the barriers we create between ourselves and others. Charity calls us to extend a hand not only to those close to us or similar to us but to all living beings who share this world with us. It is important to remember that charity goes beyond simply giving alms or performing good deeds. It requires deep empathy, a sincere desire to alleviate the suffering of others, and a continuous commitment to justice and equality. It means being willing to sacrifice a bit of our personal comfort for the welfare of others and being ready to act whenever the opportunity arises.",
+    "paragraph4": "Following Jesus' teachings on charity also challenges us to overcome our own limitations and prejudices. It invites us to recognize the dignity and intrinsic value of every human being, regardless of their background, race, religion, or social status. It is an invitation to build bridges instead of walls, to promote inclusion instead of exclusion, and to practice compassion instead of judgment. Thus, as we walk the path of charity according to Jesus, we not only make the world a better place for everyone but also become more fulfilled and complete human beings. We find meaning and purpose in our lives by serving others with love and generosity, following the example of the One who taught us that the greatest commandment is to love our neighbor as ourselves.",
+    "author": "Author: Marcone Silva de Brito",
+    "publishDate": "Publication Date: [28/02/2024]"
+  },
+  "references": {
+    "title": "Bibliographical References",
+    "ref1": "Jesus and Life, chap. 19, LEAL publishing, by the Spirit Joanna de Ângelis, psychographed by Divaldo Pereira Franco",
+    "ref2": "The Gospel According to Spiritism Codified by Allan Kardec",
+    "ref3": "The Spirits' Book - Questions 886 to 889"
+  },
+
+    "titleCoragem": "The Courage of Faith According to Spiritist Doctrine",
+    "paragraph1": "The Spiritist Doctrine, codified by Allan Kardec in the 19th century, offers a comprehensive view of existence, addressing themes such as the immortality of the soul, reincarnation, and the influence of spirits on earthly life. Within this context, the courage of faith emerges as an essential element in the spiritual journey, guiding followers through the challenges of life and promoting a deep understanding of the purpose of life. Faith is one of the pillars of the Spiritist doctrine, as it allows us to believe in the existence of God, the spiritual world, and life after death. However, faith should not be seen as something passive but as an active force that drives us to act according to the principles of the gospel. The courage of faith is the ability to live our faith authentically, even in the face of adversity. It is the courage to profess our beliefs, even when they are contradicted by society. It is the courage to do good, even when it comes at a cost to us. Spiritism teaches us that the courage of faith is a virtue that should be cultivated by all who seek spiritual progress. It is a virtue that enables us to overcome the obstacles of life and attain true happiness.",
+    "paragraph2": "From a Spiritist perspective, courage is not limited to facing physical dangers but extends to the spiritual and moral realm. Faith, in turn, is considered a fundamental foundation for building this inner courage. Believing in the existence of a spiritual plan, the law of cause and effect, and the opportunity for constant evolution provides the strength needed to overcome earthly challenges. Faith in the Spiritist Doctrine is not blind but grounded in reason and logic. Allan Kardec proposed the method of observation, comparison, and experimentation as a basis for accepting Spiritist principles. Thus, faith becomes a conscious exercise of trust in divine laws, demonstrating the courage to question, learn, and transform.",
+    "paragraph3": "From a Spiritist perspective, reincarnation is a process through which the soul undergoes various earthly experiences, providing opportunities for learning and spiritual evolution. In this cycle of rebirths, the courage of faith is revealed in accepting challenges as tools for progress. The understanding that the difficulties faced in the current life are reflections of past actions and opportunities for repair and spiritual growth strengthens the inner courage of individuals in present struggles.",
+    "paragraph4": "The Spiritist Doctrine highlights the interaction between spiritual and earthly realms, emphasizing the influence of spirits on human life. The courage of faith manifests in the ability to face negative influences, seeking spiritual elevation and the practice of good. The understanding that disembodied spirits are also subject to the law of progress and are often willing to assist in humanity's growth encourages the courage to trust in spiritual protection.",
+    "paragraph5": "The courage of faith can be cultivated in various ways, such as: Study and reflection: The study of the Spiritist doctrine helps us better understand the fundamentals of faith and strengthen our conviction. Practice of charity: Practicing charity is a way to express our love for God and others. It helps us develop compassion and humility, which are essential virtues for the courage of faith. Prayer and meditation: Prayer and meditation are ways to connect with God and the spiritual world. They help us find inner peace and the strength needed to face adversities.",
+    "paragraph6": "Human history is full of examples of the courage of faith. Notable examples include: Jesus Christ, who faced persecution and death to spread the word of God. Martin Luther King Jr., who fought for racial equality in the United States, even in the face of violence and prejudice. Mother Teresa of Calcutta, who dedicated her life to helping the poor and needy. In Spiritist Doctrine, the courage of faith is not just an act of resistance in the face of adversity, but an active stance in the pursuit of understanding, love, and evolution. Faith is a beacon that illuminates spiritual paths, providing courage to face challenges with wisdom and discernment. The courage of faith is a virtue that allows us to live fully and harmoniously. It is essential for our spiritual progress and for building a better world.",
+    "referenceSection": "Bibliographic References",
+    "reference": "The Gospel According to Spiritism codified by Allan Kardec",
+
+  "titleOracao": "Prayer",
+  "prayer1": "O God, our Father, We thank You for refreshing our souls after the heat of trial, atonement and suffering. You are the God of compassion and love. You know us and understand us. You know what we go through and what we feel. In the heat of the test, You gave us strength to persevere. In the heat of atonement, You gave us peace and comfort. In the heat of suffering, You gave us hope and renewal. Thanks to You, we can rest in Your promises of love and faithfulness. We can trust in Your justice and mercy. We can know that You are with us at all times, in the good and the bad. O God, refresh our souls with Your presence. Give us Your peace, Your joy and Your hope. Help us to live in Your presence, every day of our lives.",
+
+  "prayer2": "O Great Creator of the Universe, Today, in humility, we turn our hearts to You, recognizing Your greatness and infinite love. We ask that You guide each step of our lives, understanding the unique needs of each of Your children in this vast world. For those facing financial challenges, we ask for Your generous provision so that abundance can flow into their lives and financial worries dissipate like mist at dawn. To those who face health difficulties, we implore Your compassionate healing, so that they may feel Your restorative touch and find comfort in times of pain. For those who are lost in the darkness of loneliness, we ask for Your warm presence, so that they may feel Your love enveloping them and bringing them comfort. To those who seek wisdom, grant them discernment in their choices, illuminating the path ahead and guiding them in the decisions that will shape their destinies. For those who struggle for inner peace, offer them tranquility amidst the hustle and bustle of the world, allowing them to find serenity in Your grace. To those facing family challenges, pour Your blessing upon their homes, promoting understanding, forgiveness and unconditional love among loved ones. Lord, You know the secret longings of every heart, and we trust that through Your mercy You will meet each unique need. May Your divine light shine upon every corner of the Earth, uniting us in compassion and solidarity. Strengthen us to face daily challenges and inspire us to be instruments of Your peace and love in this world. In Your name, we pray, confident that You are the source of all good and that, in Your infinite wisdom, You will answer the prayers of those who seek Your help.",
+
+  "subtitlePrayer3":"Prayer of Hope",
+  "prayer3": "God of hope, In a world full of uncertainty, We seek you. It gives us hope for the future, Strength to face challenges, And peace for our hearts. Help us to see the good in every person, To find beauty in the world, And to live with faith and joy. This prayer is a way of expressing our hope for the future. We ask God to give us strength to face challenges, peace in our hearts, and the ability to see the good in each person.",
+
+  "subtitlePrayer4": "Forgiveness",
+  "prayer4": "  Forgive anyone who offended you, forgetting what he did. Give your brother not only what you have, but a little of yourself... Consoling the one who suffers, give him your love. Rejoice with those who are happy, thanking the Lord for them. May routine not diminish the ardor of your actions. Never justify what is reprehensible. Nor tolerate the evil that the world accepts. And the Peace of Christmas will descend upon You.",
+
+  "subtitlePrayer5": "Prayer for those who are hungry at Christmas",
+   "prayer5": " Heavenly Father, At Christmas, we celebrate the birth of Jesus, the Bread of Life. But we know that, in many places around the world, there are still people who go hungry. We ask you to look at those who suffer on this holy night. May You send them Your love and Your sustenance. May You open Your doors to them and show them Your mercy. May you give them the bread that feeds the body and soul. May you give them peace and hope. We also ask you to help us be more supportive of those who are hungry. May you inspire us to share what we have with those who need it. May you show us how we can make a difference in the world. In the name of Jesus, the Bread of Life, Amen. (You can add a personal phrase, asking God to bless someone specific who is hungry.) This prayer can be prayed individually or in a group. It is a way of expressing our compassion for those who suffer and asking God to bless them. It is also an opportunity to commit to being more supportive of those who are hungry.",
+
+   "subtitlePrayer6": "Prayer for criminals",
+   "prayer6": "Lord God, Father of all, With humility and compassion, we turn to You, praying for all the criminals in this world. We know that they are human beings, just like us, and that they also have the right to be loved and forgiven. Let us ask, Lord, that You enlighten their hearts, so that they can recognize their mistakes and repent. May You give them the strength to overcome their difficulties and find a path of peace and justice. May You also bless the victims of crimes, so that they may find comfort and healing. And may You give us the wisdom to act with love and compassion, even in the face of pain and suffering. Amen!",
+
+
+   "subtitlePrayer7": "",
+    "prayer7": "In the silence of the soul, the prayer echoes, A gentle symphony that elevates the being. It is an intimate encounter with the divine, A sacred, pure and sincere dialogue to be had. In prayer, the wings of hope open, Taking us beyond earthly borders. It is the soul's refuge in times of distress, Where we find peace in the most serene hours. In words whispered to the universe, There lies the power of transformation. It is a portal that connects us to infinity, Guiding us with love and compassion. In prayer, the heart opens in humility, Recognizing our fragility and faith. It is the bridge that unites the human with the divine, An ethereal bond that leads us to harmony and faith. That in every prayer, we find light and strength, To face the challenges along the way. May prayer be our beacon in the darkness, It is the purest expression of divine love.",
+
+   
+
+    "subtitlePrayer8": "Act of Faith",
+    "prayer8": "At all times I trust in God. In what I do I think about God. Who I live with I love God. Where do I follow. I continue with God. In what happens. God does the best. Everything I have is a blessing from God. EMMANUEL (Chico Xavier)",
+
+     "subtitlePrayer9": "Prayer to ask for forgiveness",
+    "prayer9": "O God, Father of love and kindness, I come to You today to ask for forgiveness. I ask forgiveness for all the times I made mistakes, For all the times I hurt others, For all the times I wasn't faithful to You. I know that forgiveness is a gift, And I ask it with humility. I recognize that I need Your forgiveness, So that I can be free from the weight of sin, And so that I can live in peace. I also ask for forgiveness every time In which I have not forgiven those who hurt me. I know forgiveness is a process, But I'm willing to forgive, So that I can be free from hate and resentment. Bless me with Your forgiveness, And help me to be an instrument of Your love. Amen.",
+
+     "subtitlePrayer10": "",
+    "prayer10": "Sir, teach us to pray without forgetting work, To give, without looking who, to serve without asking until when, to suffer without hurting anyone, to progress without losing simplicity, to sow good without thinking about the results, to apologize without conditions, to march forward without counting the obstacles, to see without malice, to listen without corrupting matters, to speak without hurting, to understand others without demanding understanding, to respect others without demanding consideration, to do our best, in addition to performing our own duties without charging recognition fees. Sir, strengthens our patience with difficulties of others, just as we need the patience of others to our own difficulties. Help us so that no one does that to anyone that we don't want for ourselves. Above all, it helps us to recognize that our higher happiness will invariably be that of fulfilling the designs, where and however you want, today, now and always. Amen! by the Spirit Emmanuel, psychography by Francisco Cândido Xavier",
+  
+  
+    "subtitlePrayer11": "Prayer for the Children of the World",
+    "prayer11": "Father God, We praise you and thank you for the gift of life. We ask you for all the children in the world. Bless them with your peace, your love and your protection. Keep them from evil and violence. Give them loving and responsible parents. Give them teachers and educators to help them grow and learn. Give them friends who love and accept them as they are. Give them health, joy and hope. May they grow in wisdom and grace, And may they one day know your infinite love. Amen!",
+
+    "subtitlePrayer12": "Prayer for the cultivation of Love",
+    "prayer12": "O God, source of all love, I come to You today to ask for Your help in cultivating love in my life. I know that love is the path to peace and happiness, and I want to live a life full of love. Help me to be more compassionate and kind to others, To forgive those who have hurt me, And to see the good in everyone. Give me the strength to overcome my fears and prejudices, And to build bridges of understanding with those who are different from me. Help me to be an instrument of Your love in the world, And to make a difference in people's lives. In the name of Jesus, Amen. Reflection: Love is a powerful force that can transform the world. When we cultivate love in our lives, we are contributing to the creation of a more peaceful and harmonious world. This prayer can help us remember the importance of love and look for ways to cultivate it in our lives. Here are some specific ideas for cultivating love: Be kind and considerate to the people around you. Forgive those who hurt you. See the good in everyone, even in people who are different from you. Be an instrument of peace and reconciliation in the world. Love is a choice, but it's a choice worth making.",
+
+
+    "subtitlePrayer13": "Prayer for the proud man to overcome his prejudices ",
+    "prayer13": "Heavenly Father, I come to You, humbly, Asking you to help me overcome my prejudices. I know I'm a proud man, And that prevents me from seeing the world clearly. I judge people by their appearances, And not because of your actions. I feel superior to others, And that leads me to treat people with disdain. I know this is wrong, And I want to change. I ask you to help me to be more humble, Seeing the world with the heart, And treating people with respect. Teach me to love my enemies, And to forgive those who offended me. Give me the strength to break my barriers, And to build a more just and fraternal world. Amen. (You can add a specific prayer, for example, for help in overcoming prejudice against a certain race, ethnicity, religion, sexual orientation, etc.)  Personal prayer: O God, I want to be a better man. I want to be a man who loves and respects everyone, Regardless of their differences. Give me the strength to overcome my prejudices, And to build a more just and fraternal world. Amen. This prayer is a way for a proud man to recognize his mistake and ask God for help to change. She begins with a humble plea, asking God to help him overcome his pride. Next, she acknowledges the mistakes of the proud man, such as judging people by appearances, feeling superior to others, and treat people with disdain. The prayer ends with a request to God for help to be more humble, love your enemies and forgive those who offend you. It is important that prayer is done with sincerity and humility. A proud man must be willing to recognize his mistakes and ask God for help to change.",
+
+    "subtitlePrayer14": "Prayer for a ray of light in the world",
+    "prayer14": "Oh God, In a world of darkness, I ask you for a ray of light. A light that illuminates our paths, May it guide us in the darkness, May it give us hope. May this light be a source of love, Of peace, of justice, Of kindness. May she touch people's hearts, And transform the world. May this light be a sign that good still exists, That hope is still possible, That love still wins. Oh God, Send us a ray of light, So that we can build a better world. Amen !",
+
+     "subtitlePrayer15": "Mothers in Despair",
+    "prayer15": "Father, I come to You today in the name of all mothers who are in despair. They are going through difficult times, and they don't know how to find a way out. They are tired, overwhelmed, and sometimes even hopeless. Father, Get into the hearts of these mothers. Give them the peace they need. Give them the strength they need. Give them the wisdom they need. Father, Show them Your love. Show them that You are with them. That You will never abandon them. Father, Be the light that guides these children of yours. Be the hope that gives them strength to move forward. Be the refuge that gives them rest.",
+
+     "subtitlePrayer16": "Prayer for anxiety",
+    "prayer16": "God, Father of love and mercy, Come to the aid of those experiencing anxiety. They feel lost, confused and disoriented. Fear and worry overwhelm them, And they can't find peace. Sir, Renew your peace in their hearts. Keep worries and fears out of your thoughts. Give them reassurance that they are not alone, And that you are always with them. May they feel your love and your presence, And may this give them strength and courage to face challenges. Sir, Give them the grace to trust in you, And knowing that you have control over everything. May they rest in your arms, And find the peace that only you can give. In the name of Jesus, Amen. **(You can add the name of a specific person or group of people you want to pray for.)** This prayer can be done individually or in a group. It can be repeated as many times as necessary until the anxiety is relieved. In addition to prayer, it is important that people suffering from anxiety seek professional help. A psychologist or psychiatrist can help you understand the origin of your anxiety and develop strategies to deal with it.",
+
+     "subtitlePrayer17": "Prayer of Unity",
+    "prayer17": "Creator God, We gather today to praise you and thank you. We are a diverse people, from different origins and cultures, But we are united in our faith in you. We ask you to help us live in peace and harmony, To respect each other, And working together for a better world. Bless our families and friends, And guide us on our paths. Make us instruments of your peace, And help us build a world where everyone is respected and loved. (Adapted from a prayer from the ecumenical movement): This prayer is a way for us to express our desire for unity and peace in the world. It recognizes the diversity of our people, but also our unity in Christ. We ask God to help us live in peace and harmony, respect each other, and work together for a better world.",
+
+     "subtitlePrayer18": "",
+    "prayer18": "",
+
+     "subtitlePrayer19": "",
+    "prayer19": "",
+
+
+        "posters": {
+          "title": "Our Posters",
+          "poster1": "The Solidarity Bazaar of the Solar de Jesus Spiritist Charity Institution is a delightful event that combines the magic of shopping with a noble cause. In a welcoming and loving environment, this bazaar offers a variety of carefully selected products, from clothes to shoes. By participating in this bazaar, each person becomes part of a chain of love that lights up lives and transforms communities.",
+          "poster2": "The Solar de Jesus Spiritist Charity Institution operates a transparent and efficient system for resource distribution. Financial donations aimed at bazaar campaigns, social assistance, sewing workshops, Last Hour Workers, and institutional maintenance are managed in an organized manner. Funds are allocated equitably, covering expenses such as building maintenance and cleaning, electricity, water and sewage, and donation redistribution. The institution prioritizes sustainability and charitable actions, ensuring that each contribution is used responsibly for the well-being of the assisted community.",
+          "poster3": "The Last Hour Workers Group is the extended hand of the Solar de Jesus Spiritist Charity Institution for those in greatest need. Dedicated to providing immediate assistance and care to homeless individuals and people waiting in hospital queues, these volunteers are true angels who act in the most critical moments.",
+          "poster4": "The Social Assistance team of the Solar de Jesus Spiritist Charity Institution is a link of love and solidarity, committed to transforming lives through concrete and welcoming actions. Guided by spiritist principles, our dedicated team works tirelessly to provide comprehensive support to individuals in vulnerable situations, promoting dignity, inclusion, and well-being. We aim not only to meet basic needs but also to inspire hope and foster personal development, working towards building a fairer and more fraternal society. Together, we illuminate paths and cultivate love for others, guided by the light of understanding and compassion.",
+          "poster5": "The Solar de Jesus Spiritist Charity Institution operates a transparent and efficient system for resource distribution. Financial donations aimed at bazaar campaigns, social assistance, sewing workshops, Last Hour Workers, and institutional maintenance are managed in an organized manner. Funds are allocated equitably, covering expenses such as building maintenance and cleaning, electricity, water and sewage, and donation redistribution. The institution prioritizes sustainability and charitable actions, ensuring that each contribution is used responsibly for the well-being of the assisted community.",
+          "poster6": "The Joy Volunteers Group, linked to the Solar de Jesus Spiritist Charity Institution, is a dedicated and passionate team that sews baby layettes for newborns in need. With love and skill, these volunteers transform fabrics into true works of care, providing not only essential items but also a special touch of affection and hope for the benefited families."
+        },
+
+        
+        
+            "contact_us": "Contact Us",
+            "namelabel": "Name",
+            "name": "Enter your name",
+            "emaillabel": "Email",
+            "email": "Enter your email",
+            "phonelabel": "Phone",
+            "phone": "Enter your phone",
+            "messagelabel": "Message",
+            "message": "Enter your message",
+            "send": "Send",
+            "fill_all_fields": "Please fill in all fields",
+            "location": "Our Location",
+
+
+        
+
+            "homenageados.title": "Homenagees",
+            "homenageados.description": "With deep respect and gratitude, we pay a humble tribute to the selfless workers of the Solar de Jesus Spiritist Center who have already departed to the spiritual life. Their lives dedicated to the study and practice of Spiritism left a legacy of love, charity, and enlightenment that will remain as inspiration for all of us. Let us honor their memories by following their noble examples, cultivating fraternity, knowledge of divine laws, and aid to others. May the light of Jesus' Gospel continue to illuminate their paths on the infinite journey of immortal spirits. Our hearts rise in gratitude in prayer for their lives and deeds for the greater cause of humanity's spiritual renewal. May they continue their mission of guidance and support from the higher spiritual spheres.",
+
+
+            
+            "gallery_title": "Photo Gallery - Solar de Jesus"
+              
+              
+  
+  
+        
+        
+          
+          
+      
+      
+  
+          
+      
+  
+              
+}
