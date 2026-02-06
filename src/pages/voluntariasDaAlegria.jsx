@@ -390,7 +390,7 @@ const DonationSection = () => {
           {/* PIX Card */}
           <div className="bg-white text-gray-900 p-8 rounded-2xl shadow-2xl transform hover:scale-105 transition-transform">
             <div className="flex items-center justify-center gap-2 mb-4">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo%E2%80%94pix_powered_by_Banco_Central_%28Brazil%2C_2020%29.svg" alt="Pix" className="h-8" />
+              <img src="/public/pix.png" alt="Pix" className="h-8" />
             </div>
             <p className="text-sm text-gray-500 mb-2">Chave CNPJ</p>
             <div className="bg-gray-100 p-3 rounded-lg flex items-center justify-between mb-4 border border-gray-200">
