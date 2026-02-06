@@ -21,6 +21,7 @@ import Pagina2 from './pages/Pagina2'
 import Pagina3 from './pages/Pagina3'
 import Pagina4 from './pages/Pagina4'
 import Comprovante from './pages/Comprovante'
+import VoluntariasDaAlegria from './pages/voluntariasDaAlegria'
 
 
 function App() {
@@ -50,6 +51,7 @@ function App() {
      <Route path='/pagina2' element={<Pagina2/>}/>
      <Route path='/pagina3' element={<Pagina3/>}/>
      <Route path='/pagina4' element={<Pagina4/>}/>
+<Route path='/voluntariasDaAlegria' element={<VoluntariasDaAlegria/>}/>
      {/* <Route path='/pagina5' element={<Pagina5/>}/> */}
      <Route path='/comprovante' element={<Comprovante/>}/>
      <Route path='*' element={<h1>Not Found</h1>}/>
