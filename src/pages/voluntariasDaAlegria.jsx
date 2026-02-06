@@ -9,7 +9,12 @@ import {
 } from 'recharts';
 import { motion, AnimatePresence } from 'framer-motion';
 
-      
+// IMPORTS DE IMAGENS - Arquivos confirmados em src/assets/
+//import Voluntários from '../assets/voluntarios-alegria.png';
+//import Logo_SolardeJesus from '../assets/logo-solar-jesus.png';
+//import maquina_costura from '../assets/maquina-costura.png';
+//import pixImage from '../assets/pix.png';
+//import voluntarias from '../assets/voluntarias.png';      
      
 
 
@@ -94,7 +99,7 @@ const Navbar = () => {
           <div className="flex-shrink-0 flex items-center gap-2 cursor-pointer" onClick={() => window.scrollTo(0,0)}>
             <div className=" p-2 rounded-full">
                    <img 
-                   src="src/assets/Voluntários da Alegria.png" 
+                   src= "/images/voluntarios-alegria.png"
                    alt="Voluntários trabalhando" 
                    className="w-full h-full object-cover"
                    />
@@ -187,7 +192,7 @@ const Hero = () => (
       >
        <span className="inline-flex items-center gap-2 py-1 px-3 rounded-full bg-amber-500/20 border border-amber-500 text-amber-400 text-sm font-semibold mb-6 backdrop-blur-sm">
   <img 
-    src="src/assets/Logo - Solar de Jesus - Copia.png" 
+    src= "/images/logo-solar-jesus.png"
     alt="Logo" 
     className="w-14 h-13 object-contain"
   />
@@ -200,8 +205,8 @@ const Hero = () => (
 </a>
 </span>
 <img 
-    src="src/assets/maquina_costura.png" 
-    alt="Logo" 
+    src="/images/maquina-costura.png" 
+    alt="maquina-costura" 
     className="w-25 h-20 object-contain"
   />
         <h1 className="text-4xl md:text-6xl lg:text-2xl font-bold text-white mb-6 leading-tight">
@@ -390,7 +395,7 @@ const DonationSection = () => {
           {/* PIX Card */}
           <div className="bg-white text-gray-900 p-8 rounded-2xl shadow-2xl transform hover:scale-105 transition-transform">
             <div className="flex items-center justify-center gap-2 mb-4">
-              <img src="src/assets/pix.png" alt="Pix" className="h-8" />
+              <img src="/images/pix.png" alt="Pix" className="h-8"/>
             </div>
             <p className="text-sm text-gray-500 mb-2">Chave CNPJ</p>
             <div className="bg-gray-100 p-3 rounded-lg flex items-center justify-between mb-4 border border-gray-200">
@@ -535,7 +540,7 @@ function VoluntariasDaAlegria() {
             />*/}
 
              <img 
-              src="src/assets/ChatGPT _voluntarias.png" 
+              src="images/voluntarias.png"
               alt="Mãos unidas" 
               className="rounded-2xl shadow-2xl rotate-2 hover:rotate-0 transition-all duration-500"
             />

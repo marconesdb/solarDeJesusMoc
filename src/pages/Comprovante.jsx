@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
-import Pix from '../public/Pix.png';
+//import Pix from '../public/Pix.png';
 import { FaWhatsapp } from 'react-icons/fa';
 
 const Form_Vendas = () => {
