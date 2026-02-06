@@ -94,7 +94,7 @@ const Navbar = () => {
           <div className="flex-shrink-0 flex items-center gap-2 cursor-pointer" onClick={() => window.scrollTo(0,0)}>
             <div className=" p-2 rounded-full">
                    <img 
-                   src="/public/Voluntários da Alegria.png" 
+                   src="src/assets/Voluntários da Alegria.png" 
                    alt="Voluntários trabalhando" 
                    className="w-full h-full object-cover"
                    />
@@ -187,7 +187,7 @@ const Hero = () => (
       >
        <span className="inline-flex items-center gap-2 py-1 px-3 rounded-full bg-amber-500/20 border border-amber-500 text-amber-400 text-sm font-semibold mb-6 backdrop-blur-sm">
   <img 
-    src="/public/Logo - Solar de Jesus - Copia.png" 
+    src="src/assets/Logo - Solar de Jesus - Copia.png" 
     alt="Logo" 
     className="w-14 h-13 object-contain"
   />
@@ -200,7 +200,7 @@ const Hero = () => (
 </a>
 </span>
 <img 
-    src="/public/maquina_costura.png" 
+    src="src/assets/maquina_costura.png" 
     alt="Logo" 
     className="w-25 h-20 object-contain"
   />
@@ -390,7 +390,7 @@ const DonationSection = () => {
           {/* PIX Card */}
           <div className="bg-white text-gray-900 p-8 rounded-2xl shadow-2xl transform hover:scale-105 transition-transform">
             <div className="flex items-center justify-center gap-2 mb-4">
-              <img src="/public/pix.png" alt="Pix" className="h-8" />
+              <img src="src/assets/pix.png" alt="Pix" className="h-8" />
             </div>
             <p className="text-sm text-gray-500 mb-2">Chave CNPJ</p>
             <div className="bg-gray-100 p-3 rounded-lg flex items-center justify-between mb-4 border border-gray-200">
@@ -511,7 +511,7 @@ const Footer = () => (
       </div>
 
       <div className="border-t border-slate-800 mt-12 pt-8 text-center text-xs text-slate-500">
-        <p>&copy; 2024 Grupo Voluntários da Alegria. Todos os direitos reservados.</p>
+        <p>&copy; 2026 Solar de Jesus. Todos os direitos reservados.</p>
         <p className="mt-2">Desenvolvido com ❤️ para a caridade.</p>
       </div>
     </div>
@@ -535,7 +535,7 @@ function VoluntariasDaAlegria() {
             />*/}
 
              <img 
-              src="/public/ChatGPT _voluntarias.png" 
+              src="src/assets/ChatGPT _voluntarias.png" 
               alt="Mãos unidas" 
               className="rounded-2xl shadow-2xl rotate-2 hover:rotate-0 transition-all duration-500"
             />
