@@ -166,7 +166,7 @@ const Navbar = () => {
 };
 
 const Hero = () => (
-  <section className="relative h-[90vh] flex items-center mt-20 justify-center overflow-hidden">
+  <section className="relative h-[90vh] flex items-center pt-20 justify-center overflow-hidden">
     {/* Background Image Overlay */}
     <div className="absolute inset-0 bg-[rgb(38,38,38)] z-10"></div>
     <div className="absolute inset-0 z-0">
