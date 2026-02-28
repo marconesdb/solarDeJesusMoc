@@ -1,10 +1,8 @@
-import React from 'react';
+// main.jsx
+import { HelmetProvider } from 'react-helmet-async';
 
-export default function Main() {
-  return (
-    <div>
-     Main
-
-    </div>
-  )
-}
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <HelmetProvider>   {/* ← adicione aqui */}
+    <App />
+  </HelmetProvider>
+);

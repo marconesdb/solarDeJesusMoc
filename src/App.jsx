@@ -1,4 +1,5 @@
-import { BrowserRouter, Route, Routes} from 'react-router-dom'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { HelmetProvider } from 'react-helmet-async'   // ← adicione este import
 import Home from './pages/home/Home'
 import Doacoes from './pages/doacoes/Doacoes'
 import Contato from './pages/contato/Contato'
@@ -23,40 +24,39 @@ import Pagina4 from './pages/Pagina4'
 import Comprovante from './pages/Comprovante'
 import VoluntariasDaAlegria from './pages/voluntariasDaAlegria'
 
-
 function App() {
- 
-  
   return (
-   <BrowserRouter>
-   <Routes>
-     <Route path='/' element={<Home/>}/>
-     <Route path='/quemsomos' element={<QuemSomos/>}/>
-     <Route path='/galeria' element={<Galeria/>}/>
-     <Route path='/nossosmomentos' element={<NossosMomentos/>}/>
-     <Route path='/nossostrabalhos' element={<NossosTrabalhos/>}/>
-     <Route path='/homenageados' element={<Homenageados/>}/>
-     <Route path='/nossahistoria' element={<NossaHistoria/>}/>
-     <Route path='/doutrinaespirita' element={<DoutrinaEspirita/>}/>
-     <Route path='/obrasbasicas' element={<ObrasBasicas/>}/>
-     <Route path='/downloadpalestras' element={<DownloadPalestras/>}/>
-     <Route path='/artigosespiritas' element={<ArtigosEspiritas/>}/>
-     <Route path='/caridade' element={<Caridade/>}/>
-     <Route path='/coragem' element={<Coragem/>}/>
-     <Route path='/oracoes' element={<Oracoes/>}/>
-     <Route path='/transmissao' element={<Transmissao/>}/>
-     <Route path='/doacoes' element={<Doacoes/>}/>
-     <Route path='/contato' element={<Contato/>}/>
-     <Route path='/venda' element={<Venda/>}/>
-     <Route path='/pagina2' element={<Pagina2/>}/>
-     <Route path='/pagina3' element={<Pagina3/>}/>
-     <Route path='/pagina4' element={<Pagina4/>}/>
-<Route path='/voluntariasDaAlegria' element={<VoluntariasDaAlegria/>}/>
-     {/* <Route path='/pagina5' element={<Pagina5/>}/> */}
-     <Route path='/comprovante' element={<Comprovante/>}/>
-     <Route path='*' element={<h1>Not Found</h1>}/>
-   </Routes>
-   </BrowserRouter>
+    <HelmetProvider>          {/* ← envolva tudo com HelmetProvider */}
+      <BrowserRouter>
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/quemsomos' element={<QuemSomos />} />
+          <Route path='/galeria' element={<Galeria />} />
+          <Route path='/nossosmomentos' element={<NossosMomentos />} />
+          <Route path='/nossostrabalhos' element={<NossosTrabalhos />} />
+          <Route path='/homenageados' element={<Homenageados />} />
+          <Route path='/nossahistoria' element={<NossaHistoria />} />
+          <Route path='/doutrinaespirita' element={<DoutrinaEspirita />} />
+          <Route path='/obrasbasicas' element={<ObrasBasicas />} />
+          <Route path='/downloadpalestras' element={<DownloadPalestras />} />
+          <Route path='/artigosespiritas' element={<ArtigosEspiritas />} />
+          <Route path='/caridade' element={<Caridade />} />
+          <Route path='/coragem' element={<Coragem />} />
+          <Route path='/oracoes' element={<Oracoes />} />
+          <Route path='/transmissao' element={<Transmissao />} />
+          <Route path='/doacoes' element={<Doacoes />} />
+          <Route path='/contato' element={<Contato />} />
+          <Route path='/venda' element={<Venda />} />
+          <Route path='/pagina2' element={<Pagina2 />} />
+          <Route path='/pagina3' element={<Pagina3 />} />
+          <Route path='/pagina4' element={<Pagina4 />} />
+          <Route path='/voluntariasDaAlegria' element={<VoluntariasDaAlegria />} />
+          {/* <Route path='/pagina5' element={<Pagina5/>}/> */}
+          <Route path='/comprovante' element={<Comprovante />} />
+          <Route path='*' element={<h1>Not Found</h1>} />
+        </Routes>
+      </BrowserRouter>
+    </HelmetProvider>         // ← fecha aqui
   )
 }
 

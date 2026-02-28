@@ -1,3 +1,13 @@
+
+import { Helmet } from 'react-helmet-async';
+
+// dentro do componente:
+<Helmet>
+  <title>Artigos Espíritas | Solar de Jesus</title>
+  <meta name="description" content="Página dedicada a publicação de artigos espíritas." />
+</Helmet>
+
+
 import Navbar from '../../Navbar';
 import Footer from '../../Footer';
 import { Link } from 'react-router-dom';

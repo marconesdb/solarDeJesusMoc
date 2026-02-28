@@ -1,4 +1,13 @@
 
+import { Helmet } from 'react-helmet-async';
+
+// dentro do componente:
+<Helmet>
+  <title>Download de Palestras | Solar de Jesus</title>
+  <meta name="description" content="Página dedicada a exibir download de Palestras." />
+</Helmet>
+
+
 import Navbar from '../../Navbar';
 import Footer from '../../Footer';
 import palestra1 from '../DoutrinaEspirita/Download de Palestras/A Consciência da Gratidão.png'

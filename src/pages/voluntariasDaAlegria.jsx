@@ -1,3 +1,14 @@
+
+import { Helmet } from 'react-helmet-async';
+
+// dentro do componente:
+<Helmet>
+  <title>Voluntarias da Alegria | Solar de Jesus</title>
+  <meta name="description" content="Página dedicada a mostrar o trabalho do grupo Voluntárias da Alegria." />
+</Helmet>
+
+
+
 import React, { useState, useEffect } from 'react';
 import { 
   Heart, Users, Sun, Calendar, DollarSign, Menu, X, 
@@ -549,7 +560,7 @@ function VoluntariasDaAlegria() {
             <h2 className="text-sm font-bold text-amber-500 uppercase tracking-wider mb-2">Quem Somos</h2>
             <h3 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Amor em movimento, caridade em ação.</h3>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              Fundado nos princípios da Doutrina Espírita, o Grupo Voluntários da Alegria nasceu do desejo sincero de servir. 
+              Fundado nos princípios da Doutrina Espírita, o Grupo Voluntários da Alegria nasceu do desejo sincero de servir e faz parte da Instituição Espírita de Caridade Solar de Jesus.
               Acreditamos que a caridade não é apenas dar o que sobra, mas compartilhar o que temos de melhor: nosso tempo, nosso amor e nossa dedicação.
             </p>
             <ul className="space-y-3 mb-8">

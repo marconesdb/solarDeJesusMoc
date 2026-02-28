@@ -4,6 +4,7 @@ import en from '../locales/en/translation.json';
 import es from '../locales/es/translation.json';
 import fr from '../locales/fr/translation.json';
 import pt from '../locales/pt/translation.json';
+import it from '../locales/it/translation.json';
 
 // Inicializando o i18next
 i18n
@@ -14,6 +15,8 @@ i18n
       es: { translation: es },
       fr: { translation: fr },
       pt: { translation: pt },
+      it: { translation: it },
+      
     },
     lng: 'pt', // Idioma padrão
     fallbackLng: 'pt', // Idioma de fallback

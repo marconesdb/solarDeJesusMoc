@@ -19,7 +19,8 @@
     "english": "English",
     "french": "French",
     "spanish": "Spanish",
-    "portuguese": "Portuguese"
+    "portuguese": "Portuguese",
+    "italian": "Italian"
   
 },
     "quotes": {
@@ -247,7 +248,8 @@
           "title": "God, Christ, and Charity",
           "quote": "My children, in the maxim: Outside of charity there is no salvation, the destinies of men are enclosed, on Earth and in heaven; on Earth, because under this banner they will live in peace; in heaven, because those who have practiced it will find grace before the Lord...",
           "reference": "CH 15, Item 10 - Gospel According to Spiritism",
-          "author": "Allan Kardec"
+          "author": "Allan Kardec",
+          "videoNotSupported": "Seu navegador não suporta vídeo HTML5."
         },
 
     "banner": {

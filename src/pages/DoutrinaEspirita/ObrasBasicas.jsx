@@ -1,3 +1,12 @@
+
+import { Helmet } from 'react-helmet-async';
+
+// dentro do componente:
+<Helmet>
+  <title>Voluntarias da Alegria | Solar de Jesus</title>
+  <meta name="description" content="Página dedicada a mostrar as obras básicas do Espiritismo." />
+</Helmet>
+
 import Navbar from '../../Navbar';
 import Footer from '../../Footer';
 import Evangelho1 from '../DoutrinaEspirita/ObrasBasicas/O Evangelho Segundo o Espiritismo/O Evangelho Segundo o Espiritismo -Espanhol.png'

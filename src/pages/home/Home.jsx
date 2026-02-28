@@ -1,6 +1,20 @@
+
+import { Helmet } from 'react-helmet-async';
+
+// dentro do componente:
+<Helmet>
+  <title>Início | Solar de Jesus</title>
+  <meta name="description" content="Página inicial do site." />
+</Helmet>
+
+
+
 import Navbar from '../../Navbar';
 import Footer from '../../Footer';
-import SemanaEspirita from '../home/semanaEspirita';
+
+import SemanaEspirita from "../home/semana-espirita/semanaEspirita";
+
+
 import myImage from '../home/img-home/DSCN9271.jpg';
 import Banner from '../home/Banner';
 import Carousel from './Carousel';

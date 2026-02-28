@@ -1,3 +1,11 @@
+import { Helmet } from 'react-helmet-async';
+
+// dentro do componente:
+<Helmet>
+  <title>Menu de Navegação | Solar de Jesus </title>
+  <meta name="description" content="Menu de navegação do site" />
+</Helmet>
+
 import { useState } from 'react'; 
 import { Link } from 'react-router-dom';
 import { Menu } from '@headlessui/react';
@@ -270,6 +278,18 @@ const Navbar = () => {
                     </button> 
                     )}
                   </Menu.Item>
+
+                  <Menu.Item>
+                    {({ active }) => (
+                     
+                  <button
+                    onClick={() => changeLanguage('it')}  // ✅ correto: chama 'it'
+                    className={`${active ? 'bg-gray-100' : ''} block w-full text-left px-4 py-2 text-sm`}
+                  >
+                    {t('navbar.italian')}  {/* ✅ use a chave correta */}
+                  </button>
+                    )}
+                  </Menu.Item>
                 </div>
               </Menu.Items>
             </Menu>
@@ -482,6 +502,17 @@ const Navbar = () => {
                       >
                         {t('navbar.portuguese')}
                       </button>
+                      )}
+                    </Menu.Item>
+                     <Menu.Item>
+                      {({ active }) => (
+                      
+                    <button
+                      onClick={() => changeLanguage('it')}  // ✅ correto: chama 'it'
+                      className={`${active ? 'bg-gray-100' : ''} block w-full text-left px-4 py-2 text-sm`}
+                    >
+                      {t('navbar.italian')}  {/* ✅ use a chave correta */}
+                    </button>
                       )}
                     </Menu.Item>
                   </div>

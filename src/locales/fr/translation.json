@@ -19,7 +19,8 @@
     "english": "Anglais",
     "french": "Français",
     "spanish": "Espagnol",
-    "portuguese": "Portugais"
+    "portuguese": "Portugais",
+    "italian": "Italien"
   
 },
 
@@ -250,7 +251,8 @@
       "title": "Dieu, Christ et Charité",
       "quote": "Mes enfants, dans la maxime : Hors de la charité, point de salut, sont enfermés les destins des hommes, sur Terre et au ciel ; sur Terre, car sous cet étendard ils vivront en paix ; au ciel, car ceux qui l'auront pratiquée trouveront grâce auprès du Seigneur...",
       "reference": "CHAP 15, Article 10 - L'Évangile Selon le Spiritisme",
-      "author": "Allan Kardec"
+      "author": "Allan Kardec",
+      "videoNotSupported": "Seu navegador não suporta vídeo HTML5."
     },
 
     "banner": {

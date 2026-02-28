@@ -20,7 +20,8 @@
     "english": "Inglés",
     "french": "Francés",
     "spanish": "Español",
-    "portuguese": "Portugués"
+    "portuguese": "Portugués",
+    "italian": "Italiano"
   
 },
 
@@ -251,7 +252,8 @@
         "title": "Dios, Cristo y Caridad",
         "quote": "Hijos míos, en la máxima: Fuera de la caridad no hay salvación, están encerrados los destinos de los hombres, en la Tierra y en el cielo; en la Tierra, porque bajo este estandarte vivirán en paz; en el cielo, porque quienes la hayan practicado encontrarán gracia ante el Señor...",
         "reference": "CAP 15, Ítem 10 - El Evangelio Según el Espiritismo",
-        "author": "Allan Kardec"
+        "author": "Allan Kardec",
+        "videoNotSupported": "Seu navegador não suporta vídeo HTML5."
       },
 
 

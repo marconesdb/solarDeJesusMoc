@@ -14,7 +14,7 @@ import img10 from '../../public/Cartaz-08.png';
 import img11 from '../../public/Instagram.png';
 import img12 from '../../public/Instituicao.png';
 // import img13 from '../../public/Aniversário.png';
-import img14 from '../../public/Natal2025.png';
+//import img14 from '../../public/Natal2025.png';
 //import img15 from '../../public/Pergaminho-02.png';
 
 
@@ -39,7 +39,7 @@ const ImageCarousel = () => {
     { id: 11, imageUrl: img11 },
     { id: 8, imageUrl: img8},
     { id: 12, imageUrl: img12 },
-    { id: 14, imageUrl: img14 },
+    //{ id: 14, imageUrl: img14 },
     //{ id: 15, imageUrl: img15 },
    
    
