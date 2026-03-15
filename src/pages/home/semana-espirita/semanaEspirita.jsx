@@ -21,7 +21,7 @@ const SemanaEspirita = () => {
   return (
     <>
       <Helmet>
-        <title>Semana Espírita | Solar de Jesus</title>
+        <title>Solar de Jesus</title>
         <meta name="description" content="Página dedicada a mostrar a Semana Espírita." />
       </Helmet>
 
